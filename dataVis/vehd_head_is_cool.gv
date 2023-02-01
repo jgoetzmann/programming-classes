@@ -1,0 +1,15 @@
+graph vehd_head_is_cool {
+	root [label=start]
+	"1W" [label="9/10"]
+	"1L" [label="1/10"]
+	"2W" [label="8/9"]
+	"2L" [label="1/9"]
+	"3W" [label="7/8"]
+	"3L" [label="1/8"]
+	start -- "9/10"
+	start -- "1/10"
+	"9/10" -- "8/9"
+	"9/10" -- "1/9"
+	"8/9" -- "7/8"
+	"8/9" -- "1/8"
+}

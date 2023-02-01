@@ -1,0 +1,3220 @@
+state_name,county_name,fips_code,report_date,cases_per_100K_7_day_count_change,percent_test_results_reported_positive_last_7_days,community_transmission_level
+Idaho,Bannock County,16005,2021/08/18,181.080,15.11,high
+Iowa,Monona County,19133,2021/08/18,suppressed,2.27,substantial
+Texas,Burleson County,48051,2021/08/18,374.130,23.33,high
+Texas,Concho County,48095,2021/08/18,"2,311.080",66.67,high
+Puerto Rico,Sabana Grande Muno,72121,2021/08/18,69.090,20.63,high
+Maryland,Anne Arundel County,24003,2021/08/18,89.430,4.64,substantial
+Mississippi,Montgomery County,28097,2021/08/18,634.270,19.43,high
+Tennessee,Davidson County,47037,2021/08/18,345.610,13.89,high
+Virginia,Goochland County,51075,2021/08/18,147.350,3.84,high
+Louisiana,Sabine Parish,22085,2021/08/18,556.860,12.85,high
+North Dakota,Rolette County,38079,2021/08/18,112.870,8.00,high
+Utah,Washington County,49053,2021/08/18,0.000,20.76,high
+Alabama,Houston County,01069,2021/08/18,578.950,37.22,high
+California,Placer County,06061,2021/08/18,271.630,9.70,high
+Minnesota,Jackson County,27063,2021/08/18,233.600,16.53,high
+Ohio,Hardin County,39065,2021/08/18,108.400,10.45,high
+Alabama,Clarke County,01025,2021/08/18,393.700,22.69,high
+Missouri,Shannon County,29203,2021/08/18,306.150,20.19,high
+North Carolina,Wilson County,37195,2021/08/18,233.490,9.84,high
+Oregon,Umatilla County,41059,2021/08/18,658.110,19.44,high
+Texas,Wheeler County,48483,2021/08/18,197.780,33.33,high
+Virginia,Louisa County,51109,2021/08/18,103.750,5.07,high
+California,Del Norte County,06015,2021/08/18,"1,182.940",,high
+Florida,Washington County,12133,2021/08/18,734.110,31.27,high
+Illinois,McDonough County,17109,2021/08/18,151.610,7.51,high
+Kansas,Edwards County,20047,2021/08/18,suppressed,20.00,high
+Kansas,Meade County,20119,2021/08/18,297.550,30.00,high
+New York,Nassau County,36059,2021/08/18,194.040,4.58,high
+Vermont,Chittenden County,50007,2021/08/18,180.740,3.51,high
+Virginia,Rappahannock County,51157,2021/08/18,176.390,7.46,high
+Washington,Kittitas County,53037,2021/08/18,210.700,8.96,high
+Georgia,Spalding County,13255,2021/08/18,425.770,21.21,high
+Maryland,Kent County,24029,2021/08/18,144.170,6.27,high
+Pennsylvania,Montour County,42093,2021/08/18,suppressed,4.12,moderate
+Washington,Garfield County,53023,2021/08/18,suppressed,,high
+North Carolina,Chowan County,37041,2021/08/18,337.090,16.72,high
+Utah,Wayne County,49055,2021/08/18,suppressed,4.35,high
+Georgia,Schley County,13249,2021/08/18,570.670,23.40,high
+Mississippi,Jefferson County,28063,2021/08/18,615.160,21.25,high
+Missouri,Stoddard County,29207,2021/08/18,616.710,22.66,high
+North Carolina,Avery County,37011,2021/08/18,131.000,6.18,high
+Alaska,Prince of Wales-Hyder CA,02198,2021/08/18,274.060,6.93,high
+Connecticut,New Haven County,09009,2021/08/18,141.560,3.42,high
+Iowa,Ringgold County,19159,2021/08/18,0.000,17.07,high
+Kentucky,Wolfe County,21237,2021/08/18,670.670,22.70,high
+Louisiana,St. James Parish,22093,2021/08/18,639.930,16.16,high
+Minnesota,Chippewa County,27023,2021/08/18,245.760,10.96,high
+Minnesota,Martin County,27091,2021/08/18,116.850,6.43,high
+Missouri,Knox County,29103,2021/08/18,454.660,22.92,high
+Florida,Union County,12125,2021/08/18,"1,023.820",31.30,high
+Hawaii,Hawaii County,15001,2021/08/18,395.510,7.86,high
+Texas,Leon County,48289,2021/08/18,333.260,18.10,high
+Alaska,Juneau Cty&Bor,02110,2021/08/18,440.980,7.05,high
+Georgia,Harris County,13145,2021/08/18,320.690,24.26,high
+Idaho,Jefferson County,16051,2021/08/18,123.870,20.47,high
+Mississippi,Tate County,28137,2021/08/18,225.980,15.46,high
+Ohio,Guernsey County,39059,2021/08/18,159.490,7.98,high
+Texas,Angelina County,48005,2021/08/18,528.170,26.81,high
+Utah,Wasatch County,49051,2021/08/18,205.330,13.68,high
+Alabama,Tallapoosa County,01123,2021/08/18,658.950,15.14,high
+Kansas,Finney County,20055,2021/08/18,268.740,25.40,high
+Texas,Castro County,48069,2021/08/18,199.200,22.73,high
+Florida,Citrus County,12017,2021/08/18,644.140,24.94,high
+Montana,Wibaux County,30109,2021/08/18,0.000,,low
+New Mexico,Colfax County,35007,2021/08/18,200.990,9.00,high
+Pennsylvania,Tioga County,42117,2021/08/18,54.200,5.53,substantial
+Arkansas,Fulton County,05049,2021/08/18,384.710,8.95,high
+Colorado,Jackson County,08057,2021/08/18,0.000,,low
+Hawaii,Kalawao County,15005,2021/08/18,0.000,,low
+Kentucky,Boyle County,21021,2021/08/18,329.340,7.63,high
+Oklahoma,Coal County,40029,2021/08/18,837.120,30.77,high
+Texas,Edwards County,48137,2021/08/18,suppressed,,high
+Texas,Zavala County,48507,2021/08/18,447.640,28.41,high
+Massachusetts,Franklin County,25011,2021/08/18,74.100,1.69,substantial
+Michigan,Iron County,26071,2021/08/18,suppressed,6.06,moderate
+Montana,Silver Bow County,30093,2021/08/18,183.300,4.25,high
+Oklahoma,Sequoyah County,40135,2021/08/18,671.170,32.04,high
+Colorado,Rio Blanco County,08103,2021/08/18,173.940,5.33,high
+Illinois,Marion County,17121,2021/08/18,663.890,12.99,high
+Iowa,Butler County,19023,2021/08/18,256.250,13.50,high
+Kentucky,Garrard County,21079,2021/08/18,401.900,13.52,high
+Michigan,Delta County,26041,2021/08/18,259.890,14.38,high
+Michigan,Osceola County,26133,2021/08/18,55.410,6.50,substantial
+New York,Schuyler County,36097,2021/08/18,suppressed,2.39,moderate
+Texas,Stonewall County,48433,2021/08/18,suppressed,,substantial
+Wisconsin,Buffalo County,55011,2021/08/18,161.150,6.56,high
+Wyoming,Sweetwater County,56037,2021/08/18,217.270,16.08,high
+Alabama,Chilton County,01021,2021/08/18,407.400,25.64,high
+Nebraska,Cuming County,31039,2021/08/18,0.000,,low
+Texas,Floyd County,48153,2021/08/18,367.650,14.29,high
+Alabama,Escambia County,01053,2021/08/18,969.070,25.83,high
+Mississippi,Leflore County,28083,2021/08/18,670.620,18.17,high
+New Jersey,Salem County,34033,2021/08/18,195.560,12.28,high
+New York,Washington County,36115,2021/08/18,86.600,2.98,substantial
+Colorado,Lake County,08065,2021/08/18,209.180,15.15,high
+Georgia,Newton County,13217,2021/08/18,489.510,16.73,high
+Illinois,Scott County,17171,2021/08/18,747.320,12.90,high
+Michigan,Chippewa County,26033,2021/08/18,42.840,2.65,moderate
+North Dakota,Bottineau County,38009,2021/08/18,suppressed,1.67,high
+Virginia,Orange County,51137,2021/08/18,202.420,12.65,high
+Alaska,Kodiak Island Borough,02150,2021/08/18,646.250,2.14,high
+Texas,Aransas County,48007,2021/08/18,586.980,35.26,high
+Missouri,Pulaski County,29169,2021/08/18,144.470,11.90,high
+South Dakota,Deuel County,46039,2021/08/18,459.660,41.67,high
+Puerto Rico,Lares Muno,72081,2021/08/18,156.530,14.72,high
+Arkansas,Conway County,05029,2021/08/18,450.930,16.00,high
+Arkansas,Jefferson County,05069,2021/08/18,462.410,10.76,high
+Georgia,Pike County,13231,2021/08/18,574.830,26.67,high
+Maryland,Baltimore County,24005,2021/08/18,93.070,5.13,substantial
+Montana,Carter County,30011,2021/08/18,suppressed,,substantial
+Washington,King County,53033,2021/08/18,209.960,12.81,high
+Kansas,Woodson County,20207,2021/08/18,suppressed,27.27,high
+New Mexico,McKinley County,35031,2021/08/18,186.360,8.79,high
+Texas,Dickens County,48125,2021/08/18,suppressed,,high
+Indiana,Newton County,18111,2021/08/18,suppressed,8.91,substantial
+Michigan,Midland County,26111,2021/08/18,96.200,4.82,substantial
+North Carolina,Orange County,37135,2021/08/18,132.680,3.87,high
+Ohio,Lorain County,39093,2021/08/18,132.010,7.58,high
+West Virginia,Barbour County,54001,2021/08/18,419.680,14.92,high
+Missouri,Perry County,29157,2021/08/18,287.420,22.41,high
+New Jersey,Monmouth County,34025,2021/08/18,180.190,6.92,high
+Texas,Lynn County,48305,2021/08/18,302.470,21.62,high
+Florida,Hillsborough County,12057,2021/08/18,746.010,22.31,high
+Kentucky,Lincoln County,21137,2021/08/18,635.460,14.11,high
+Mississippi,Tishomingo County,28141,2021/08/18,536.550,15.52,high
+New Mexico,Harding County,35021,2021/08/18,0.000,,low
+Tennessee,Clay County,47027,2021/08/18,183.850,6.38,high
+Texas,Jeff Davis County,48243,2021/08/18,0.000,,low
+Wisconsin,Washburn County,55129,2021/08/18,82.700,4.29,substantial
+Hawaii,Maui County,15009,2021/08/18,293.280,6.13,high
+Kansas,Greenwood County,20073,2021/08/18,250.750,43.24,high
+Mississippi,Pontotoc County,28115,2021/08/18,702.430,19.58,high
+Nebraska,Lincoln County,31111,2021/08/18,0.000,20.83,high
+Texas,Hall County,48191,2021/08/18,suppressed,23.08,high
+Kansas,Dickinson County,20041,2021/08/18,287.010,15.79,high
+Kansas,Wyandotte County,20209,2021/08/18,415.280,18.23,high
+Missouri,Wayne County,29223,2021/08/18,334.030,28.97,high
+South Carolina,Abbeville County,45001,2021/08/18,297.630,10.78,high
+Texas,Schleicher County,48413,2021/08/18,suppressed,33.33,high
+Indiana,Jennings County,18079,2021/08/18,389.400,11.77,high
+Louisiana,Bienville Parish,22013,2021/08/18,679.710,8.69,high
+Michigan,Keweenaw County,26083,2021/08/18,0.000,0.00,low
+South Dakota,Roberts County,46109,2021/08/18,144.310,6.45,high
+West Virginia,Mercer County,54055,2021/08/18,231.460,8.86,high
+Georgia,Bartow County,13015,2021/08/18,374.060,16.75,high
+Florida,Okeechobee County,12093,2021/08/18,590.500,19.45,high
+Georgia,Baldwin County,13009,2021/08/18,461.130,26.51,high
+Ohio,Ashtabula County,39007,2021/08/18,76.100,5.97,substantial
+Texas,Cooke County,48097,2021/08/18,312.670,31.37,high
+West Virginia,Berkeley County,54003,2021/08/18,255.930,11.43,high
+Arizona,Mohave County,04015,2021/08/18,369.020,17.88,high
+Kansas,Sheridan County,20179,2021/08/18,suppressed,66.67,high
+Minnesota,Le Sueur County,27079,2021/08/18,159.240,9.47,high
+Arkansas,Phillips County,05107,2021/08/18,742.320,19.02,high
+Mississippi,Leake County,28079,2021/08/18,"1,097.160",23.23,high
+New Jersey,Sussex County,34037,2021/08/18,87.550,5.72,substantial
+South Dakota,Gregory County,46053,2021/08/18,suppressed,18.18,high
+Tennessee,Hancock County,47067,2021/08/18,498.490,17.65,high
+Texas,Brazos County,48041,2021/08/18,188.040,15.16,high
+Indiana,Perry County,18123,2021/08/18,406.910,15.21,high
+Michigan,Antrim County,26009,2021/08/18,124.340,4.85,high
+New Mexico,Chaves County,35005,2021/08/18,558.690,8.18,high
+Nebraska,Knox County,31107,2021/08/18,0.000,0.00,low
+Pennsylvania,Cumberland County,42041,2021/08/18,115.640,7.38,high
+Pennsylvania,Lycoming County,42081,2021/08/18,86.500,7.66,substantial
+Virginia,Amelia County,51007,2021/08/18,136.930,9.45,high
+California,Modoc County,06049,2021/08/18,suppressed,,moderate
+Montana,Flathead County,30029,2021/08/18,338.130,16.23,high
+Ohio,Hocking County,39073,2021/08/18,191.060,6.19,high
+Oklahoma,Ottawa County,40115,2021/08/18,382.300,11.54,high
+Texas,Jones County,48253,2021/08/18,592.540,3.08,high
+Arkansas,Lincoln County,05079,2021/08/18,368.550,12.68,high
+Michigan,Ontonagon County,26131,2021/08/18,174.830,13.33,high
+Minnesota,Pope County,27121,2021/08/18,133.350,11.17,high
+Pennsylvania,Cameron County,42023,2021/08/18,suppressed,2.86,substantial
+Vermont,Franklin County,50011,2021/08/18,121.450,3.99,high
+Arkansas,Pike County,05109,2021/08/18,438.510,10.34,high
+Colorado,Kit Carson County,08063,2021/08/18,225.450,0.00,high
+Illinois,Putnam County,17155,2021/08/18,suppressed,3.03,substantial
+Indiana,Marion County,18097,2021/08/18,247.460,12.18,high
+Maine,Penobscot County,23019,2021/08/18,190.600,6.45,high
+North Carolina,Surry County,37171,2021/08/18,353.840,13.99,high
+North Dakota,Sioux County,38085,2021/08/18,suppressed,2.78,high
+Pennsylvania,Chester County,42029,2021/08/18,115.240,5.38,high
+Tennessee,Unicoi County,47171,2021/08/18,268.410,12.57,high
+Texas,Tom Green County,48451,2021/08/18,584.730,20.16,high
+Vermont,Windsor County,50027,2021/08/18,79.910,4.00,substantial
+Puerto Rico,Corozal Muno,72047,2021/08/18,157.930,12.85,high
+Ohio,Defiance County,39039,2021/08/18,265.180,13.08,high
+Arkansas,Sebastian County,05131,2021/08/18,497.550,13.33,high
+Mississippi,Itawamba County,28057,2021/08/18,842.240,22.96,high
+Iowa,Louisa County,19115,2021/08/18,335.300,12.32,high
+Michigan,Eaton County,26045,2021/08/18,111.550,8.56,high
+South Carolina,Georgetown County,45043,2021/08/18,336.630,14.98,high
+South Dakota,Union County,46127,2021/08/18,295.000,11.90,high
+Virginia,Carroll County,51035,2021/08/18,204.760,26.74,high
+New York,Columbia County,36021,2021/08/18,75.680,3.15,substantial
+Texas,Martin County,48317,2021/08/18,225.260,21.43,high
+Washington,Cowlitz County,53015,2021/08/18,551.570,14.10,high
+Illinois,Fulton County,17057,2021/08/18,206.760,3.40,high
+Nebraska,Cherry County,31031,2021/08/18,0.000,20.00,high
+Ohio,Trumbull County,39155,2021/08/18,137.390,8.79,high
+South Carolina,Saluda County,45081,2021/08/18,253.990,17.90,high
+Utah,Piute County,49031,2021/08/18,suppressed,7.14,substantial
+Tennessee,Dyer County,47045,2021/08/18,514.010,23.91,high
+Arkansas,Nevada County,05099,2021/08/18,448.380,4.53,high
+Kansas,Wabaunsee County,20197,2021/08/18,187.560,13.04,high
+Nebraska,Rock County,31149,2021/08/18,0.000,,low
+Oklahoma,Seminole County,40133,2021/08/18,395.750,15.79,high
+Minnesota,Morrison County,27097,2021/08/18,110.820,6.67,high
+Texas,Matagorda County,48321,2021/08/18,559.450,31.03,high
+Kansas,Sedgwick County,20173,2021/08/18,264.320,10.69,high
+Michigan,Oceana County,26127,2021/08/18,75.570,4.98,substantial
+Minnesota,Polk County,27119,2021/08/18,95.650,2.15,substantial
+Mississippi,Lee County,28081,2021/08/18,732.710,28.54,high
+New Mexico,Sierra County,35051,2021/08/18,157.540,2.42,high
+Oklahoma,Wagoner County,40145,2021/08/18,532.670,24.54,high
+Rhode Island,Newport County,44005,2021/08/18,168.120,3.38,high
+California,Mono County,06051,2021/08/18,166.160,,high
+Illinois,Williamson County,17199,2021/08/18,654.680,11.06,high
+Oklahoma,Woods County,40151,2021/08/18,295.690,35.71,high
+Oregon,Douglas County,41019,2021/08/18,956.930,17.94,high
+South Dakota,Butte County,46019,2021/08/18,210.950,10.00,high
+South Dakota,Hyde County,46069,2021/08/18,0.000,,low
+Vermont,Windham County,50025,2021/08/18,92.370,3.71,substantial
+Arkansas,Franklin County,05047,2021/08/18,649.170,18.50,high
+Illinois,Logan County,17107,2021/08/18,349.430,5.62,high
+Oklahoma,Dewey County,40043,2021/08/18,286.240,7.69,high
+Tennessee,Tipton County,47167,2021/08/18,534.100,19.12,high
+Washington,Pierce County,53053,2021/08/18,342.440,15.73,high
+Michigan,Kalamazoo County,26077,2021/08/18,144.490,10.49,high
+South Dakota,Stanley County,46117,2021/08/18,suppressed,25.00,high
+Tennessee,Sevier County,47155,2021/08/18,472.260,25.90,high
+Tennessee,Warren County,47177,2021/08/18,317.370,18.30,high
+Virginia,Shenandoah County,51171,2021/08/18,229.270,10.11,high
+Colorado,Cheyenne County,08017,2021/08/18,suppressed,15.38,high
+Florida,Lafayette County,12067,2021/08/18,890.520,19.64,high
+Georgia,Wheeler County,13309,2021/08/18,458.310,44.44,high
+South Dakota,Oglala Lakota County,46102,2021/08/18,77.590,,substantial
+Alabama,Morgan County,01103,2021/08/18,378.510,17.90,high
+Arkansas,Lawrence County,05075,2021/08/18,469.340,4.18,high
+Missouri,Webster County,29225,2021/08/18,245.000,10.86,high
+Tennessee,Hickman County,47081,2021/08/18,567.960,24.21,high
+Tennessee,Morgan County,47129,2021/08/18,289.680,18.26,high
+Texas,Gaines County,48165,2021/08/18,223.340,13.16,high
+Texas,Montgomery County,48339,2021/08/18,487.660,22.11,high
+Texas,Wood County,48499,2021/08/18,619.250,27.41,high
+Indiana,Tipton County,18159,2021/08/18,257.460,18.56,high
+Kansas,Bourbon County,20011,2021/08/18,626.120,37.42,high
+Montana,Sweet Grass County,30097,2021/08/18,suppressed,7.79,substantial
+Georgia,Bulloch County,13031,2021/08/18,896.890,25.96,high
+Missouri,Scotland County,29199,2021/08/18,suppressed,0.00,moderate
+New York,Putnam County,36079,2021/08/18,157.650,4.88,high
+North Dakota,Towner County,38095,2021/08/18,suppressed,7.14,high
+Virginia,Botetourt County,51023,2021/08/18,152.610,12.72,high
+Indiana,Wayne County,18177,2021/08/18,299.010,6.25,high
+Ohio,Logan County,39091,2021/08/18,232.090,10.71,high
+Texas,Fayette County,48149,2021/08/18,252.510,15.70,high
+Colorado,San Juan County,08111,2021/08/18,"2,197.800",11.11,high
+Florida,Sumter County,12119,2021/08/18,339.830,16.84,high
+Kansas,Phillips County,20147,2021/08/18,suppressed,22.22,high
+Minnesota,St. Louis County,27137,2021/08/18,94.440,5.32,substantial
+Mississippi,Claiborne County,28021,2021/08/18,645.300,22.88,high
+Missouri,Oregon County,29149,2021/08/18,275.430,21.53,high
+Missouri,Warren County,29219,2021/08/18,319.780,14.09,high
+South Dakota,Yankton County,46135,2021/08/18,56.980,6.94,substantial
+Virginia,Nelson County,51125,2021/08/18,180.840,7.45,high
+Virginia,Colonial Heights City,51570,2021/08/18,368.450,11.57,high
+Michigan,Missaukee County,26113,2021/08/18,suppressed,4.82,substantial
+Virginia,Patrick County,51141,2021/08/18,193.090,18.02,high
+Puerto Rico,Lajas Muno,72079,2021/08/18,63.610,20.51,high
+Iowa,Davis County,19051,2021/08/18,suppressed,4.91,substantial
+Louisiana,Madison Parish,22065,2021/08/18,392.660,7.88,high
+Missouri,Carroll County,29033,2021/08/18,253.490,15.66,high
+New York,Cattaraugus County,36009,2021/08/18,81.450,6.21,substantial
+Ohio,Lake County,39085,2021/08/18,133.830,7.11,high
+Texas,Nolan County,48353,2021/08/18,373.790,54.00,high
+Kansas,Ness County,20135,2021/08/18,suppressed,8.70,high
+North Carolina,Graham County,37075,2021/08/18,485.720,12.77,high
+North Carolina,Person County,37145,2021/08/18,308.940,10.69,high
+South Dakota,Spink County,46115,2021/08/18,172.520,45.00,high
+Texas,Zapata County,48505,2021/08/18,317.370,10.71,high
+Montana,Custer County,30017,2021/08/18,131.560,9.80,high
+Nebraska,Webster County,31181,2021/08/18,0.000,,low
+Texas,Franklin County,48159,2021/08/18,428.900,28.57,high
+Georgia,Wilkinson County,13319,2021/08/18,692.430,18.79,high
+Missouri,Vernon County,29217,2021/08/18,423.090,25.36,high
+Iowa,Chickasaw County,19037,2021/08/18,167.600,2.82,high
+Mississippi,Lawrence County,28077,2021/08/18,913.710,20.98,high
+Nebraska,Antelope County,31003,2021/08/18,0.000,,low
+Kansas,Osborne County,20141,2021/08/18,suppressed,18.75,high
+North Dakota,Mountrail County,38061,2021/08/18,199.150,6.25,high
+Oklahoma,Cotton County,40033,2021/08/18,335.330,15.79,high
+Oregon,Tillamook County,41057,2021/08/18,547.420,18.82,high
+Texas,Fannin County,48147,2021/08/18,208.370,8.19,high
+Texas,Harrison County,48203,2021/08/18,567.970,25.11,high
+Puerto Rico,San Sebastián Muno,72131,2021/08/18,180.140,18.21,high
+Kansas,Ellis County,20051,2021/08/18,140.090,7.10,high
+Washington,Whitman County,53075,2021/08/18,155.680,20.14,high
+Kentucky,Larue County,21123,2021/08/18,625.090,18.18,high
+Tennessee,Lake County,47095,2021/08/18,199.540,11.63,high
+Illinois,Will County,17197,2021/08/18,165.180,7.07,high
+Iowa,Wright County,19197,2021/08/18,167.170,18.24,high
+Kentucky,Estill County,21065,2021/08/18,474.980,10.49,high
+Missouri,Moniteau County,29135,2021/08/18,545.500,27.91,high
+Oklahoma,Lincoln County,40081,2021/08/18,324.000,22.08,high
+West Virginia,Braxton County,54007,2021/08/18,179.120,7.17,high
+Georgia,Dougherty County,13095,2021/08/18,524.130,19.68,high
+North Dakota,Williams County,38105,2021/08/18,95.770,5.95,substantial
+Tennessee,Sumner County,47165,2021/08/18,472.080,19.16,high
+Texas,Palo Pinto County,48363,2021/08/18,489.910,35.50,high
+Kansas,Seward County,20175,2021/08/18,182.000,10.00,high
+Kentucky,Bourbon County,21017,2021/08/18,338.590,8.26,high
+Minnesota,Mower County,27099,2021/08/18,294.540,12.63,high
+Montana,Madison County,30057,2021/08/18,suppressed,13.04,high
+North Dakota,Logan County,38047,2021/08/18,suppressed,0.00,high
+South Dakota,Corson County,46031,2021/08/18,269.210,33.33,high
+Virginia,Campbell County,51031,2021/08/18,231.390,32.89,high
+West Virginia,Preston County,54077,2021/08/18,128.620,7.02,high
+Georgia,Oconee County,13219,2021/08/18,342.600,13.61,high
+Kansas,Montgomery County,20125,2021/08/18,515.250,11.44,high
+Maine,Aroostook County,23003,2021/08/18,111.850,4.49,high
+Nebraska,Hooker County,31091,2021/08/18,0.000,,low
+Texas,Chambers County,48071,2021/08/18,385.520,21.33,high
+Wyoming,Hot Springs County,56017,2021/08/18,226.600,16.36,high
+Alabama,Chambers County,01017,2021/08/18,514.220,18.27,high
+Montana,Musselshell County,30065,2021/08/18,suppressed,12.28,high
+West Virginia,Wetzel County,54103,2021/08/18,557.580,20.00,high
+Colorado,Garfield County,08045,2021/08/18,108.220,3.21,high
+Missouri,McDonald County,29119,2021/08/18,253.970,12.78,high
+Wyoming,Carbon County,56007,2021/08/18,527.030,3.87,high
+Georgia,Muscogee County,13215,2021/08/18,389.750,25.80,high
+Indiana,Pulaski County,18131,2021/08/18,161.900,21.35,high
+Louisiana,Evangeline Parish,22039,2021/08/18,721.660,12.70,high
+Michigan,Houghton County,26061,2021/08/18,112.100,8.65,high
+Missouri,Crawford County,29055,2021/08/18,263.380,11.47,high
+North Carolina,Greene County,37079,2021/08/18,498.360,12.47,high
+North Carolina,Henderson County,37089,2021/08/18,459.900,15.30,high
+Wyoming,Park County,56029,2021/08/18,304.860,5.76,high
+Alaska,Anchorage Muny,02020,2021/08/18,355.900,5.75,high
+California,Fresno County,06019,2021/08/18,231.510,10.69,high
+California,Butte County,06007,2021/08/18,239.980,10.18,high
+Illinois,Warren County,17187,2021/08/18,189.980,10.68,high
+New Jersey,Hudson County,34017,2021/08/18,106.190,4.76,high
+New York,Chautauqua County,36013,2021/08/18,84.320,7.39,substantial
+Washington,Pend Oreille County,53051,2021/08/18,269.600,8.67,high
+Iowa,Grundy County,19075,2021/08/18,122.630,14.71,high
+Pennsylvania,Potter County,42105,2021/08/18,84.710,9.60,substantial
+Rhode Island,Providence County,44007,2021/08/18,138.980,4.00,high
+Colorado,Custer County,08027,2021/08/18,suppressed,5.26,substantial
+Florida,Taylor County,12123,2021/08/18,806.710,26.59,high
+Nebraska,Polk County,31143,2021/08/18,0.000,,low
+North Carolina,Davie County,37059,2021/08/18,478.460,19.07,high
+Oklahoma,Tillman County,40141,2021/08/18,suppressed,28.13,high
+Virginia,Isle of Wight County,51093,2021/08/18,231.750,15.87,high
+Alabama,Jackson County,01071,2021/08/18,315.730,16.07,high
+Arizona,Pinal County,04021,2021/08/18,375.120,12.73,high
+Missouri,Boone County,29019,2021/08/18,237.170,10.09,high
+North Carolina,Richmond County,37153,2021/08/18,397.060,12.96,high
+Georgia,Richmond County,13245,2021/08/18,352.070,17.39,high
+Tennessee,Carroll County,47017,2021/08/18,507.800,20.45,high
+Georgia,Long County,13183,2021/08/18,419.240,21.76,high
+Iowa,Dubuque County,19061,2021/08/18,95.570,12.10,high
+Louisiana,East Feliciana Parish,22037,2021/08/18,"1,097.470",3.77,high
+Missouri,St. Louis City,29510,2021/08/18,179.320,9.59,high
+California,Siskiyou County,06093,2021/08/18,385.860,,high
+Montana,Sanders County,30089,2021/08/18,156.860,14.39,high
+South Dakota,Todd County,46121,2021/08/18,186.700,6.60,high
+Puerto Rico,Juana Díaz Muno,72075,2021/08/18,71.620,8.20,substantial
+Colorado,Morgan County,08087,2021/08/18,75.680,6.31,substantial
+Colorado,Rio Grande County,08105,2021/08/18,150.880,6.47,high
+Texas,Andrews County,48003,2021/08/18,368.890,12.12,high
+Texas,Lee County,48287,2021/08/18,464.060,24.44,high
+Michigan,Van Buren County,26159,2021/08/18,140.070,13.22,high
+Nebraska,Adams County,31001,2021/08/18,0.000,11.76,high
+New Jersey,Atlantic County,34001,2021/08/18,194.560,8.92,high
+South Carolina,Spartanburg County,45083,2021/08/18,396.520,16.79,high
+Georgia,Atkinson County,13003,2021/08/18,783.830,13.95,high
+Texas,Garza County,48169,2021/08/18,337.130,8.04,high
+Iowa,Allamakee County,19005,2021/08/18,124.210,13.41,high
+Kansas,Cloud County,20029,2021/08/18,136.580,12.31,high
+Kentucky,Breckinridge County,21027,2021/08/18,307.660,23.85,high
+Maine,Washington County,23029,2021/08/18,82.860,4.58,substantial
+Missouri,Howard County,29089,2021/08/18,239.980,5.26,high
+South Carolina,Aiken County,45003,2021/08/18,513.830,17.64,high
+South Carolina,Colleton County,45029,2021/08/18,469.780,14.11,high
+Iowa,Humboldt County,19091,2021/08/18,188.320,17.17,high
+Minnesota,Itasca County,27061,2021/08/18,157.320,7.24,high
+Tennessee,Knox County,47093,2021/08/18,337.860,16.38,high
+Florida,Collier County,12021,2021/08/18,558.840,19.83,high
+Indiana,Vigo County,18167,2021/08/18,260.660,13.49,high
+Kansas,Neosho County,20133,2021/08/18,281.130,20.45,high
+Arkansas,Logan County,05083,2021/08/18,526.410,7.86,high
+Kansas,Crawford County,20037,2021/08/18,455.970,23.96,high
+Kentucky,Warren County,21227,2021/08/18,544.790,12.06,high
+Louisiana,St. Helena Parish,22091,2021/08/18,335.570,9.09,high
+Oklahoma,Blaine County,40011,2021/08/18,233.320,20.00,high
+Oklahoma,Ellis County,40045,2021/08/18,0.000,,low
+Georgia,Lee County,13177,2021/08/18,556.820,21.83,high
+Michigan,Isabella County,26073,2021/08/18,72.990,6.74,substantial
+South Dakota,Edmunds County,46045,2021/08/18,suppressed,16.67,high
+Virginia,Brunswick County,51025,2021/08/18,184.830,10.56,high
+Arkansas,Stone County,05137,2021/08/18,287.860,3.32,high
+Kentucky,Boone County,21015,2021/08/18,271.750,13.78,high
+South Dakota,Faulk County,46049,2021/08/18,suppressed,,high
+Washington,Clark County,53011,2021/08/18,262.170,9.82,high
+Minnesota,Waseca County,27161,2021/08/18,349.240,14.07,high
+Wisconsin,Door County,55029,2021/08/18,119.270,5.18,high
+Puerto Rico,Santa Isabel Muno,72133,2021/08/18,51.860,6.25,substantial
+Alabama,Colbert County,01033,2021/08/18,459.800,26.01,high
+California,Contra Costa County,06013,2021/08/18,215.170,6.95,high
+California,Plumas County,06063,2021/08/18,186.100,,high
+Colorado,Summit County,08117,2021/08/18,241.850,8.60,high
+Idaho,Canyon County,16027,2021/08/18,305.420,21.95,high
+Pennsylvania,Dauphin County,42043,2021/08/18,179.300,11.59,high
+South Dakota,Lyman County,46085,2021/08/18,suppressed,8.00,high
+Puerto Rico,Adjuntas Muno,72001,2021/08/18,69.110,5.80,substantial
+Georgia,Evans County,13109,2021/08/18,610.100,25.35,high
+Illinois,Brown County,17009,2021/08/18,820.920,3.67,high
+Indiana,Adams County,18001,2021/08/18,366.160,15.69,high
+Kentucky,Carter County,21043,2021/08/18,395.570,13.36,high
+Minnesota,Becker County,27005,2021/08/18,58.100,4.64,substantial
+Ohio,Pike County,39131,2021/08/18,324.070,13.87,high
+Texas,Madison County,48313,2021/08/18,308.040,11.90,high
+Kansas,Kingman County,20095,2021/08/18,suppressed,6.52,high
+Michigan,Cheboygan County,26031,2021/08/18,75.170,4.38,substantial
+Ohio,Stark County,39151,2021/08/18,153.260,8.04,high
+South Carolina,Fairfield County,45039,2021/08/18,366.940,12.98,high
+California,San Diego County,06073,2021/08/18,262.710,8.19,high
+Washington,Whatcom County,53073,2021/08/18,204.580,41.50,high
+Oklahoma,Kingfisher County,40073,2021/08/18,342.530,10.81,high
+Texas,Midland County,48329,2021/08/18,199.060,23.34,high
+Vermont,Washington County,50023,2021/08/18,101.010,2.18,high
+Virginia,Dickenson County,51051,2021/08/18,69.840,7.25,substantial
+Washington,Okanogan County,53047,2021/08/18,168.080,3.63,high
+Massachusetts,Middlesex County,25017,2021/08/18,101.820,2.33,high
+Massachusetts,Worcester County,25027,2021/08/18,102.930,2.51,high
+Missouri,Laclede County,29105,2021/08/18,324.720,13.81,high
+Montana,Broadwater County,30007,2021/08/18,suppressed,23.81,high
+North Carolina,Yadkin County,37197,2021/08/18,366.370,15.97,high
+Texas,Glasscock County,48173,2021/08/18,suppressed,,high
+Puerto Rico,Guayama Muno,72057,2021/08/18,103.890,7.22,high
+Arkansas,Desha County,05041,2021/08/18,378.490,12.35,high
+Idaho,Fremont County,16043,2021/08/18,129.780,21.62,high
+Nebraska,Seward County,31159,2021/08/18,0.000,11.11,high
+South Dakota,Dewey County,46041,2021/08/18,577.050,8.16,high
+Puerto Rico,Vieques Muno,72147,2021/08/18,suppressed,6.25,moderate
+Colorado,Mesa County,08077,2021/08/18,127.100,3.37,high
+Georgia,Cherokee County,13057,2021/08/18,530.580,17.83,high
+Illinois,Woodford County,17203,2021/08/18,226.210,7.47,high
+Iowa,Wapello County,19179,2021/08/18,142.980,18.81,high
+Michigan,Ogemaw County,26129,2021/08/18,204.790,22.34,high
+Washington,Ferry County,53019,2021/08/18,157.340,6.00,high
+Georgia,Dawson County,13085,2021/08/18,517.080,22.59,high
+Georgia,Whitfield County,13313,2021/08/18,477.880,17.88,high
+Idaho,Gooding County,16047,2021/08/18,296.460,15.11,high
+Tennessee,Cannon County,47015,2021/08/18,333.830,17.65,high
+Georgia,Madison County,13195,2021/08/18,398.260,22.22,high
+Iowa,Henry County,19087,2021/08/18,265.610,12.70,high
+Iowa,O'Brien County,19141,2021/08/18,suppressed,2.63,moderate
+Kentucky,Barren County,21009,2021/08/18,488.150,14.63,high
+Iowa,Black Hawk County,19013,2021/08/18,224.040,17.80,high
+Missouri,Butler County,29023,2021/08/18,298.980,15.68,high
+Nevada,Douglas County,32005,2021/08/18,239.240,26.70,high
+North Dakota,Pembina County,38067,2021/08/18,147.040,21.31,high
+Indiana,Sullivan County,18153,2021/08/18,353.190,12.24,high
+Kentucky,Lawrence County,21127,2021/08/18,535.350,7.37,high
+Kentucky,Marion County,21155,2021/08/18,575.940,7.38,high
+North Dakota,Ramsey County,38071,2021/08/18,suppressed,1.92,substantial
+Virginia,New Kent County,51127,2021/08/18,168.900,10.40,high
+Nebraska,Madison County,31119,2021/08/18,0.000,25.93,high
+Georgia,Chattahoochee County,13053,2021/08/18,302.560,20.93,high
+Kansas,Stanton County,20187,2021/08/18,suppressed,15.38,high
+Washington,Walla Walla County,53071,2021/08/18,373.600,10.24,high
+Puerto Rico,Barceloneta Muno,72017,2021/08/18,206.520,19.27,high
+Colorado,Saguache County,08109,2021/08/18,suppressed,8.00,substantial
+Illinois,St. Clair County,17163,2021/08/18,271.870,11.15,high
+New Mexico,Cibola County,35006,2021/08/18,97.470,5.50,substantial
+Tennessee,Decatur County,47039,2021/08/18,583.040,19.17,high
+Alaska,Nome CA,02180,2021/08/18,"1,189.520",0.00,high
+Georgia,Liberty County,13179,2021/08/18,441.120,28.94,high
+Indiana,Madison County,18095,2021/08/18,294.050,10.88,high
+Montana,Yellowstone County,30111,2021/08/18,206.450,7.92,high
+Nevada,Esmeralda County,32009,2021/08/18,0.000,6.67,moderate
+North Carolina,Moore County,37125,2021/08/18,417.330,19.12,high
+Indiana,Washington County,18175,2021/08/18,235.410,12.24,high
+Missouri,Hickory County,29085,2021/08/18,220.030,3.06,high
+Nevada,Mineral County,32021,2021/08/18,288.570,11.69,high
+Ohio,Delaware County,39041,2021/08/18,122.860,5.29,high
+South Dakota,Jones County,46075,2021/08/18,0.000,,low
+Tennessee,Williamson County,47187,2021/08/18,392.600,16.83,high
+Colorado,Moffat County,08081,2021/08/18,97.870,8.33,substantial
+Georgia,Talbot County,13263,2021/08/18,500.400,17.48,high
+Iowa,Sac County,19161,2021/08/18,144.020,7.37,high
+Kentucky,Whitley County,21235,2021/08/18,777.630,12.40,high
+North Carolina,Jones County,37103,2021/08/18,191.100,16.84,high
+South Carolina,Union County,45087,2021/08/18,421.000,16.74,high
+Illinois,Hamilton County,17065,2021/08/18,517.500,13.83,high
+Wyoming,Big Horn County,56003,2021/08/18,195.080,3.80,high
+Kentucky,Casey County,21045,2021/08/18,569.340,16.80,high
+Tennessee,Macon County,47111,2021/08/18,512.150,19.31,high
+Georgia,Hall County,13139,2021/08/18,314.520,15.17,high
+Louisiana,St. John the Baptist Parish,22095,2021/08/18,721.340,12.57,high
+Michigan,Tuscola County,26157,2021/08/18,80.390,5.31,substantial
+North Dakota,Barnes County,38003,2021/08/18,suppressed,5.66,substantial
+South Dakota,Jerauld County,46073,2021/08/18,0.000,,low
+Tennessee,Weakley County,47183,2021/08/18,342.050,11.00,high
+Montana,Fallon County,30025,2021/08/18,351.370,63.64,high
+Nebraska,Hitchcock County,31087,2021/08/18,0.000,,low
+Texas,Dawson County,48115,2021/08/18,125.710,4.97,high
+Puerto Rico,Canóvanas Muno,72029,2021/08/18,219.370,10.64,high
+North Dakota,Oliver County,38065,2021/08/18,suppressed,,substantial
+Ohio,Darke County,39037,2021/08/18,135.000,14.61,high
+Pennsylvania,Adams County,42001,2021/08/18,150.470,7.33,high
+Arkansas,Chicot County,05017,2021/08/18,385.450,9.59,high
+Indiana,Blackford County,18009,2021/08/18,102.060,10.95,high
+Iowa,Muscatine County,19139,2021/08/18,157.040,15.85,high
+Texas,Llano County,48299,2021/08/18,486.350,22.58,high
+Vermont,Essex County,50009,2021/08/18,suppressed,0.81,moderate
+Arizona,Navajo County,04017,2021/08/18,242.510,10.64,high
+Colorado,Park County,08093,2021/08/18,159.190,9.23,high
+Mississippi,Greene County,28041,2021/08/18,883.260,16.67,high
+South Carolina,Allendale County,45005,2021/08/18,322.280,16.18,high
+West Virginia,Ritchie County,54085,2021/08/18,146.540,7.80,high
+Mississippi,Noxubee County,28103,2021/08/18,787.170,14.29,high
+Wisconsin,Sheboygan County,55117,2021/08/18,160.400,8.81,high
+Georgia,Dodge County,13091,2021/08/18,660.030,21.58,high
+Kentucky,Marshall County,21157,2021/08/18,807.070,21.71,high
+Mississippi,Choctaw County,28019,2021/08/18,"1,047.500",9.33,high
+Mississippi,Prentiss County,28117,2021/08/18,899.470,20.00,high
+North Dakota,Griggs County,38039,2021/08/18,suppressed,7.14,moderate
+Texas,Roberts County,48393,2021/08/18,0.000,,low
+Utah,Box Elder County,49003,2021/08/18,246.230,18.48,high
+Virginia,Martinsville City,51690,2021/08/18,199.140,14.02,high
+Idaho,Butte County,16023,2021/08/18,suppressed,,high
+Washington,Lincoln County,53043,2021/08/18,530.210,7.79,high
+Georgia,Jefferson County,13163,2021/08/18,462.180,3.10,high
+Ohio,Hamilton County,39061,2021/08/18,178.480,8.45,high
+Ohio,Marion County,39101,2021/08/18,222.760,10.12,high
+Iowa,Page County,19145,2021/08/18,92.670,30.49,high
+Mississippi,Rankin County,28121,2021/08/18,578.340,22.33,high
+North Carolina,Rutherford County,37161,2021/08/18,438.620,21.63,high
+Virginia,Newport News City,51700,2021/08/18,289.020,15.24,high
+West Virginia,Monroe County,54063,2021/08/18,135.590,6.97,high
+Arkansas,Searcy County,05129,2021/08/18,520.240,13.70,high
+Illinois,Clay County,17025,2021/08/18,712.990,13.78,high
+Louisiana,LaSalle Parish,22059,2021/08/18,872.950,15.24,high
+New York,Ulster County,36111,2021/08/18,140.790,3.87,high
+North Carolina,Dare County,37055,2021/08/18,389.090,14.97,high
+Puerto Rico,Ceiba Muno,72037,2021/08/18,155.910,7.84,high
+Alaska,Lake and Peninsula Borough,02164,2021/08/18,"1,067.840",,high
+Iowa,Union County,19175,2021/08/18,suppressed,7.41,moderate
+Maryland,Wicomico County,24045,2021/08/18,231.640,8.05,high
+Nebraska,McPherson County,31117,2021/08/18,0.000,,low
+Wisconsin,Shawano County,55115,2021/08/18,156.480,5.18,high
+Wisconsin,Forest County,55041,2021/08/18,199.910,2.44,high
+New Hampshire,Grafton County,33009,2021/08/18,97.900,1.84,substantial
+Texas,Lipscomb County,48295,2021/08/18,0.000,,low
+Illinois,Cumberland County,17035,2021/08/18,176.480,7.36,high
+New York,Hamilton County,36041,2021/08/18,suppressed,3.95,substantial
+Tennessee,Roane County,47145,2021/08/18,591.960,25.46,high
+Virginia,Middlesex County,51119,2021/08/18,122.850,2.41,high
+Texas,Comal County,48091,2021/08/18,318.800,21.22,high
+Virginia,Floyd County,51063,2021/08/18,190.490,13.97,high
+Tennessee,Cheatham County,47021,2021/08/18,287.700,16.97,high
+Illinois,Bond County,17005,2021/08/18,170.460,5.36,high
+Michigan,Clinton County,26037,2021/08/18,129.410,9.18,high
+Montana,Chouteau County,30015,2021/08/18,suppressed,9.09,substantial
+North Carolina,Alamance County,37001,2021/08/18,281.400,11.46,high
+Texas,Cochran County,48079,2021/08/18,suppressed,41.67,high
+Florida,Seminole County,12117,2021/08/18,634.560,22.04,high
+Missouri,Clay County,29047,2021/08/18,137.630,14.06,high
+Kansas,Decatur County,20039,2021/08/18,suppressed,6.25,moderate
+Kentucky,Edmonson County,21061,2021/08/18,255.140,10.78,high
+Washington,Kitsap County,53035,2021/08/18,213.650,22.98,high
+Illinois,Saline County,17165,2021/08/18,595.970,9.39,high
+Maryland,Caroline County,24011,2021/08/18,92.800,8.16,substantial
+North Carolina,Onslow County,37133,2021/08/18,363.250,16.78,high
+Texas,Blanco County,48031,2021/08/18,293.350,18.97,high
+Texas,Culberson County,48109,2021/08/18,suppressed,,moderate
+Virginia,Tazewell County,51185,2021/08/18,221.700,15.17,high
+West Virginia,Tucker County,54093,2021/08/18,307.060,3.95,high
+Massachusetts,Nantucket County,25019,2021/08/18,693.040,11.18,high
+Missouri,Cape Girardeau County,29031,2021/08/18,325.850,15.43,high
+North Dakota,Billings County,38007,2021/08/18,suppressed,,high
+North Dakota,Kidder County,38043,2021/08/18,suppressed,0.00,high
+South Dakota,Campbell County,46021,2021/08/18,0.000,,low
+Virginia,Hanover County,51085,2021/08/18,195.790,7.62,high
+Colorado,El Paso County,08041,2021/08/18,175.320,7.10,high
+Florida,Liberty County,12077,2021/08/18,"1,089.300",28.70,high
+Kansas,Wallace County,20199,2021/08/18,suppressed,13.33,high
+Ohio,Vinton County,39163,2021/08/18,175.770,14.29,high
+Pennsylvania,Fulton County,42057,2021/08/18,89.470,6.94,substantial
+Tennessee,Moore County,47127,2021/08/18,662.760,40.82,high
+Washington,Snohomish County,53061,2021/08/18,206.180,9.46,high
+Florida,Baker County,12003,2021/08/18,838.750,25.15,high
+Minnesota,McLeod County,27085,2021/08/18,192.240,7.48,high
+New York,Saratoga County,36091,2021/08/18,145.300,4.27,high
+Wyoming,Niobrara County,56027,2021/08/18,suppressed,1.58,substantial
+Georgia,Calhoun County,13037,2021/08/18,953.300,17.95,high
+Nebraska,Holt County,31089,2021/08/18,0.000,45.45,high
+Missouri,Dunklin County,29069,2021/08/18,315.810,13.61,high
+Pennsylvania,York County,42133,2021/08/18,135.840,8.77,high
+Texas,Scurry County,48415,2021/08/18,508.890,9.73,high
+Alabama,Barbour County,01005,2021/08/18,550.920,40.00,high
+Florida,Glades County,12043,2021/08/18,318.590,24.24,high
+Idaho,Teton County,16081,2021/08/18,164.720,15.29,high
+Mississippi,Coahoma County,28027,2021/08/18,515.280,13.47,high
+Nebraska,Dawson County,31047,2021/08/18,0.000,42.86,high
+West Virginia,Doddridge County,54017,2021/08/18,142.050,6.36,high
+Alabama,Autauga County,01001,2021/08/18,488.640,27.26,high
+Alabama,Cullman County,01043,2021/08/18,503.770,12.81,high
+Colorado,Las Animas County,08071,2021/08/18,206.810,4.50,high
+Tennessee,Crockett County,47033,2021/08/18,"1,335.210",23.84,high
+West Virginia,Clay County,54015,2021/08/18,387.870,20.00,high
+New York,Oswego County,36075,2021/08/18,142.580,7.89,high
+Alabama,Etowah County,01055,2021/08/18,541.710,30.20,high
+Illinois,DuPage County,17043,2021/08/18,143.240,6.00,high
+Oregon,Harney County,41025,2021/08/18,419.320,13.21,high
+Virginia,Essex County,51057,2021/08/18,155.210,11.11,high
+Wyoming,Laramie County,56021,2021/08/18,363.820,9.94,high
+Arkansas,Monroe County,05095,2021/08/18,522.310,17.58,high
+Ohio,Cuyahoga County,39035,2021/08/18,114.730,5.29,high
+Tennessee,Cumberland County,47035,2021/08/18,532.060,28.77,high
+Georgia,Bryan County,13029,2021/08/18,802.480,24.41,high
+Maine,Androscoggin County,23001,2021/08/18,48.020,3.25,moderate
+Arkansas,Yell County,05149,2021/08/18,421.720,8.23,high
+Nebraska,Banner County,31007,2021/08/18,0.000,,low
+North Dakota,Steele County,38091,2021/08/18,suppressed,,high
+Ohio,Champaign County,39021,2021/08/18,200.590,11.26,high
+Kansas,Atchison County,20005,2021/08/18,391.960,10.15,high
+Kansas,Harper County,20077,2021/08/18,suppressed,12.20,high
+Mississippi,Yazoo County,28163,2021/08/18,434.490,14.06,high
+North Carolina,Lenoir County,37107,2021/08/18,461.130,12.06,high
+Pennsylvania,Warren County,42123,2021/08/18,76.550,9.21,substantial
+Texas,Orange County,48361,2021/08/18,383.710,24.20,high
+Kentucky,McLean County,21149,2021/08/18,532.200,18.70,high
+Mississippi,Holmes County,28051,2021/08/18,717.230,16.25,high
+Mississippi,Union County,28145,2021/08/18,822.490,16.30,high
+Montana,Hill County,30041,2021/08/18,151.660,16.48,high
+North Carolina,Tyrrell County,37177,2021/08/18,722.110,26.09,high
+Ohio,Clark County,39023,2021/08/18,169.300,12.08,high
+New Jersey,Camden County,34007,2021/08/18,141.570,5.43,high
+South Dakota,Sully County,46119,2021/08/18,suppressed,,high
+Washington,Adams County,53001,2021/08/18,315.270,29.94,high
+Colorado,Otero County,08089,2021/08/18,suppressed,2.23,moderate
+Georgia,Lincoln County,13181,2021/08/18,239.870,24.44,high
+Idaho,Cassia County,16031,2021/08/18,133.170,4.48,high
+Texas,Wilson County,48493,2021/08/18,556.100,21.12,high
+Missouri,Ripley County,29181,2021/08/18,248.340,9.04,high
+Montana,Phillips County,30071,2021/08/18,0.000,0.00,low
+California,San Bernardino County,06071,2021/08/18,260.950,9.91,high
+Oklahoma,Greer County,40055,2021/08/18,suppressed,0.00,substantial
+Oregon,Hood River County,41027,2021/08/18,235.220,8.04,high
+Pennsylvania,Elk County,42047,2021/08/18,73.550,2.60,substantial
+Texas,Bell County,48027,2021/08/18,378.590,19.76,high
+Michigan,Emmet County,26047,2021/08/18,110.730,4.93,high
+South Dakota,Douglas County,46043,2021/08/18,suppressed,12.50,high
+District of Columbia,District of Columbia,11001,2021/08/18,158.270,4.96,high
+Ohio,Lucas County,39095,2021/08/18,128.170,9.17,high
+Illinois,De Witt County,17039,2021/08/18,211.020,7.63,high
+Indiana,LaGrange County,18087,2021/08/18,75.730,12.31,high
+Iowa,Dallas County,19049,2021/08/18,138.040,11.81,high
+New York,Genesee County,36037,2021/08/18,90.780,4.17,substantial
+North Dakota,Hettinger County,38041,2021/08/18,0.000,0.00,low
+Tennessee,Trousdale County,47169,2021/08/18,381.070,21.29,high
+Virginia,Bath County,51017,2021/08/18,suppressed,6.25,moderate
+Virginia,Frederick County,51069,2021/08/18,192.580,8.51,high
+Illinois,Monroe County,17133,2021/08/18,245.400,11.99,high
+Indiana,Lawrence County,18093,2021/08/18,636.980,25.70,high
+North Dakota,Divide County,38023,2021/08/18,0.000,,low
+Georgia,Twiggs County,13289,2021/08/18,529.560,23.23,high
+North Dakota,Sargent County,38081,2021/08/18,0.000,0.00,low
+Oklahoma,Cimarron County,40025,2021/08/18,suppressed,,high
+Texas,Baylor County,48023,2021/08/18,suppressed,,substantial
+Wisconsin,Trempealeau County,55121,2021/08/18,198.990,7.38,high
+Texas,Motley County,48345,2021/08/18,"1,583.330",,high
+Virginia,Lunenburg County,51111,2021/08/18,114.790,8.86,high
+Alaska,Northwest Arctic Borough,02188,2021/08/18,642.960,,high
+Arkansas,Dallas County,05039,2021/08/18,242.550,25.00,high
+Ohio,Athens County,39009,2021/08/18,82.660,3.66,substantial
+Puerto Rico,Cabo Rojo Muno,72023,2021/08/18,128.380,18.59,high
+Indiana,White County,18181,2021/08/18,136.920,8.24,high
+Michigan,Livingston County,26093,2021/08/18,122.920,8.07,high
+Nebraska,Grant County,31075,2021/08/18,0.000,,low
+Washington,Yakima County,53077,2021/08/18,290.190,19.22,high
+Illinois,Livingston County,17105,2021/08/18,171.120,3.92,high
+Kansas,Reno County,20155,2021/08/18,224.200,13.77,high
+Kansas,Stevens County,20189,2021/08/18,200.550,20.00,high
+Missouri,Barton County,29011,2021/08/18,323.290,12.50,high
+Missouri,Ozark County,29153,2021/08/18,425.110,18.69,high
+Missouri,St. Clair County,29185,2021/08/18,446.950,11.73,high
+North Carolina,Scotland County,37165,2021/08/18,338.860,10.53,high
+Texas,Waller County,48473,2021/08/18,320.390,17.78,high
+Georgia,Colquitt County,13071,2021/08/18,377.190,26.46,high
+Louisiana,St. Landry Parish,22097,2021/08/18,670.940,12.24,high
+Michigan,Washtenaw County,26161,2021/08/18,97.390,3.78,substantial
+Nebraska,Wheeler County,31183,2021/08/18,0.000,,low
+North Carolina,Yancey County,37199,2021/08/18,802.480,23.67,high
+Oregon,Lane County,41039,2021/08/18,380.040,9.76,high
+Montana,Glacier County,30035,2021/08/18,87.250,3.55,substantial
+North Carolina,Iredell County,37097,2021/08/18,392.180,13.40,high
+Tennessee,Henderson County,47077,2021/08/18,312.980,20.78,high
+Wisconsin,Vernon County,55123,2021/08/18,103.820,3.67,high
+Georgia,Jenkins County,13165,2021/08/18,334.260,12.50,high
+Illinois,Wabash County,17185,2021/08/18,520.830,7.55,high
+Georgia,Stewart County,13259,2021/08/18,286.970,15.15,high
+Kentucky,McCreary County,21147,2021/08/18,754.450,12.16,high
+Minnesota,Todd County,27153,2021/08/18,137.850,7.07,high
+Virginia,Galax City,51640,2021/08/18,236.330,13.24,high
+Georgia,Lumpkin County,13187,2021/08/18,383.810,19.38,high
+New Hampshire,Rockingham County,33015,2021/08/18,102.330,5.32,high
+Oklahoma,Nowata County,40105,2021/08/18,625.250,29.27,high
+West Virginia,Gilmer County,54021,2021/08/18,268.440,13.50,high
+Puerto Rico,Mayagüez Muno,72097,2021/08/18,237.660,16.72,high
+Alabama,Covington County,01039,2021/08/18,537.130,30.14,high
+California,Humboldt County,06023,2021/08/18,327.540,10.85,high
+Georgia,Appling County,13001,2021/08/18,527.580,17.68,high
+Georgia,Candler County,13043,2021/08/18,583.170,31.11,high
+Indiana,Spencer County,18147,2021/08/18,493.170,25.08,high
+Minnesota,Blue Earth County,27013,2021/08/18,174.420,7.45,high
+Nebraska,Howard County,31093,2021/08/18,0.000,6.67,moderate
+Puerto Rico,Río Grande Muno,72119,2021/08/18,191.570,13.37,high
+Alabama,Lawrence County,01079,2021/08/18,276.390,17.44,high
+Florida,Hamilton County,12047,2021/08/18,824.790,29.24,high
+Michigan,Saginaw County,26145,2021/08/18,123.860,8.91,high
+Colorado,Dolores County,08033,2021/08/18,suppressed,,high
+Iowa,Mills County,19129,2021/08/18,158.850,19.41,high
+Mississippi,Jones County,28067,2021/08/18,"1,123.380",22.94,high
+Ohio,Miami County,39109,2021/08/18,167.310,13.28,high
+South Dakota,Beadle County,46005,2021/08/18,86.710,23.08,high
+Virginia,Bland County,51021,2021/08/18,222.930,13.27,high
+Arkansas,Izard County,05065,2021/08/18,425.560,7.38,high
+Louisiana,Tensas Parish,22107,2021/08/18,suppressed,23.33,high
+Michigan,Luce County,26095,2021/08/18,suppressed,,substantial
+Ohio,Ottawa County,39123,2021/08/18,123.380,9.27,high
+Texas,Falls County,48145,2021/08/18,208.130,6.49,high
+Washington,Clallam County,53009,2021/08/18,228.890,17.91,high
+Florida,Charlotte County,12015,2021/08/18,443.070,21.32,high
+Idaho,Benewah County,16009,2021/08/18,204.350,21.15,high
+Mississippi,Pike County,28113,2021/08/18,722.870,30.12,high
+Indiana,Warren County,18171,2021/08/18,326.680,16.54,high
+Kansas,Rawlins County,20153,2021/08/18,suppressed,,substantial
+Oregon,Baker County,41001,2021/08/18,365.910,22.22,high
+Texas,San Saba County,48411,2021/08/18,264.240,18.75,high
+Virginia,Suffolk City,51800,2021/08/18,222.560,11.84,high
+Wisconsin,Eau Claire County,55035,2021/08/18,196.850,8.91,high
+Kentucky,Greenup County,21089,2021/08/18,424.530,15.24,high
+South Dakota,Meade County,46093,2021/08/18,296.480,21.89,high
+Wisconsin,Richland County,55103,2021/08/18,57.960,3.33,substantial
+Alabama,Limestone County,01083,2021/08/18,431.680,20.90,high
+North Dakota,Adams County,38001,2021/08/18,suppressed,6.67,high
+Texas,Hood County,48221,2021/08/18,363.380,26.49,high
+Florida,Lee County,12071,2021/08/18,727.120,27.18,high
+Indiana,Steuben County,18151,2021/08/18,283.290,16.24,high
+Kentucky,Lee County,21129,2021/08/18,391.730,15.56,high
+Massachusetts,Plymouth County,25023,2021/08/18,134.110,3.95,high
+New Hampshire,Coos County,33007,2021/08/18,76.040,6.54,substantial
+Wisconsin,Sauk County,55111,2021/08/18,124.140,8.52,high
+South Dakota,Kingsbury County,46077,2021/08/18,suppressed,0.00,moderate
+Indiana,Jasper County,18073,2021/08/18,187.710,11.85,high
+Vermont,Orleans County,50019,2021/08/18,159.040,4.96,high
+Washington,Grays Harbor County,53027,2021/08/18,314.410,9.46,high
+West Virginia,Wirt County,54105,2021/08/18,suppressed,2.91,substantial
+Missouri,Cedar County,29039,2021/08/18,285.730,14.47,high
+Ohio,Huron County,39077,2021/08/18,207.670,15.88,high
+Tennessee,Union County,47173,2021/08/18,215.300,15.96,high
+Texas,Marion County,48315,2021/08/18,385.630,18.52,high
+Washington,San Juan County,53055,2021/08/18,102.380,9.38,high
+Indiana,Howard County,18067,2021/08/18,391.310,13.17,high
+Texas,Freestone County,48161,2021/08/18,456.460,28.65,high
+Arkansas,Lee County,05077,2021/08/18,474.200,12.41,high
+Georgia,Paulding County,13223,2021/08/18,389.520,16.68,high
+Texas,Stephens County,48429,2021/08/18,138.800,15.00,high
+Florida,Gadsden County,12039,2021/08/18,930.790,19.03,high
+Illinois,Schuyler County,17169,2021/08/18,251.180,4.19,high
+Maryland,Garrett County,24023,2021/08/18,110.290,4.62,high
+North Dakota,Benson County,38005,2021/08/18,suppressed,21.43,high
+Oregon,Josephine County,41033,2021/08/18,920.140,21.62,high
+South Dakota,Walworth County,46129,2021/08/18,suppressed,12.00,high
+Puerto Rico,Vega Alta Muno,72143,2021/08/18,260.670,14.77,high
+Iowa,Franklin County,19069,2021/08/18,248.260,3.41,high
+Michigan,Mackinac County,26097,2021/08/18,suppressed,3.28,substantial
+Minnesota,Otter Tail County,27111,2021/08/18,131.070,5.99,high
+Colorado,Fremont County,08043,2021/08/18,77.340,1.99,substantial
+Michigan,Benzie County,26019,2021/08/18,56.290,4.84,substantial
+North Carolina,Bladen County,37017,2021/08/18,745.680,21.98,high
+Tennessee,Hawkins County,47073,2021/08/18,443.770,17.55,high
+Georgia,Treutlen County,13283,2021/08/18,594.120,24.44,high
+Iowa,Hardin County,19083,2021/08/18,284.930,18.22,high
+Kentucky,Boyd County,21019,2021/08/18,468.770,11.34,high
+Texas,Brazoria County,48039,2021/08/18,711.530,19.03,high
+Iowa,Delaware County,19055,2021/08/18,182.240,15.73,high
+Kansas,Jewell County,20089,2021/08/18,suppressed,20.00,high
+Minnesota,Lake of the Woods County,27077,2021/08/18,suppressed,0.92,high
+Texas,Sutton County,48435,2021/08/18,"1,006.360",,high
+South Carolina,Lexington County,45063,2021/08/18,626.950,15.92,high
+West Virginia,Marshall County,54051,2021/08/18,281.680,6.90,high
+Florida,Sarasota County,12115,2021/08/18,549.400,19.01,high
+Iowa,Carroll County,19027,2021/08/18,74.390,9.80,substantial
+South Dakota,Day County,46037,2021/08/18,suppressed,25.00,high
+Tennessee,Bledsoe County,47007,2021/08/18,511.150,24.58,high
+Texas,Brewster County,48043,2021/08/18,130.390,20.83,high
+Virginia,Greene County,51079,2021/08/18,186.690,8.00,high
+Virginia,Wythe County,51197,2021/08/18,373.030,22.53,high
+Indiana,Floyd County,18043,2021/08/18,343.850,14.06,high
+Kansas,Labette County,20099,2021/08/18,316.040,11.62,high
+Tennessee,Lewis County,47101,2021/08/18,537.990,28.57,high
+Michigan,Otsego County,26137,2021/08/18,64.860,4.38,substantial
+Mississippi,Jasper County,28061,2021/08/18,"1,068.180",28.90,high
+Missouri,Lincoln County,29113,2021/08/18,337.210,11.53,high
+North Carolina,Robeson County,37155,2021/08/18,548.130,14.22,high
+Texas,Comanche County,48093,2021/08/18,271.360,25.00,high
+Utah,Grand County,49019,2021/08/18,225.550,7.47,high
+Vermont,Lamoille County,50015,2021/08/18,43.370,2.26,moderate
+West Virginia,Pocahontas County,54075,2021/08/18,303.140,24.14,high
+Ohio,Portage County,39133,2021/08/18,131.100,7.61,high
+Texas,Randall County,48381,2021/08/18,431.330,12.96,high
+Utah,Cache County,49005,2021/08/18,123.160,9.72,high
+Kentucky,Owsley County,21189,2021/08/18,498.300,23.44,high
+Vermont,Addison County,50001,2021/08/18,133.240,4.67,high
+Texas,Lampasas County,48281,2021/08/18,396.680,30.81,high
+Virginia,Montgomery County,51121,2021/08/18,138.020,8.69,high
+Virginia,Emporia City,51595,2021/08/18,317.990,21.05,high
+Colorado,Boulder County,08013,2021/08/18,96.870,3.83,substantial
+Georgia,Early County,13099,2021/08/18,"1,040.240",28.95,high
+Iowa,Washington County,19183,2021/08/18,195.770,16.22,high
+North Carolina,Harnett County,37085,2021/08/18,386.830,14.69,high
+Alabama,Marion County,01093,2021/08/18,474.600,14.67,high
+Iowa,Cerro Gordo County,19033,2021/08/18,200.240,4.72,high
+Kentucky,Carlisle County,21039,2021/08/18,252.100,7.21,high
+Ohio,Wyandot County,39175,2021/08/18,114.830,8.92,high
+Texas,Hutchinson County,48233,2021/08/18,348.650,29.17,high
+Vermont,Grand Isle County,50013,2021/08/18,suppressed,2.76,substantial
+Virginia,Franklin City,51620,2021/08/18,376.550,11.59,high
+Virginia,Warren County,51187,2021/08/18,179.270,10.20,high
+Alabama,Franklin County,01059,2021/08/18,373.060,20.53,high
+Arkansas,Mississippi County,05093,2021/08/18,378.830,11.42,high
+Louisiana,Winn Parish,22127,2021/08/18,733.600,0.99,high
+South Carolina,Charleston County,45019,2021/08/18,527.950,13.44,high
+Colorado,Crowley County,08025,2021/08/18,suppressed,1.28,moderate
+Illinois,Bureau County,17011,2021/08/18,150.180,3.73,high
+Nebraska,Harlan County,31083,2021/08/18,0.000,,low
+North Dakota,Grand Forks County,38035,2021/08/18,107.990,6.41,high
+Georgia,Berrien County,13019,2021/08/18,"1,319.790",23.13,high
+Maryland,Harford County,24025,2021/08/18,93.170,5.47,substantial
+Minnesota,Anoka County,27003,2021/08/18,172.870,6.39,high
+Nebraska,Douglas County,31055,2021/08/18,0.000,14.20,high
+New York,Tompkins County,36109,2021/08/18,107.650,1.90,high
+South Dakota,Bon Homme County,46009,2021/08/18,suppressed,0.00,moderate
+South Dakota,Lawrence County,46081,2021/08/18,259.250,13.10,high
+Arkansas,Columbia County,05027,2021/08/18,281.370,13.99,high
+Minnesota,Yellow Medicine County,27173,2021/08/18,133.900,10.14,high
+Mississippi,Clay County,28025,2021/08/18,833.510,22.17,high
+Kansas,Washington County,20201,2021/08/18,suppressed,21.62,high
+California,Sutter County,06101,2021/08/18,391.870,15.88,high
+Georgia,Miller County,13201,2021/08/18,944.390,9.34,high
+Missouri,Mississippi County,29133,2021/08/18,440.060,31.61,high
+Nebraska,Logan County,31113,2021/08/18,0.000,,low
+Tennessee,Montgomery County,47125,2021/08/18,356.950,14.21,high
+West Virginia,Lincoln County,54043,2021/08/18,342.990,10.37,high
+Kansas,Ottawa County,20143,2021/08/18,298.040,6.84,high
+Minnesota,Lincoln County,27081,2021/08/18,suppressed,3.55,substantial
+Minnesota,Scott County,27139,2021/08/18,162.400,6.58,high
+New Mexico,Los Alamos County,35028,2021/08/18,103.260,3.01,high
+Oklahoma,Le Flore County,40079,2021/08/18,399.170,22.58,high
+West Virginia,Cabell County,54011,2021/08/18,377.400,9.79,high
+West Virginia,Upshur County,54097,2021/08/18,608.040,16.95,high
+Indiana,Brown County,18013,2021/08/18,198.780,6.61,high
+Indiana,Benton County,18007,2021/08/18,308.640,18.13,high
+West Virginia,Putnam County,54079,2021/08/18,279.890,8.90,high
+Alabama,Talladega County,01121,2021/08/18,465.130,23.20,high
+West Virginia,Fayette County,54019,2021/08/18,176.860,7.64,high
+Puerto Rico,Arecibo Muno,72013,2021/08/18,114.680,9.75,high
+Montana,Pondera County,30073,2021/08/18,253.760,1.13,high
+New Mexico,Bernalillo County,35001,2021/08/18,179.050,7.37,high
+South Carolina,Berkeley County,45015,2021/08/18,491.870,19.64,high
+Alabama,Winston County,01133,2021/08/18,613.650,28.18,high
+California,Yolo County,06113,2021/08/18,181.410,2.80,high
+Kentucky,Knott County,21119,2021/08/18,668.650,20.49,high
+Virginia,Washington County,51191,2021/08/18,262.370,13.17,high
+Colorado,Kiowa County,08061,2021/08/18,suppressed,,high
+Indiana,Porter County,18127,2021/08/18,111.510,10.51,high
+Iowa,Keokuk County,19107,2021/08/18,suppressed,19.19,high
+Oregon,Benton County,41003,2021/08/18,148.300,5.59,high
+Georgia,Baker County,13007,2021/08/18,427.910,17.07,high
+Georgia,Clayton County,13063,2021/08/18,402.040,13.85,high
+Nebraska,Richardson County,31147,2021/08/18,0.000,,low
+Wisconsin,Vilas County,55125,2021/08/18,72.090,4.49,substantial
+Florida,Columbia County,12023,2021/08/18,"1,487.040",28.56,high
+Kentucky,Cumberland County,21057,2021/08/18,151.190,13.87,high
+Michigan,Monroe County,26115,2021/08/18,109.630,7.43,high
+Minnesota,Benton County,27009,2021/08/18,156.520,6.22,high
+Mississippi,Lowndes County,28087,2021/08/18,"1,097.360",26.69,high
+Nebraska,Custer County,31041,2021/08/18,0.000,,low
+Virginia,Waynesboro City,51820,2021/08/18,110.470,7.46,high
+Illinois,Greene County,17061,2021/08/18,370.110,6.14,high
+Ohio,Greene County,39057,2021/08/18,249.210,15.02,high
+Tennessee,Pickett County,47137,2021/08/18,475.440,41.18,high
+Texas,Colorado County,48089,2021/08/18,330.340,13.91,high
+Iowa,Jasper County,19099,2021/08/18,139.840,16.63,high
+Mississippi,Jefferson Davis County,28065,2021/08/18,736.880,21.43,high
+Mississippi,Warren County,28149,2021/08/18,872.610,30.54,high
+Ohio,Licking County,39089,2021/08/18,154.920,8.01,high
+Illinois,LaSalle County,17099,2021/08/18,142.630,6.10,high
+Iowa,Warren County,19181,2021/08/18,159.330,12.78,high
+Virginia,Rockingham County,51165,2021/08/18,114.710,10.03,high
+Louisiana,St. Tammany Parish,22103,2021/08/18,900.860,17.72,high
+Nebraska,Perkins County,31135,2021/08/18,0.000,,low
+Oklahoma,Logan County,40083,2021/08/18,262.440,18.18,high
+Iowa,Cherokee County,19035,2021/08/18,151.310,6.84,high
+Montana,Beaverhead County,30001,2021/08/18,suppressed,10.81,high
+North Carolina,Polk County,37149,2021/08/18,217.140,17.72,high
+Washington,Jefferson County,53031,2021/08/18,189.320,6.02,high
+Arkansas,Johnson County,05071,2021/08/18,421.400,6.79,high
+Colorado,Routt County,08107,2021/08/18,241.830,10.15,high
+Indiana,Jay County,18075,2021/08/18,342.530,16.81,high
+Kansas,Douglas County,20045,2021/08/18,224.930,6.12,high
+Louisiana,Union Parish,22111,2021/08/18,687.530,11.64,high
+Missouri,Henry County,29083,2021/08/18,499.450,23.90,high
+South Carolina,Williamsburg County,45089,2021/08/18,461.010,16.50,high
+Texas,Limestone County,48293,2021/08/18,247.470,16.67,high
+West Virginia,Kanawha County,54039,2021/08/18,197.050,7.52,high
+Nebraska,Chase County,31029,2021/08/18,0.000,,low
+Texas,Jim Hogg County,48247,2021/08/18,788.460,27.78,high
+Virginia,Lexington City,51678,2021/08/18,295.460,6.42,high
+Kansas,Scott County,20171,2021/08/18,suppressed,12.82,high
+South Dakota,Perkins County,46105,2021/08/18,suppressed,,moderate
+Kansas,Norton County,20137,2021/08/18,suppressed,8.42,substantial
+Minnesota,Watonwan County,27165,2021/08/18,238.600,13.53,high
+Mississippi,Sunflower County,28133,2021/08/18,553.560,12.73,high
+Ohio,Scioto County,39145,2021/08/18,411.610,12.27,high
+Virginia,Henrico County,51087,2021/08/18,192.860,8.87,high
+Florida,Okaloosa County,12091,2021/08/18,662.910,30.84,high
+Missouri,Ray County,29177,2021/08/18,334.520,16.29,high
+North Carolina,McDowell County,37111,2021/08/18,544.190,13.58,high
+Virginia,Lynchburg City,51680,2021/08/18,204.460,16.56,high
+Kentucky,Leslie County,21131,2021/08/18,789.710,18.21,high
+South Dakota,Custer County,46033,2021/08/18,434.690,24.00,high
+Texas,Coryell County,48099,2021/08/18,343.640,12.31,high
+Puerto Rico,Morovis Muno,72101,2021/08/18,115.380,10.24,high
+Missouri,Maries County,29125,2021/08/18,390.940,22.31,high
+Tennessee,Greene County,47059,2021/08/18,461.860,13.58,high
+Wisconsin,Green Lake County,55047,2021/08/18,185.060,9.26,high
+Tennessee,Grainger County,47057,2021/08/18,411.660,21.94,high
+Florida,Leon County,12073,2021/08/18,833.160,14.00,high
+Texas,Bandera County,48019,2021/08/18,406.720,23.15,high
+Virginia,Spotsylvania County,51177,2021/08/18,226.110,12.09,high
+Virginia,Williamsburg City,51830,2021/08/18,234.050,28.57,high
+Connecticut,Tolland County,09013,2021/08/18,80.940,4.03,substantial
+Indiana,Boone County,18011,2021/08/18,181.300,8.96,high
+Ohio,Highland County,39071,2021/08/18,229.370,14.17,high
+Missouri,Buchanan County,29021,2021/08/18,462.430,18.35,high
+Nebraska,Cedar County,31027,2021/08/18,0.000,,low
+Texas,Panola County,48365,2021/08/18,426.830,18.39,high
+Georgia,Barrow County,13013,2021/08/18,443.300,17.35,high
+Kansas,Nemaha County,20131,2021/08/18,263.900,14.20,high
+Michigan,Jackson County,26075,2021/08/18,136.900,7.84,high
+Montana,Lake County,30047,2021/08/18,187.140,12.55,high
+Texas,Hopkins County,48223,2021/08/18,382.910,21.74,high
+California,Marin County,06041,2021/08/18,137.160,3.59,high
+Georgia,Monroe County,13207,2021/08/18,601.930,23.99,high
+Georgia,Webster County,13307,2021/08/18,suppressed,8.33,high
+Missouri,Holt County,29087,2021/08/18,suppressed,10.53,high
+New Hampshire,Merrimack County,33013,2021/08/18,95.120,2.98,substantial
+New Mexico,San Juan County,35045,2021/08/18,186.350,9.87,high
+South Dakota,Brule County,46015,2021/08/18,suppressed,11.76,high
+Florida,Pinellas County,12103,2021/08/18,658.260,20.76,high
+New York,Cayuga County,36011,2021/08/18,231.140,11.03,high
+Texas,Lamb County,48279,2021/08/18,403.320,4.90,high
+Texas,Liberty County,48291,2021/08/18,506.690,25.35,high
+Wisconsin,Jackson County,55053,2021/08/18,227.680,5.31,high
+Missouri,Callaway County,29027,2021/08/18,413.470,17.45,high
+Missouri,Greene County,29077,2021/08/18,256.580,11.00,high
+Ohio,Ashland County,39005,2021/08/18,198.190,8.20,high
+Oklahoma,Beaver County,40007,2021/08/18,suppressed,,substantial
+Texas,Cass County,48067,2021/08/18,726.040,21.43,high
+Arkansas,Saline County,05125,2021/08/18,410.010,11.45,high
+Georgia,Seminole County,13253,2021/08/18,"1,112.480",28.27,high
+Michigan,Montcalm County,26117,2021/08/18,68.870,8.15,substantial
+Missouri,Dent County,29065,2021/08/18,828.360,17.15,high
+Idaho,Custer County,16037,2021/08/18,0.000,0.00,low
+Kentucky,Campbell County,21037,2021/08/18,182.720,9.10,high
+Louisiana,Richland Parish,22083,2021/08/18,"1,078.420",17.61,high
+New Jersey,Bergen County,34003,2021/08/18,108.880,4.61,high
+Ohio,Franklin County,39049,2021/08/18,147.410,6.97,high
+Texas,Bastrop County,48021,2021/08/18,471.130,22.83,high
+California,Kern County,06029,2021/08/18,248.830,7.59,high
+Indiana,Rush County,18139,2021/08/18,271.390,8.31,high
+Mississippi,Marion County,28091,2021/08/18,980.750,20.12,high
+Illinois,Franklin County,17055,2021/08/18,686.270,17.48,high
+Indiana,Union County,18161,2021/08/18,311.880,14.63,high
+Kansas,Sumner County,20191,2021/08/18,205.820,9.85,high
+Kentucky,Kenton County,21117,2021/08/18,242.520,10.20,high
+North Carolina,Cabarrus County,37025,2021/08/18,368.670,14.11,high
+South Carolina,Clarendon County,45027,2021/08/18,527.490,10.33,high
+Puerto Rico,Toa Baja Muno,72137,2021/08/18,257.170,16.12,high
+Mississippi,Madison County,28089,2021/08/18,456.380,17.32,high
+North Carolina,Rockingham County,37157,2021/08/18,235.140,11.76,high
+Virginia,Fauquier County,51061,2021/08/18,174.100,7.62,high
+Georgia,Carroll County,13045,2021/08/18,378.360,17.71,high
+Georgia,Douglas County,13097,2021/08/18,403.160,18.13,high
+Missouri,Howell County,29091,2021/08/18,461.150,19.38,high
+Arkansas,Hot Spring County,05059,2021/08/18,627.760,9.30,high
+Nebraska,Valley County,31175,2021/08/18,0.000,,low
+Tennessee,Overton County,47133,2021/08/18,382.180,18.95,high
+Minnesota,Rock County,27133,2021/08/18,118.090,4.56,high
+Mississippi,George County,28039,2021/08/18,"1,395.920",40.12,high
+Alabama,Bibb County,01007,2021/08/18,526.930,22.22,high
+Louisiana,Iberia Parish,22045,2021/08/18,902.190,26.57,high
+Mississippi,Neshoba County,28099,2021/08/18,"1,844.220",22.96,high
+New York,Bronx County,36005,2021/08/18,186.570,3.88,high
+North Carolina,Warren County,37185,2021/08/18,131.770,6.85,high
+Pennsylvania,Luzerne County,42079,2021/08/18,82.860,5.83,substantial
+Colorado,Prowers County,08099,2021/08/18,115.020,6.67,high
+Ohio,Fulton County,39051,2021/08/18,201.780,11.69,high
+Oklahoma,Washita County,40149,2021/08/18,100.770,28.00,high
+California,Sonoma County,06097,2021/08/18,175.180,6.19,high
+Indiana,Jackson County,18071,2021/08/18,343.650,14.72,high
+Oklahoma,Pittsburg County,40121,2021/08/18,284.050,30.07,high
+Oklahoma,Washington County,40147,2021/08/18,582.220,26.72,high
+Texas,Bosque County,48035,2021/08/18,422.800,7.14,high
+Wisconsin,Calumet County,55015,2021/08/18,151.730,13.02,high
+Colorado,Teller County,08119,2021/08/18,39.390,1.89,moderate
+Pennsylvania,Bedford County,42009,2021/08/18,114.850,11.78,high
+Texas,Wise County,48497,2021/08/18,315.790,29.05,high
+Illinois,Calhoun County,17013,2021/08/18,suppressed,14.29,high
+Indiana,Delaware County,18035,2021/08/18,192.750,8.75,high
+Kentucky,Breathitt County,21025,2021/08/18,300.870,9.49,high
+Missouri,Monroe County,29137,2021/08/18,208.240,16.07,high
+Texas,Collingsworth County,48087,2021/08/18,suppressed,21.43,high
+Texas,Harris County,48201,2021/08/18,353.400,18.63,high
+Texas,Swisher County,48437,2021/08/18,148.710,11.11,high
+Virginia,Harrisonburg City,51660,2021/08/18,96.200,6.76,substantial
+Alaska,Denali Borough,02068,2021/08/18,suppressed,2.33,high
+Kentucky,Logan County,21141,2021/08/18,715.810,18.54,high
+Kentucky,Menifee County,21165,2021/08/18,493.140,7.63,high
+Arkansas,Scott County,05127,2021/08/18,243.170,5.88,high
+Colorado,Denver County,08031,2021/08/18,125.820,4.64,high
+Wyoming,Albany County,56001,2021/08/18,244.340,6.95,high
+Missouri,Dallas County,29059,2021/08/18,331.790,13.68,high
+New Jersey,Cumberland County,34011,2021/08/18,147.130,3.28,high
+North Carolina,Clay County,37043,2021/08/18,320.540,23.49,high
+South Carolina,Cherokee County,45021,2021/08/18,411.870,21.57,high
+Kentucky,Johnson County,21115,2021/08/18,558.860,10.53,high
+Montana,Granite County,30039,2021/08/18,suppressed,9.09,high
+North Dakota,Traill County,38097,2021/08/18,174.220,26.67,high
+Tennessee,Anderson County,47001,2021/08/18,406.610,17.60,high
+Tennessee,Obion County,47131,2021/08/18,482.220,18.48,high
+Puerto Rico,Caguas Muno,72025,2021/08/18,192.610,9.84,high
+Iowa,Decatur County,19053,2021/08/18,139.770,3.70,high
+Oklahoma,Atoka County,40005,2021/08/18,770.460,43.59,high
+Tennessee,Wayne County,47181,2021/08/18,437.830,18.84,high
+Indiana,Starke County,18149,2021/08/18,147.860,7.22,high
+North Dakota,Burke County,38013,2021/08/18,suppressed,7.14,substantial
+Puerto Rico,Gurabo Muno,72063,2021/08/18,169.880,9.74,high
+Illinois,Madison County,17119,2021/08/18,285.210,10.46,high
+Indiana,Greene County,18055,2021/08/18,278.800,13.86,high
+Kentucky,Fulton County,21075,2021/08/18,suppressed,14.06,high
+South Dakota,Lake County,46079,2021/08/18,125.030,18.18,high
+California,Mariposa County,06043,2021/08/18,470.850,,high
+North Carolina,Gates County,37073,2021/08/18,155.680,18.06,high
+Alaska,Haines Borough,02100,2021/08/18,"1,936.760",15.04,high
+Nebraska,Nemaha County,31127,2021/08/18,0.000,,low
+Oklahoma,Hughes County,40063,2021/08/18,278.640,16.67,high
+Texas,McLennan County,48309,2021/08/18,379.160,10.57,high
+Wisconsin,Iowa County,55049,2021/08/18,173.160,4.24,high
+Puerto Rico,Culebra Muno,72049,2021/08/18,0.000,,low
+Idaho,Blaine County,16013,2021/08/18,69.500,4.84,substantial
+Oregon,Klamath County,41035,2021/08/18,161.200,6.43,high
+West Virginia,Boone County,54005,2021/08/18,191.080,7.84,high
+Arizona,Maricopa County,04013,2021/08/18,297.920,11.80,high
+California,Amador County,06005,2021/08/18,394.950,,high
+Virginia,Southampton County,51175,2021/08/18,102.090,4.79,high
+Washington,Columbia County,53013,2021/08/18,250.940,0.00,high
+California,Trinity County,06105,2021/08/18,276.760,,high
+Colorado,Bent County,08011,2021/08/18,suppressed,6.45,substantial
+Kentucky,Harlan County,21095,2021/08/18,338.330,12.30,high
+North Carolina,Edgecombe County,37065,2021/08/18,250.620,11.23,high
+Tennessee,Monroe County,47123,2021/08/18,539.260,20.00,high
+Mississippi,Walthall County,28147,2021/08/18,496.990,20.00,high
+Texas,Parker County,48367,2021/08/18,401.740,26.04,high
+Wyoming,Converse County,56009,2021/08/18,383.450,8.82,high
+Colorado,Jefferson County,08059,2021/08/18,125.070,5.41,high
+Georgia,Warren County,13301,2021/08/18,209.360,19.15,high
+Illinois,Alexander County,17003,2021/08/18,329.800,9.41,high
+Kansas,Gray County,20069,2021/08/18,217.100,30.30,high
+Michigan,Branch County,26023,2021/08/18,229.800,16.71,high
+Virginia,Buckingham County,51029,2021/08/18,93.310,2.96,substantial
+Arkansas,Faulkner County,05045,2021/08/18,484.100,10.41,high
+Nebraska,Arthur County,31005,2021/08/18,0.000,,low
+Ohio,Clermont County,39025,2021/08/18,233.010,10.59,high
+Tennessee,Madison County,47113,2021/08/18,752.160,20.48,high
+Kentucky,Pendleton County,21191,2021/08/18,596.300,10.82,high
+Montana,Carbon County,30009,2021/08/18,111.890,10.66,high
+Nebraska,Keya Paha County,31103,2021/08/18,0.000,,low
+Oregon,Malheur County,41045,2021/08/18,297.670,12.86,high
+Alaska,Yakutat Cty&Bor,02282,2021/08/18,0.000,,low
+Colorado,Grand County,08049,2021/08/18,158.890,5.77,high
+Iowa,Winnebago County,19189,2021/08/18,164.190,13.33,high
+Kentucky,Oldham County,21185,2021/08/18,281.440,15.33,high
+Louisiana,Washington Parish,22117,2021/08/18,971.990,22.36,high
+Missouri,Ste. Genevieve County,29186,2021/08/18,251.480,22.36,high
+Nebraska,Garden County,31069,2021/08/18,0.000,,low
+Ohio,Gallia County,39053,2021/08/18,220.750,6.31,high
+Utah,Carbon County,49007,2021/08/18,127.060,5.43,high
+Arkansas,Montgomery County,05097,2021/08/18,367.240,28.26,high
+Maryland,Cecil County,24015,2021/08/18,126.390,7.91,high
+Minnesota,Dodge County,27039,2021/08/18,281.840,9.95,high
+West Virginia,Wayne County,54099,2021/08/18,296.940,11.17,high
+Illinois,Douglas County,17041,2021/08/18,241.460,5.37,high
+Nebraska,Scotts Bluff County,31157,2021/08/18,0.000,7.83,moderate
+New York,Broome County,36007,2021/08/18,144.370,5.99,high
+Virginia,Bedford County,51019,2021/08/18,191.150,20.73,high
+Georgia,Columbia County,13073,2021/08/18,378.400,14.70,high
+Michigan,Arenac County,26011,2021/08/18,suppressed,6.32,substantial
+Pennsylvania,McKean County,42083,2021/08/18,46.770,9.48,substantial
+Puerto Rico,Toa Alta Muno,72135,2021/08/18,177.720,18.08,high
+Delaware,Sussex County,10005,2021/08/18,204.930,7.28,high
+Illinois,Kankakee County,17091,2021/08/18,217.550,5.53,high
+North Dakota,Mercer County,38057,2021/08/18,134.360,16.13,high
+Idaho,Boise County,16015,2021/08/18,242.630,11.84,high
+Missouri,Harrison County,29081,2021/08/18,287.360,12.02,high
+Texas,Atascosa County,48013,2021/08/18,477.000,23.56,high
+West Virginia,Hancock County,54029,2021/08/18,107.600,9.18,high
+California,Santa Clara County,06085,2021/08/18,122.310,3.35,high
+Kentucky,Henry County,21103,2021/08/18,725.540,19.54,high
+Oregon,Columbia County,41009,2021/08/18,483.250,15.71,high
+Alabama,Greene County,01063,2021/08/18,308.220,13.87,high
+Arizona,Gila County,04007,2021/08/18,279.540,8.39,high
+Louisiana,Catahoula Parish,22025,2021/08/18,642.510,7.84,high
+Massachusetts,Dukes County,25007,2021/08/18,300.020,5.29,high
+Colorado,Sedgwick County,08115,2021/08/18,suppressed,4.92,high
+Hawaii,Kauai County,15007,2021/08/18,280.800,5.10,high
+Montana,Treasure County,30103,2021/08/18,suppressed,,high
+New York,Lewis County,36049,2021/08/18,125.490,8.53,high
+Utah,Garfield County,49017,2021/08/18,0.000,23.91,high
+Arkansas,Howard County,05061,2021/08/18,499.920,8.24,high
+Tennessee,McNairy County,47109,2021/08/18,661.630,19.95,high
+Texas,Pecos County,48371,2021/08/18,170.640,6.38,high
+Arizona,Apache County,04001,2021/08/18,278.210,6.65,high
+Arkansas,Independence County,05063,2021/08/18,436.220,7.11,high
+Illinois,Kane County,17089,2021/08/18,139.740,7.33,high
+Minnesota,Wright County,27171,2021/08/18,138.750,6.48,high
+New Mexico,Grant County,35017,2021/08/18,85.190,2.88,substantial
+Georgia,Heard County,13149,2021/08/18,620.650,37.72,high
+Indiana,Kosciusko County,18085,2021/08/18,130.890,11.03,high
+Kansas,Rush County,20165,2021/08/18,suppressed,9.38,substantial
+Minnesota,Clearwater County,27029,2021/08/18,suppressed,9.47,substantial
+Alabama,Conecuh County,01035,2021/08/18,654.680,25.48,high
+Georgia,Gwinnett County,13135,2021/08/18,223.340,11.90,high
+North Carolina,Pitt County,37147,2021/08/18,409.980,16.23,high
+Florida,Suwannee County,12121,2021/08/18,"1,053.650",23.99,high
+Illinois,Boone County,17007,2021/08/18,140.070,8.25,high
+Iowa,Linn County,19113,2021/08/18,168.060,15.12,high
+Maine,Oxford County,23017,2021/08/18,91.420,6.28,substantial
+Missouri,Cole County,29051,2021/08/18,344.000,14.56,high
+Texas,Houston County,48225,2021/08/18,287.360,8.88,high
+Virginia,Wise County,51195,2021/08/18,262.150,11.53,high
+Georgia,Pierce County,13229,2021/08/18,883.640,30.35,high
+Georgia,Thomas County,13275,2021/08/18,701.900,24.55,high
+Iowa,Taylor County,19173,2021/08/18,suppressed,14.29,high
+Kentucky,Martin County,21159,2021/08/18,285.840,8.14,high
+Kentucky,Washington County,21229,2021/08/18,677.970,21.39,high
+Tennessee,Loudon County,47105,2021/08/18,307.020,15.04,high
+Texas,Cottle County,48101,2021/08/18,suppressed,,high
+Texas,Ward County,48475,2021/08/18,291.720,54.84,high
+Alabama,Elmore County,01051,2021/08/18,662.490,21.81,high
+Illinois,Cass County,17017,2021/08/18,271.670,8.50,high
+Louisiana,Orleans Parish,22071,2021/08/18,538.260,10.66,high
+South Carolina,Dillon County,45033,2021/08/18,498.700,17.30,high
+Virginia,Arlington County,51013,2021/08/18,101.330,3.81,high
+Kansas,Geary County,20061,2021/08/18,233.660,12.23,high
+North Dakota,Bowman County,38011,2021/08/18,suppressed,6.25,high
+Pennsylvania,Lebanon County,42075,2021/08/18,117.780,8.06,high
+Wisconsin,Marquette County,55077,2021/08/18,96.310,8.33,substantial
+Michigan,Montmorency County,26119,2021/08/18,214.410,13.25,high
+New York,New York County,36061,2021/08/18,176.700,2.78,high
+Texas,Calhoun County,48057,2021/08/18,732.740,16.28,high
+Iowa,Winneshiek County,19191,2021/08/18,50.020,6.18,substantial
+Colorado,Mineral County,08079,2021/08/18,0.000,,low
+Indiana,Marshall County,18099,2021/08/18,190.240,18.12,high
+Kansas,Kearny County,20093,2021/08/18,suppressed,15.79,high
+Michigan,Clare County,26035,2021/08/18,113.090,12.21,high
+Nebraska,Pierce County,31139,2021/08/18,0.000,,low
+Pennsylvania,Beaver County,42007,2021/08/18,134.200,8.12,high
+Idaho,Madison County,16065,2021/08/18,220.510,22.16,high
+Illinois,Macon County,17115,2021/08/18,412.460,9.94,high
+New York,Rensselaer County,36083,2021/08/18,142.390,6.12,high
+Tennessee,Putnam County,47141,2021/08/18,353.920,19.14,high
+Alabama,Coffee County,01031,2021/08/18,802.410,33.25,high
+Kentucky,Green County,21087,2021/08/18,731.190,11.64,high
+Michigan,Menominee County,26109,2021/08/18,232.660,10.53,high
+Texas,Rusk County,48401,2021/08/18,363.930,23.96,high
+Virginia,Franklin County,51067,2021/08/18,214.130,23.09,high
+California,Kings County,06031,2021/08/18,447.890,10.83,high
+Minnesota,Stearns County,27145,2021/08/18,145.890,6.26,high
+Texas,Gregg County,48183,2021/08/18,689.820,21.18,high
+Texas,Oldham County,48359,2021/08/18,0.000,,low
+Georgia,Tattnall County,13267,2021/08/18,644.630,32.32,high
+Mississippi,Monroe County,28095,2021/08/18,"1,225.460",26.20,high
+North Carolina,Forsyth County,37067,2021/08/18,309.190,12.43,high
+Oklahoma,Osage County,40113,2021/08/18,457.810,24.18,high
+Oregon,Lincoln County,41041,2021/08/18,294.220,7.90,high
+Wisconsin,Waukesha County,55133,2021/08/18,197.920,10.14,high
+Georgia,Terrell County,13273,2021/08/18,386.820,13.59,high
+Kansas,Leavenworth County,20103,2021/08/18,321.680,11.54,high
+Louisiana,Allen Parish,22003,2021/08/18,558.010,8.98,high
+Louisiana,St. Mary Parish,22101,2021/08/18,751.800,15.17,high
+New Mexico,Santa Fe County,35049,2021/08/18,108.410,5.07,high
+South Carolina,McCormick County,45065,2021/08/18,200.780,9.62,high
+Maryland,Montgomery County,24031,2021/08/18,74.430,3.87,substantial
+New York,Fulton County,36035,2021/08/18,127.380,5.68,high
+South Dakota,Sanborn County,46111,2021/08/18,suppressed,,high
+Texas,Jackson County,48239,2021/08/18,772.360,31.25,high
+Minnesota,Isanti County,27059,2021/08/18,118.240,7.13,high
+Virginia,Norfolk City,51710,2021/08/18,227.810,13.08,high
+Virginia,Winchester City,51840,2021/08/18,203.010,11.09,high
+Kentucky,Clark County,21049,2021/08/18,380.550,6.24,high
+Nebraska,Merrick County,31121,2021/08/18,0.000,,low
+New Jersey,Gloucester County,34015,2021/08/18,151.560,8.14,high
+Oregon,Coos County,41011,2021/08/18,406.280,13.85,high
+South Dakota,Mellette County,46095,2021/08/18,0.000,0.00,low
+Arkansas,Drew County,05043,2021/08/18,307.370,8.84,high
+Iowa,Cass County,19029,2021/08/18,85.700,14.88,high
+Mississippi,Perry County,28111,2021/08/18,709.930,21.86,high
+New Mexico,Hidalgo County,35023,2021/08/18,285.850,14.55,high
+Michigan,Huron County,26063,2021/08/18,106.520,13.60,high
+Ohio,Medina County,39103,2021/08/18,145.200,5.93,high
+Georgia,Fulton County,13121,2021/08/18,289.300,12.63,high
+Georgia,Wilcox County,13315,2021/08/18,787.490,34.62,high
+Michigan,Calhoun County,26025,2021/08/18,107.340,7.08,high
+Missouri,Franklin County,29071,2021/08/18,235.650,13.07,high
+West Virginia,Taylor County,54091,2021/08/18,293.500,14.05,high
+Florida,Pasco County,12101,2021/08/18,698.980,24.84,high
+Georgia,Worth County,13321,2021/08/18,760.610,26.02,high
+Kansas,Harvey County,20079,2021/08/18,223.650,8.20,high
+Mississippi,Covington County,28031,2021/08/18,"1,153.680",23.01,high
+Missouri,Linn County,29115,2021/08/18,176.170,12.26,high
+Puerto Rico,San Lorenzo Muno,72129,2021/08/18,155.600,6.48,high
+Illinois,Cook County,17031,2021/08/18,122.750,4.38,high
+Kansas,Lyon County,20111,2021/08/18,325.350,25.71,high
+Kentucky,Floyd County,21071,2021/08/18,910.390,21.64,high
+Missouri,Lewis County,29111,2021/08/18,664.890,13.43,high
+Nevada,Humboldt County,32013,2021/08/18,213.890,8.08,high
+South Dakota,Hand County,46059,2021/08/18,0.000,,low
+North Carolina,Cleveland County,37045,2021/08/18,462.500,16.51,high
+Iowa,Woodbury County,19193,2021/08/18,154.210,11.92,high
+Idaho,Shoshone County,16079,2021/08/18,302.750,35.46,high
+Mississippi,Chickasaw County,28017,2021/08/18,730.870,16.57,high
+Ohio,Columbiana County,39029,2021/08/18,213.970,10.04,high
+Texas,Webb County,48479,2021/08/18,450.390,18.19,high
+Alabama,Butler County,01013,2021/08/18,385.640,27.27,high
+Indiana,Warrick County,18173,2021/08/18,531.760,23.68,high
+South Carolina,Barnwell County,45011,2021/08/18,527.170,16.59,high
+Arkansas,Pulaski County,05119,2021/08/18,419.480,12.18,high
+Michigan,Berrien County,26021,2021/08/18,106.910,9.65,high
+Minnesota,Rice County,27131,2021/08/18,179.180,3.00,high
+Missouri,Madison County,29123,2021/08/18,421.910,10.94,high
+New Hampshire,Sullivan County,33019,2021/08/18,136.750,8.53,high
+North Carolina,Nash County,37127,2021/08/18,202.550,10.35,high
+Oklahoma,Garvin County,40049,2021/08/18,198.480,20.31,high
+Texas,Lamar County,48277,2021/08/18,0.000,17.43,high
+Connecticut,Litchfield County,09005,2021/08/18,97.040,4.44,substantial
+Florida,Highlands County,12055,2021/08/18,589.340,20.05,high
+Kentucky,Meade County,21163,2021/08/18,384.990,23.24,high
+Mississippi,Kemper County,28069,2021/08/18,739.070,39.62,high
+North Carolina,Granville County,37077,2021/08/18,172.060,5.11,high
+Virginia,Pittsylvania County,51143,2021/08/18,256.820,13.79,high
+Nebraska,Sarpy County,31153,2021/08/18,0.000,14.35,high
+Kentucky,Clay County,21051,2021/08/18,"1,537.610",19.65,high
+Maryland,Charles County,24017,2021/08/18,176.410,5.87,high
+Montana,Blaine County,30005,2021/08/18,suppressed,16.00,high
+Virginia,King George County,51099,2021/08/18,119.240,8.72,high
+Michigan,Mason County,26105,2021/08/18,120.090,12.81,high
+Minnesota,Mahnomen County,27087,2021/08/18,suppressed,3.79,substantial
+Montana,Dawson County,30021,2021/08/18,174.160,18.52,high
+Illinois,Whiteside County,17195,2021/08/18,119.620,4.26,high
+California,Glenn County,06021,2021/08/18,214.840,,high
+Georgia,Oglethorpe County,13221,2021/08/18,229.370,16.02,high
+Louisiana,Beauregard Parish,22011,2021/08/18,746.730,15.65,high
+Montana,McCone County,30055,2021/08/18,suppressed,,high
+Arkansas,Craighead County,05031,2021/08/18,624.480,14.14,high
+Georgia,Camden County,13039,2021/08/18,504.880,24.82,high
+Georgia,Lamar County,13171,2021/08/18,"1,037.900",26.04,high
+Illinois,Jackson County,17077,2021/08/18,646.700,12.40,high
+Louisiana,Grant Parish,22043,2021/08/18,996.020,10.15,high
+Michigan,Muskegon County,26121,2021/08/18,87.570,6.69,substantial
+Louisiana,Acadia Parish,22001,2021/08/18,768.800,15.33,high
+Florida,Jefferson County,12065,2021/08/18,849.360,19.00,high
+Kansas,Butler County,20015,2021/08/18,387.080,13.38,high
+Missouri,Shelby County,29205,2021/08/18,suppressed,7.14,high
+Tennessee,McMinn County,47107,2021/08/18,462.880,25.90,high
+Missouri,Gentry County,29075,2021/08/18,273.930,3.13,high
+New Mexico,Lincoln County,35027,2021/08/18,490.500,20.48,high
+Oklahoma,Delaware County,40041,2021/08/18,592.900,26.67,high
+Oklahoma,Grant County,40053,2021/08/18,suppressed,14.81,high
+Virginia,Highland County,51091,2021/08/18,0.000,0.00,low
+Alaska,Fairbanks North Star Borough,02090,2021/08/18,147.650,2.57,high
+Florida,Manatee County,12081,2021/08/18,656.160,21.59,high
+Mississippi,Tippah County,28139,2021/08/18,"1,181.010",20.05,high
+Montana,Gallatin County,30031,2021/08/18,152.930,7.08,high
+Nebraska,Dodge County,31053,2021/08/18,0.000,17.99,high
+North Carolina,Caswell County,37033,2021/08/18,247.740,10.20,high
+Tennessee,Campbell County,47013,2021/08/18,451.780,18.13,high
+Georgia,Washington County,13303,2021/08/18,544.810,30.31,high
+Illinois,Gallatin County,17059,2021/08/18,559.240,11.62,high
+Arkansas,Jackson County,05067,2021/08/18,400.740,8.24,high
+Georgia,Walton County,13297,2021/08/18,438.720,22.13,high
+Indiana,Bartholomew County,18005,2021/08/18,230.370,9.88,high
+Iowa,Sioux County,19167,2021/08/18,40.170,5.65,moderate
+Ohio,Morgan County,39115,2021/08/18,137.850,16.48,high
+Oklahoma,Woodward County,40153,2021/08/18,94.010,3.23,substantial
+Oregon,Crook County,41013,2021/08/18,307.330,11.35,high
+Wyoming,Platte County,56031,2021/08/18,428.930,24.32,high
+Wyoming,Uinta County,56041,2021/08/18,484.520,21.67,high
+Georgia,Mitchell County,13205,2021/08/18,493.990,19.90,high
+Georgia,Rabun County,13241,2021/08/18,233.410,12.93,high
+Texas,Armstrong County,48011,2021/08/18,suppressed,50.00,high
+Virginia,Northampton County,51131,2021/08/18,119.560,10.85,high
+Michigan,Ionia County,26067,2021/08/18,98.920,11.34,high
+Mississippi,Humphreys County,28053,2021/08/18,558.040,13.60,high
+West Virginia,Nicholas County,54067,2021/08/18,216.360,8.14,high
+Texas,Hemphill County,48211,2021/08/18,suppressed,,high
+Alabama,Fayette County,01057,2021/08/18,398.720,25.19,high
+California,Alpine County,06003,2021/08/18,0.000,,low
+Kentucky,Fleming County,21069,2021/08/18,404.640,17.48,high
+Nevada,Nye County,32023,2021/08/18,214.950,28.87,high
+South Dakota,Moody County,46101,2021/08/18,suppressed,10.00,high
+Tennessee,Houston County,47083,2021/08/18,"1,231.560",37.33,high
+Vermont,Caledonia County,50005,2021/08/18,76.680,3.05,substantial
+Arizona,Greenlee County,04011,2021/08/18,189.510,10.53,high
+Hawaii,Honolulu County,15003,2021/08/18,331.330,9.16,high
+Idaho,Caribou County,16029,2021/08/18,suppressed,0.00,substantial
+Michigan,Dickinson County,26043,2021/08/18,138.670,7.92,high
+North Carolina,Hertford County,37091,2021/08/18,257.630,16.00,high
+Rhode Island,Washington County,44009,2021/08/18,144.930,2.72,high
+Georgia,Jackson County,13157,2021/08/18,565.930,19.77,high
+Kansas,Smith County,20183,2021/08/18,suppressed,,substantial
+Louisiana,Livingston Parish,22063,2021/08/18,922.660,21.73,high
+Michigan,Oakland County,26125,2021/08/18,118.640,6.19,high
+Mississippi,Bolivar County,28011,2021/08/18,427.710,13.15,high
+Kansas,Cheyenne County,20023,2021/08/18,suppressed,,moderate
+Maryland,Somerset County,24039,2021/08/18,144.440,5.08,high
+North Carolina,Wayne County,37191,2021/08/18,267.200,8.43,high
+Texas,Hays County,48209,2021/08/18,575.610,20.48,high
+Virginia,Craig County,51045,2021/08/18,194.890,19.30,high
+Indiana,Whitley County,18183,2021/08/18,267.930,17.91,high
+New Jersey,Morris County,34027,2021/08/18,106.130,4.19,high
+South Carolina,Anderson County,45007,2021/08/18,477.890,14.40,high
+Washington,Franklin County,53021,2021/08/18,780.280,58.37,high
+California,Napa County,06055,2021/08/18,234.490,4.26,high
+Illinois,Adams County,17001,2021/08/18,727.440,7.92,high
+Illinois,Coles County,17029,2021/08/18,272.610,9.01,high
+Illinois,McLean County,17113,2021/08/18,221.550,3.42,high
+New York,Livingston County,36051,2021/08/18,69.940,4.53,substantial
+North Carolina,Buncombe County,37021,2021/08/18,262.260,9.38,high
+North Carolina,Pamlico County,37137,2021/08/18,282.890,12.73,high
+Ohio,Erie County,39043,2021/08/18,228.910,9.66,high
+West Virginia,Lewis County,54041,2021/08/18,477.780,12.20,high
+Georgia,Brooks County,13027,2021/08/18,873.390,31.25,high
+Georgia,Pulaski County,13235,2021/08/18,484.870,27.78,high
+Illinois,Lee County,17103,2021/08/18,102.650,3.39,high
+Kentucky,Magoffin County,21153,2021/08/18,855.190,14.12,high
+New York,Albany County,36001,2021/08/18,128.640,5.47,high
+Pennsylvania,Wyoming County,42131,2021/08/18,55.980,6.85,substantial
+Kansas,Republic County,20157,2021/08/18,suppressed,12.50,high
+Kentucky,Livingston County,21139,2021/08/18,250.160,14.18,high
+Oklahoma,McClain County,40087,2021/08/18,368.140,25.27,high
+Texas,Presidio County,48377,2021/08/18,164.080,0.00,high
+Mississippi,Wilkinson County,28157,2021/08/18,706.840,5.26,high
+Missouri,Camden County,29029,2021/08/18,267.790,11.34,high
+West Virginia,Greenbrier County,54025,2021/08/18,95.210,6.98,substantial
+Georgia,Echols County,13101,2021/08/18,873.690,35.29,high
+Indiana,Hamilton County,18057,2021/08/18,210.050,9.36,high
+New York,Herkimer County,36043,2021/08/18,86.430,4.99,substantial
+New York,Oneida County,36065,2021/08/18,110.200,4.54,high
+Florida,Putnam County,12107,2021/08/18,869.550,28.94,high
+Oklahoma,Creek County,40037,2021/08/18,392.890,27.09,high
+North Carolina,Watauga County,37189,2021/08/18,135.290,5.72,high
+Alabama,Walker County,01127,2021/08/18,489.600,22.73,high
+California,Colusa County,06011,2021/08/18,491.950,,high
+Florida,Dixie County,12029,2021/08/18,766.670,22.46,high
+Illinois,White County,17193,2021/08/18,672.230,8.58,high
+Kentucky,Christian County,21047,2021/08/18,221.400,6.90,high
+Minnesota,Houston County,27055,2021/08/18,225.810,8.70,high
+Mississippi,Lincoln County,28085,2021/08/18,342.580,14.53,high
+Arkansas,Washington County,05143,2021/08/18,601.620,10.57,high
+Alabama,Clay County,01027,2021/08/18,498.680,28.08,high
+Colorado,Washington County,08121,2021/08/18,suppressed,4.76,moderate
+Maine,York County,23031,2021/08/18,93.430,6.19,substantial
+Utah,Duchesne County,49013,2021/08/18,0.000,17.86,high
+New Mexico,Luna County,35029,2021/08/18,118.100,1.62,high
+South Carolina,Chesterfield County,45025,2021/08/18,308.870,17.03,high
+South Carolina,Lancaster County,45057,2021/08/18,293.840,12.69,high
+South Dakota,Codington County,46029,2021/08/18,146.380,6.90,high
+Utah,Beaver County,49001,2021/08/18,0.000,16.33,high
+Virginia,Staunton City,51790,2021/08/18,156.430,9.51,high
+North Carolina,Cumberland County,37051,2021/08/18,321.900,20.14,high
+Texas,Shelby County,48419,2021/08/18,332.360,16.54,high
+Virginia,Caroline County,51033,2021/08/18,195.280,10.28,high
+Puerto Rico,Fajardo Muno,72053,2021/08/18,200.310,15.64,high
+Puerto Rico,Quebradillas Muno,72115,2021/08/18,165.810,15.03,high
+Ohio,Belmont County,39013,2021/08/18,217.890,15.72,high
+Ohio,Fairfield County,39045,2021/08/18,155.480,9.62,high
+Texas,Victoria County,48469,2021/08/18,447.420,28.75,high
+Puerto Rico,Loíza Muno,72087,2021/08/18,134.400,9.55,high
+Illinois,Crawford County,17033,2021/08/18,723.200,2.97,high
+Kansas,Wichita County,20203,2021/08/18,suppressed,5.56,high
+Nebraska,Greeley County,31077,2021/08/18,0.000,,low
+New York,Clinton County,36019,2021/08/18,37.270,1.48,moderate
+North Carolina,Bertie County,37015,2021/08/18,258.620,12.56,high
+South Carolina,Beaufort County,45013,2021/08/18,614.710,19.39,high
+Washington,Thurston County,53067,2021/08/18,263.310,10.46,high
+Wisconsin,Wood County,55141,2021/08/18,110.960,7.00,high
+Colorado,Yuma County,08125,2021/08/18,suppressed,0.61,substantial
+Florida,Martin County,12085,2021/08/18,404.970,17.79,high
+Illinois,Sangamon County,17167,2021/08/18,361.120,9.99,high
+Missouri,Platte County,29165,2021/08/18,145.570,13.43,high
+New Jersey,Cape May County,34009,2021/08/18,316.170,6.97,high
+Washington,Chelan County,53007,2021/08/18,445.600,13.85,high
+Michigan,Macomb County,26099,2021/08/18,104.120,6.17,high
+Missouri,Bollinger County,29017,2021/08/18,247.260,13.68,high
+North Carolina,Guilford County,37081,2021/08/18,248.710,9.78,high
+Pennsylvania,Somerset County,42111,2021/08/18,81.690,3.80,substantial
+Ohio,Butler County,39017,2021/08/18,140.420,9.42,high
+Montana,Valley County,30105,2021/08/18,suppressed,5.71,substantial
+Oregon,Wallowa County,41063,2021/08/18,416.200,15.00,high
+Vermont,Bennington County,50003,2021/08/18,146.600,4.34,high
+Puerto Rico,Rincón Muno,72117,2021/08/18,234.330,21.30,high
+Minnesota,Hubbard County,27057,2021/08/18,97.720,2.82,substantial
+Texas,Bowie County,48037,2021/08/18,439.700,21.58,high
+Indiana,Morgan County,18109,2021/08/18,290.830,18.85,high
+Kentucky,Montgomery County,21173,2021/08/18,749.370,12.63,high
+Louisiana,Terrebonne Parish,22109,2021/08/18,"1,199.520",21.33,high
+North Carolina,Chatham County,37037,2021/08/18,244.390,7.61,high
+Texas,La Salle County,48283,2021/08/18,suppressed,8.57,substantial
+Virginia,Norton City,51720,2021/08/18,376.790,8.92,high
+Ohio,Putnam County,39137,2021/08/18,121.080,14.97,high
+Ohio,Summit County,39153,2021/08/18,122.550,7.41,high
+Oklahoma,Caddo County,40015,2021/08/18,278.140,25.00,high
+Oklahoma,Pontotoc County,40123,2021/08/18,279.490,9.87,high
+Texas,Reeves County,48389,2021/08/18,"1,007.760",12.50,high
+Puerto Rico,Humacao Muno,72069,2021/08/18,122.400,8.88,high
+Kentucky,Fayette County,21067,2021/08/18,332.660,8.98,high
+Minnesota,Washington County,27163,2021/08/18,135.270,5.08,high
+Nebraska,Keith County,31101,2021/08/18,0.000,40.00,high
+Tennessee,Hamblen County,47063,2021/08/18,546.710,22.17,high
+Tennessee,Hardin County,47071,2021/08/18,580.850,14.53,high
+Texas,Dallam County,48111,2021/08/18,178.400,0.00,high
+Washington,Pacific County,53049,2021/08/18,342.660,17.25,high
+Illinois,Ogle County,17141,2021/08/18,159.940,8.67,high
+Maine,Knox County,23013,2021/08/18,82.970,5.19,substantial
+Montana,Cascade County,30013,2021/08/18,392.060,12.50,high
+Texas,Fisher County,48151,2021/08/18,339.430,7.69,high
+Virginia,Smyth County,51173,2021/08/18,229.210,14.80,high
+Illinois,Jo Daviess County,17085,2021/08/18,131.860,8.47,high
+Oregon,Jefferson County,41031,2021/08/18,352.830,12.28,high
+South Carolina,Hampton County,45049,2021/08/18,546.250,21.87,high
+Virginia,Giles County,51071,2021/08/18,197.370,9.80,high
+Iowa,Marshall County,19127,2021/08/18,172.720,22.67,high
+Louisiana,St. Martin Parish,22099,2021/08/18,632.590,24.10,high
+Missouri,Johnson County,29101,2021/08/18,305.210,15.44,high
+Nevada,Churchill County,32001,2021/08/18,208.760,9.85,high
+South Carolina,Darlington County,45031,2021/08/18,309.230,10.66,high
+West Virginia,Jackson County,54035,2021/08/18,125.980,11.40,high
+Kansas,Kiowa County,20097,2021/08/18,444.440,25.00,high
+New Mexico,Otero County,35035,2021/08/18,232.630,10.30,high
+Texas,Childress County,48075,2021/08/18,suppressed,10.00,high
+California,Yuba County,06115,2021/08/18,448.720,16.49,high
+Minnesota,Cook County,27031,2021/08/18,suppressed,1.46,moderate
+Colorado,Douglas County,08035,2021/08/18,142.100,6.96,high
+North Dakota,McHenry County,38049,2021/08/18,suppressed,0.00,substantial
+Oklahoma,Oklahoma County,40109,2021/08/18,294.700,18.70,high
+West Virginia,Monongalia County,54061,2021/08/18,157.180,7.70,high
+Arkansas,Miller County,05091,2021/08/18,399.940,19.72,high
+Michigan,Crawford County,26039,2021/08/18,92.670,4.26,substantial
+Ohio,Jackson County,39079,2021/08/18,215.960,9.95,high
+Virginia,Virginia Beach City,51810,2021/08/18,244.900,11.65,high
+Kansas,Elk County,20049,2021/08/18,395.260,9.09,high
+Oklahoma,Beckham County,40009,2021/08/18,82.350,25.81,high
+North Dakota,Dickey County,38021,2021/08/18,suppressed,0.00,substantial
+Illinois,Henderson County,17071,2021/08/18,285.890,17.14,high
+Iowa,Kossuth County,19109,2021/08/18,209.280,17.71,high
+Kansas,Morton County,20129,2021/08/18,suppressed,,substantial
+Tennessee,Fayette County,47047,2021/08/18,430.310,17.06,high
+Tennessee,Haywood County,47075,2021/08/18,676.140,27.84,high
+Texas,Dimmit County,48127,2021/08/18,"1,303.830",18.29,high
+Nebraska,Loup County,31115,2021/08/18,0.000,,low
+Washington,Asotin County,53003,2021/08/18,402.980,16.55,high
+Florida,Clay County,12019,2021/08/18,683.230,25.86,high
+Nevada,Lander County,32015,2021/08/18,suppressed,0.00,moderate
+Nevada,Lincoln County,32017,2021/08/18,suppressed,8.82,substantial
+North Carolina,Sampson County,37163,2021/08/18,476.930,16.00,high
+North Dakota,Richland County,38077,2021/08/18,suppressed,6.98,moderate
+Oklahoma,Pushmataha County,40127,2021/08/18,513.700,20.83,high
+Wisconsin,Oconto County,55083,2021/08/18,221.460,12.20,high
+North Carolina,Pender County,37141,2021/08/18,444.020,19.76,high
+Pennsylvania,Lehigh County,42077,2021/08/18,137.010,8.08,high
+South Carolina,Lee County,45061,2021/08/18,356.550,8.46,high
+West Virginia,Brooke County,54009,2021/08/18,86.600,11.61,high
+California,Merced County,06047,2021/08/18,287.020,12.20,high
+Georgia,Gilmer County,13123,2021/08/18,382.540,21.45,high
+Kentucky,Anderson County,21005,2021/08/18,413.240,13.05,high
+Ohio,Mahoning County,39099,2021/08/18,146.490,6.89,high
+Pennsylvania,Blair County,42013,2021/08/18,77.980,5.99,substantial
+Illinois,Iroquois County,17075,2021/08/18,147.530,9.22,high
+Iowa,Plymouth County,19149,2021/08/18,63.550,12.77,high
+Mississippi,Quitman County,28119,2021/08/18,338.630,23.00,high
+Missouri,Nodaway County,29147,2021/08/18,321.380,16.56,high
+New York,Seneca County,36099,2021/08/18,67.620,3.58,substantial
+North Dakota,Pierce County,38069,2021/08/18,suppressed,0.68,high
+Tennessee,Van Buren County,47175,2021/08/18,357.630,32.50,high
+Kentucky,Nelson County,21179,2021/08/18,586.160,14.61,high
+Montana,Stillwater County,30095,2021/08/18,155.570,8.89,high
+New York,Erie County,36029,2021/08/18,92.300,4.19,substantial
+Oregon,Jackson County,41029,2021/08/18,695.650,19.13,high
+Georgia,Coffee County,13069,2021/08/18,526.890,22.41,high
+Texas,Frio County,48163,2021/08/18,704.230,17.23,high
+Alabama,Bullock County,01011,2021/08/18,326.700,26.38,high
+Colorado,Clear Creek County,08019,2021/08/18,suppressed,4.44,substantial
+Minnesota,Pine County,27115,2021/08/18,145.370,10.09,high
+North Carolina,Johnston County,37101,2021/08/18,415.120,14.88,high
+Texas,Ellis County,48139,2021/08/18,418.230,22.75,high
+Wyoming,Natrona County,56025,2021/08/18,374.410,8.15,high
+California,Monterey County,06053,2021/08/18,108.970,4.84,high
+Kansas,Rooks County,20163,2021/08/18,suppressed,3.03,moderate
+North Dakota,Foster County,38031,2021/08/18,0.000,,low
+South Carolina,Jasper County,45053,2021/08/18,548.660,23.37,high
+Utah,Millard County,49027,2021/08/18,318.470,32.26,high
+California,San Joaquin County,06077,2021/08/18,184.480,8.19,high
+Georgia,Morgan County,13211,2021/08/18,700.350,25.46,high
+Michigan,Wayne County,26163,2021/08/18,100.320,6.72,high
+Tennessee,Lincoln County,47103,2021/08/18,581.970,16.70,high
+Maryland,Howard County,24027,2021/08/18,66.930,2.87,substantial
+Missouri,Lafayette County,29107,2021/08/18,510.580,21.16,high
+Texas,Crockett County,48105,2021/08/18,635.100,,high
+Iowa,Worth County,19195,2021/08/18,176.130,20.78,high
+Arkansas,Randolph County,05121,2021/08/18,490.030,15.31,high
+California,Ventura County,06111,2021/08/18,158.860,7.44,high
+Indiana,Noble County,18113,2021/08/18,245.060,13.29,high
+Louisiana,St. Charles Parish,22089,2021/08/18,845.570,17.75,high
+Georgia,Screven County,13251,2021/08/18,844.910,34.11,high
+Montana,Garfield County,30033,2021/08/18,suppressed,11.63,high
+Oklahoma,Harper County,40059,2021/08/18,suppressed,,moderate
+Wisconsin,Washington County,55131,2021/08/18,219.060,10.23,high
+Arkansas,Greene County,05055,2021/08/18,838.390,14.96,high
+New York,Delaware County,36025,2021/08/18,163.140,7.34,high
+Pennsylvania,Washington County,42125,2021/08/18,107.320,6.06,high
+South Dakota,McPherson County,46089,2021/08/18,suppressed,,moderate
+Texas,Borden County,48033,2021/08/18,suppressed,,high
+Texas,Walker County,48471,2021/08/18,322.050,12.73,high
+West Virginia,Morgan County,54065,2021/08/18,206.890,9.43,high
+Arizona,Graham County,04009,2021/08/18,262.640,14.13,high
+Florida,Hardee County,12049,2021/08/18,824.150,24.10,high
+Minnesota,Swift County,27151,2021/08/18,215.840,5.25,high
+Mississippi,Grenada County,28043,2021/08/18,712.980,19.92,high
+Nebraska,Pawnee County,31133,2021/08/18,0.000,,low
+West Virginia,Marion County,54049,2021/08/18,180.130,7.43,high
+Kentucky,Butler County,21031,2021/08/18,403.760,19.81,high
+Nebraska,Dawes County,31045,2021/08/18,0.000,,low
+North Carolina,Columbus County,37047,2021/08/18,691.790,20.28,high
+Pennsylvania,Jefferson County,42065,2021/08/18,105.930,9.69,high
+California,Sacramento County,06067,2021/08/18,242.710,9.47,high
+North Carolina,Lee County,37105,2021/08/18,454.850,15.68,high
+Ohio,Brown County,39015,2021/08/18,283.200,14.55,high
+Oklahoma,Johnston County,40069,2021/08/18,306.720,33.33,high
+Ohio,Paulding County,39125,2021/08/18,374.890,22.60,high
+Virginia,Surry County,51181,2021/08/18,202.430,13.00,high
+Alabama,Coosa County,01037,2021/08/18,440.780,19.42,high
+Indiana,Johnson County,18081,2021/08/18,343.940,14.60,high
+Minnesota,Lac qui Parle County,27073,2021/08/18,suppressed,4.67,high
+Ohio,Ross County,39141,2021/08/18,185.220,11.18,high
+North Dakota,Ransom County,38073,2021/08/18,suppressed,3.45,substantial
+Iowa,Howard County,19089,2021/08/18,suppressed,2.16,substantial
+Louisiana,St. Bernard Parish,22087,2021/08/18,895.350,19.64,high
+Texas,Live Oak County,48297,2021/08/18,532.480,27.88,high
+Georgia,DeKalb County,13089,2021/08/18,286.450,11.61,high
+Indiana,Ripley County,18137,2021/08/18,321.280,18.83,high
+Kentucky,Owen County,21187,2021/08/18,522.890,8.15,high
+Michigan,Ottawa County,26139,2021/08/18,113.080,9.44,high
+Idaho,Ada County,16001,2021/08/18,273.680,17.26,high
+Ohio,Clinton County,39027,2021/08/18,302.610,13.04,high
+Pennsylvania,Montgomery County,42091,2021/08/18,106.630,4.64,high
+Florida,Duval County,12031,2021/08/18,665.620,21.27,high
+Georgia,Greene County,13133,2021/08/18,845.890,26.11,high
+Texas,Haskell County,48207,2021/08/18,suppressed,,high
+Texas,Val Verde County,48465,2021/08/18,573.180,23.82,high
+Wisconsin,Dunn County,55033,2021/08/18,145.480,7.76,high
+Alabama,Tuscaloosa County,01125,2021/08/18,312.390,18.40,high
+California,Lake County,06033,2021/08/18,354.110,15.56,high
+Georgia,Cook County,13075,2021/08/18,"1,493.920",21.20,high
+Georgia,Polk County,13233,2021/08/18,495.150,22.24,high
+Idaho,Camas County,16025,2021/08/18,0.000,0.00,low
+Michigan,Cass County,26027,2021/08/18,108.140,16.54,high
+Virginia,Hopewell City,51670,2021/08/18,350.660,9.04,high
+Wisconsin,Adams County,55001,2021/08/18,232.440,7.79,high
+Oregon,Yamhill County,41071,2021/08/18,301.590,12.78,high
+Texas,Hill County,48217,2021/08/18,321.970,27.45,high
+Texas,Milam County,48331,2021/08/18,495.510,26.53,high
+Arizona,Cochise County,04003,2021/08/18,111.180,6.70,high
+Arkansas,Pope County,05115,2021/08/18,722.620,7.92,high
+Kansas,Cowley County,20035,2021/08/18,343.760,12.27,high
+Virginia,Lancaster County,51103,2021/08/18,377.250,12.88,high
+Arkansas,Union County,05139,2021/08/18,258.520,15.82,high
+Iowa,Clinton County,19045,2021/08/18,88.310,11.42,high
+North Dakota,Cass County,38017,2021/08/18,146.770,5.31,high
+Pennsylvania,Lancaster County,42071,2021/08/18,118.740,7.65,high
+New Jersey,Hunterdon County,34019,2021/08/18,115.780,5.23,high
+North Dakota,Walsh County,38099,2021/08/18,112.770,5.06,high
+Texas,San Augustine County,48405,2021/08/18,364.210,12.61,high
+Alabama,Marshall County,01095,2021/08/18,527.000,23.63,high
+New York,Rockland County,36087,2021/08/18,83.490,3.58,substantial
+Ohio,Preble County,39135,2021/08/18,178.560,11.74,high
+Pennsylvania,Schuylkill County,42107,2021/08/18,102.580,9.70,high
+Tennessee,Sullivan County,47163,2021/08/18,423.120,18.53,high
+Virginia,Radford City,51750,2021/08/18,153.430,13.88,high
+Arkansas,Poinsett County,05111,2021/08/18,718.290,9.57,high
+Minnesota,Sibley County,27143,2021/08/18,195.090,11.07,high
+South Dakota,Davison County,46035,2021/08/18,101.140,6.52,high
+Puerto Rico,Aguada Muno,72003,2021/08/18,294.330,21.10,high
+Iowa,Clay County,19041,2021/08/18,62.440,4.63,substantial
+Oklahoma,Pawnee County,40117,2021/08/18,525.160,21.49,high
+Kentucky,Bath County,21011,2021/08/18,224.000,8.17,high
+Tennessee,Coffee County,47031,2021/08/18,403.400,15.50,high
+Wisconsin,Douglas County,55031,2021/08/18,88.060,6.28,substantial
+Wisconsin,Marathon County,55073,2021/08/18,147.390,8.15,high
+Arkansas,Perry County,05105,2021/08/18,583.450,18.35,high
+Indiana,St. Joseph County,18141,2021/08/18,132.810,7.82,high
+Kansas,Allen County,20001,2021/08/18,323.390,13.14,high
+Michigan,Lapeer County,26087,2021/08/18,136.980,14.78,high
+Michigan,Leelanau County,26089,2021/08/18,suppressed,1.11,moderate
+Texas,Reagan County,48383,2021/08/18,649.520,61.11,high
+Alaska,Matanuska-Susitna Borough,02170,2021/08/18,244.650,7.56,high
+Idaho,Owyhee County,16073,2021/08/18,194.540,17.76,high
+Louisiana,Jefferson Parish,22051,2021/08/18,767.410,16.52,high
+Arkansas,Crawford County,05033,2021/08/18,415.760,13.47,high
+Arkansas,Grant County,05053,2021/08/18,520.120,18.84,high
+Washington,Skamania County,53059,2021/08/18,256.560,6.00,high
+Ohio,Fayette County,39047,2021/08/18,133.220,6.54,high
+Virginia,Covington City,51580,2021/08/18,suppressed,7.14,moderate
+Wisconsin,Dane County,55025,2021/08/18,123.290,4.59,high
+Alabama,Russell County,01113,2021/08/18,291.580,23.21,high
+Kentucky,Morgan County,21175,2021/08/18,443.310,17.89,high
+Mississippi,Newton County,28101,2021/08/18,"1,099.060",22.87,high
+Missouri,Carter County,29035,2021/08/18,685.390,28.95,high
+Missouri,Douglas County,29067,2021/08/18,235.120,15.71,high
+New York,Richmond County,36085,2021/08/18,320.700,5.04,high
+North Dakota,Stutsman County,38093,2021/08/18,91.770,0.58,substantial
+Puerto Rico,Las Marías Muno,72083,2021/08/18,suppressed,5.56,substantial
+Maryland,Talbot County,24041,2021/08/18,115.650,5.97,high
+Mississippi,Clarke County,28023,2021/08/18,"1,093.880",16.88,high
+Nebraska,Franklin County,31061,2021/08/18,0.000,,low
+North Carolina,Alexander County,37003,2021/08/18,349.360,15.54,high
+North Carolina,Montgomery County,37123,2021/08/18,279.690,11.25,high
+Ohio,Williams County,39171,2021/08/18,220.760,6.47,high
+Michigan,Roscommon County,26143,2021/08/18,suppressed,2.96,moderate
+Nebraska,Thayer County,31169,2021/08/18,0.000,33.33,high
+Nebraska,Sheridan County,31161,2021/08/18,0.000,,low
+Pennsylvania,Northampton County,42095,2021/08/18,181.800,9.47,high
+Alabama,Geneva County,01061,2021/08/18,795.550,27.45,high
+Iowa,Des Moines County,19057,2021/08/18,254.060,12.86,high
+Louisiana,Natchitoches Parish,22069,2021/08/18,503.170,9.96,high
+Minnesota,Norman County,27107,2021/08/18,suppressed,2.26,high
+North Carolina,Franklin County,37069,2021/08/18,281.270,10.93,high
+Pennsylvania,Juniata County,42067,2021/08/18,84.800,5.20,substantial
+Indiana,Clinton County,18023,2021/08/18,277.790,13.41,high
+Louisiana,Cameron Parish,22023,2021/08/18,372.870,27.91,high
+Michigan,Gogebic County,26053,2021/08/18,121.650,6.59,high
+Minnesota,Goodhue County,27049,2021/08/18,207.160,7.12,high
+Pennsylvania,Clearfield County,42033,2021/08/18,140.050,7.40,high
+Connecticut,Middlesex County,09007,2021/08/18,111.430,4.25,high
+Georgia,Brantley County,13025,2021/08/18,868.700,25.90,high
+Virginia,Pulaski County,51155,2021/08/18,240.990,16.01,high
+Kansas,Jackson County,20085,2021/08/18,288.510,13.71,high
+Nebraska,Sherman County,31163,2021/08/18,0.000,,low
+New Mexico,Valencia County,35061,2021/08/18,241.240,6.76,high
+Michigan,Newaygo County,26123,2021/08/18,57.170,7.96,substantial
+Washington,Island County,53029,2021/08/18,191.450,11.65,high
+Nebraska,Hayes County,31085,2021/08/18,0.000,,low
+Oklahoma,McIntosh County,40091,2021/08/18,270.460,25.37,high
+South Dakota,Clay County,46027,2021/08/18,suppressed,14.89,high
+Alaska,Bethel CA,02050,2021/08/18,239.310,2.60,high
+Colorado,Pueblo County,08101,2021/08/18,111.030,4.93,high
+Illinois,Perry County,17145,2021/08/18,693.250,13.42,high
+Kansas,Pottawatomie County,20149,2021/08/18,352.700,30.08,high
+Minnesota,Big Stone County,27011,2021/08/18,suppressed,1.94,moderate
+Minnesota,Lake County,27075,2021/08/18,93.980,2.95,substantial
+Mississippi,Tallahatchie County,28135,2021/08/18,354.840,18.87,high
+New Mexico,Roosevelt County,35041,2021/08/18,356.760,9.89,high
+Ohio,Shelby County,39149,2021/08/18,146.120,8.63,high
+Texas,Anderson County,48001,2021/08/18,188.790,20.83,high
+Texas,Navarro County,48349,2021/08/18,644.540,20.25,high
+Puerto Rico,Comerío Muno,72045,2021/08/18,107.250,9.85,high
+Alabama,Crenshaw County,01041,2021/08/18,493.760,27.56,high
+California,Los Angeles County,06037,2021/08/18,238.670,4.13,high
+Illinois,Edwards County,17047,2021/08/18,703.670,23.85,high
+Indiana,Cass County,18017,2021/08/18,249.410,14.07,high
+Louisiana,Calcasieu Parish,22019,2021/08/18,674.410,15.47,high
+Tennessee,Fentress County,47049,2021/08/18,242.940,14.66,high
+West Virginia,Harrison County,54033,2021/08/18,172.480,6.76,high
+Arkansas,Marion County,05089,2021/08/18,599.020,14.18,high
+Missouri,Macon County,29121,2021/08/18,284.450,31.30,high
+Tennessee,Jefferson County,47089,2021/08/18,438.570,13.08,high
+Texas,Bexar County,48029,2021/08/18,568.690,23.90,high
+Utah,Juab County,49023,2021/08/18,174.750,18.00,high
+Puerto Rico,Maunabo Muno,72095,2021/08/18,184.090,10.31,high
+Indiana,Montgomery County,18107,2021/08/18,281.700,18.85,high
+Missouri,Bates County,29013,2021/08/18,445.210,30.91,high
+West Virginia,Mason County,54053,2021/08/18,230.050,7.18,high
+Florida,Brevard County,12009,2021/08/18,723.820,21.47,high
+Idaho,Washington County,16087,2021/08/18,215.810,22.97,high
+Missouri,Gasconade County,29073,2021/08/18,387.600,18.07,high
+Wisconsin,Portage County,55097,2021/08/18,121.520,6.91,high
+Kentucky,Hickman County,21105,2021/08/18,suppressed,8.47,high
+Michigan,Hillsdale County,26059,2021/08/18,122.790,17.25,high
+Minnesota,Lyon County,27083,2021/08/18,168.800,9.19,high
+South Carolina,Bamberg County,45009,2021/08/18,255.940,8.93,high
+Arkansas,Benton County,05007,2021/08/18,424.520,9.71,high
+Louisiana,Jackson Parish,22049,2021/08/18,622.460,12.24,high
+Missouri,Mercer County,29129,2021/08/18,387.060,24.00,high
+Montana,Park County,30067,2021/08/18,204.750,3.73,high
+Virginia,Fredericksburg City,51630,2021/08/18,168.760,6.67,high
+West Virginia,Ohio County,54069,2021/08/18,268.040,8.98,high
+Wisconsin,Chippewa County,55017,2021/08/18,214.980,9.70,high
+Idaho,Bonner County,16017,2021/08/18,159.600,14.45,high
+Kansas,Shawnee County,20177,2021/08/18,426.860,14.79,high
+Kansas,Stafford County,20185,2021/08/18,suppressed,20.83,high
+Mississippi,Lauderdale County,28075,2021/08/18,820.240,25.77,high
+Indiana,Monroe County,18105,2021/08/18,149.560,8.40,high
+New Hampshire,Strafford County,33017,2021/08/18,111.760,4.41,high
+New York,Tioga County,36107,2021/08/18,120.320,6.63,high
+Pennsylvania,Lawrence County,42073,2021/08/18,118.110,6.90,high
+Iowa,Adams County,19003,2021/08/18,suppressed,16.67,high
+Oklahoma,Rogers County,40131,2021/08/18,483.460,19.54,high
+Virginia,Accomack County,51001,2021/08/18,225.890,15.77,high
+Florida,Marion County,12083,2021/08/18,726.790,25.65,high
+Michigan,Kalkaska County,26079,2021/08/18,110.880,5.85,high
+Michigan,Mecosta County,26107,2021/08/18,73.640,7.33,substantial
+Minnesota,Pipestone County,27117,2021/08/18,suppressed,5.47,substantial
+New Mexico,Guadalupe County,35019,2021/08/18,279.070,5.19,high
+West Virginia,Summers County,54089,2021/08/18,143.160,6.18,high
+Wyoming,Washakie County,56043,2021/08/18,192.180,8.84,high
+Georgia,Glascock County,13125,2021/08/18,"1,043.420",22.58,high
+Kentucky,Todd County,21219,2021/08/18,325.360,7.76,high
+Ohio,Seneca County,39147,2021/08/18,108.740,7.02,high
+Virginia,York County,51199,2021/08/18,150.850,9.11,high
+Texas,Kinney County,48271,2021/08/18,suppressed,36.36,high
+Florida,Polk County,12105,2021/08/18,898.480,27.06,high
+Kentucky,Robertson County,21201,2021/08/18,suppressed,1.37,high
+South Dakota,Grant County,46051,2021/08/18,155.980,23.53,high
+Alabama,Marengo County,01091,2021/08/18,455.920,18.91,high
+Alaska,Bristol Bay Borough,02060,2021/08/18,0.000,,low
+Florida,Franklin County,12037,2021/08/18,"1,105.150",34.74,high
+Iowa,Emmet County,19063,2021/08/18,suppressed,7.41,moderate
+Ohio,Lawrence County,39087,2021/08/18,295.980,23.90,high
+Georgia,Tift County,13277,2021/08/18,"1,429.490",21.20,high
+Louisiana,Franklin Parish,22041,2021/08/18,759.430,6.60,high
+New York,Monroe County,36055,2021/08/18,134.410,5.55,high
+North Dakota,Grant County,38037,2021/08/18,suppressed,,substantial
+Georgia,Wayne County,13305,2021/08/18,775.220,30.00,high
+Indiana,Lake County,18089,2021/08/18,122.140,9.25,high
+Pennsylvania,Fayette County,42051,2021/08/18,91.280,5.91,substantial
+West Virginia,Randolph County,54083,2021/08/18,400.770,8.22,high
+Arkansas,Madison County,05087,2021/08/18,603.280,8.36,high
+Georgia,Clay County,13061,2021/08/18,423.430,9.09,high
+Iowa,Jefferson County,19101,2021/08/18,191.310,11.83,high
+Kansas,Gove County,20063,2021/08/18,suppressed,15.38,high
+Kentucky,Spencer County,21215,2021/08/18,552.940,22.08,high
+Louisiana,Jefferson Davis Parish,22053,2021/08/18,621.650,11.63,high
+California,Tulare County,06107,2021/08/18,165.600,7.77,high
+Colorado,Ouray County,08091,2021/08/18,suppressed,15.38,high
+Utah,Tooele County,49045,2021/08/18,304.460,13.46,high
+Connecticut,Fairfield County,09001,2021/08/18,120.850,3.59,high
+Missouri,Audrain County,29007,2021/08/18,842.920,9.30,high
+Missouri,Livingston County,29117,2021/08/18,538.520,18.81,high
+Montana,Golden Valley County,30037,2021/08/18,suppressed,25.00,high
+Nebraska,Boyd County,31015,2021/08/18,0.000,,low
+Kentucky,Monroe County,21171,2021/08/18,394.370,25.22,high
+Alabama,Randolph County,01111,2021/08/18,308.070,12.04,high
+Missouri,New Madrid County,29143,2021/08/18,532.910,28.41,high
+North Dakota,McLean County,38055,2021/08/18,179.890,1.96,high
+West Virginia,Pleasants County,54073,2021/08/18,227.880,12.00,high
+Minnesota,Wadena County,27159,2021/08/18,146.180,8.55,high
+North Carolina,Hoke County,37093,2021/08/18,280.620,14.71,high
+Arkansas,Van Buren County,05141,2021/08/18,368.690,11.45,high
+Kansas,Thomas County,20193,2021/08/18,244.310,18.67,high
+Michigan,Gladwin County,26051,2021/08/18,55.010,9.22,substantial
+North Dakota,McKenzie County,38053,2021/08/18,73.220,0.00,substantial
+Utah,Iron County,49021,2021/08/18,0.000,18.75,high
+Wisconsin,Milwaukee County,55079,2021/08/18,231.040,9.61,high
+Kansas,Sherman County,20181,2021/08/18,suppressed,23.81,high
+Minnesota,Redwood County,27127,2021/08/18,145.020,5.99,high
+Texas,Gray County,48179,2021/08/18,201.040,17.56,high
+Virginia,Fluvanna County,51065,2021/08/18,132.010,3.26,high
+Kansas,Marshall County,20117,2021/08/18,206.040,5.08,high
+Texas,Kent County,48263,2021/08/18,0.000,,low
+Minnesota,Ramsey County,27123,2021/08/18,134.830,5.34,high
+Mississippi,Amite County,28005,2021/08/18,813.210,26.25,high
+Texas,Caldwell County,48055,2021/08/18,428.270,25.96,high
+West Virginia,Jefferson County,54037,2021/08/18,190.740,9.18,high
+Illinois,Jefferson County,17081,2021/08/18,514.810,13.80,high
+Iowa,Osceola County,19143,2021/08/18,suppressed,25.00,high
+Kentucky,Harrison County,21097,2021/08/18,450.070,7.07,high
+Minnesota,Sherburne County,27141,2021/08/18,227.280,7.92,high
+Oklahoma,Pottawatomie County,40125,2021/08/18,272.760,17.58,high
+Texas,Bailey County,48017,2021/08/18,suppressed,0.00,high
+Virginia,King William County,51101,2021/08/18,227.430,11.49,high
+Florida,Nassau County,12089,2021/08/18,745.840,20.38,high
+Georgia,Forsyth County,13117,2021/08/18,377.070,16.70,high
+Iowa,Fremont County,19071,2021/08/18,201.150,34.78,high
+Kansas,Morris County,20127,2021/08/18,355.870,12.68,high
+Texas,El Paso County,48141,2021/08/18,100.690,5.53,high
+Georgia,Emanuel County,13107,2021/08/18,591.720,20.71,high
+Indiana,Jefferson County,18077,2021/08/18,526.190,13.29,high
+Maine,Franklin County,23007,2021/08/18,52.980,2.78,substantial
+Minnesota,Renville County,27129,2021/08/18,103.110,2.82,high
+Georgia,Laurens County,13175,2021/08/18,723.510,25.62,high
+Virginia,Portsmouth City,51740,2021/08/18,262.720,11.65,high
+Wisconsin,Lincoln County,55069,2021/08/18,123.220,10.94,high
+Texas,Kaufman County,48257,2021/08/18,456.840,27.79,high
+Iowa,Clarke County,19039,2021/08/18,255.460,12.73,high
+Iowa,Wayne County,19185,2021/08/18,suppressed,9.09,substantial
+Kentucky,Pulaski County,21199,2021/08/18,410.900,6.55,high
+Oregon,Sherman County,41055,2021/08/18,suppressed,0.00,substantial
+Georgia,Decatur County,13087,2021/08/18,685.500,23.78,high
+Iowa,Buchanan County,19019,2021/08/18,188.900,16.73,high
+Kentucky,Crittenden County,21055,2021/08/18,533.730,20.83,high
+Mississippi,Attala County,28007,2021/08/18,"1,359.080",15.94,high
+Alabama,Lauderdale County,01077,2021/08/18,442.150,17.51,high
+California,Santa Barbara County,06083,2021/08/18,205.600,8.78,high
+Iowa,Palo Alto County,19147,2021/08/18,suppressed,6.47,substantial
+Louisiana,West Feliciana Parish,22125,2021/08/18,501.030,25.00,high
+Utah,Rich County,49033,2021/08/18,suppressed,7.14,moderate
+Virginia,Powhatan County,51145,2021/08/18,151.760,14.38,high
+Puerto Rico,Jayuya Muno,72073,2021/08/18,suppressed,0.00,substantial
+Minnesota,Pennington County,27113,2021/08/18,148.740,7.96,high
+Mississippi,Stone County,28131,2021/08/18,"1,319.810",23.55,high
+Utah,Davis County,49011,2021/08/18,190.730,10.43,high
+Idaho,Lemhi County,16059,2021/08/18,199.330,13.04,high
+Illinois,Edgar County,17045,2021/08/18,163.160,5.79,high
+Iowa,Marion County,19125,2021/08/18,189.460,16.12,high
+Missouri,Ralls County,29173,2021/08/18,358.910,16.15,high
+Nebraska,Phelps County,31137,2021/08/18,0.000,50.00,high
+Wisconsin,Rock County,55105,2021/08/18,145.080,7.48,high
+Montana,Lincoln County,30053,2021/08/18,250.250,15.87,high
+Texas,Bee County,48025,2021/08/18,540.460,30.85,high
+Colorado,Conejos County,08021,2021/08/18,suppressed,5.75,substantial
+Indiana,Switzerland County,18155,2021/08/18,362.760,25.45,high
+Missouri,Scott County,29201,2021/08/18,514.630,28.70,high
+Arkansas,Cleburne County,05023,2021/08/18,425.380,8.13,high
+Florida,Broward County,12011,2021/08/18,751.030,20.58,high
+Louisiana,East Baton Rouge Parish,22033,2021/08/18,654.460,15.38,high
+North Carolina,Durham County,37063,2021/08/18,266.260,7.75,high
+Texas,Austin County,48015,2021/08/18,376.270,22.71,high
+Georgia,Charlton County,13049,2021/08/18,403.230,14.95,high
+Louisiana,Caldwell Parish,22021,2021/08/18,877.190,10.14,high
+Montana,Rosebud County,30087,2021/08/18,156.650,7.14,high
+North Carolina,Haywood County,37087,2021/08/18,328.960,16.93,high
+Puerto Rico,Cataño Muno,72033,2021/08/18,173.000,10.39,high
+Alaska,Sitka Cty&Bor,02220,2021/08/18,400.330,5.37,high
+Iowa,Boone County,19015,2021/08/18,129.600,10.08,high
+Kansas,Hamilton County,20075,2021/08/18,suppressed,0.00,substantial
+Tennessee,Shelby County,47157,2021/08/18,460.000,17.48,high
+Texas,Archer County,48009,2021/08/18,233.840,29.41,high
+Georgia,Houston County,13153,2021/08/18,659.430,21.62,high
+Louisiana,Lafourche Parish,22057,2021/08/18,955.810,17.86,high
+Texas,Nacogdoches County,48347,2021/08/18,320.530,21.67,high
+Wisconsin,Kewaunee County,55061,2021/08/18,205.540,11.43,high
+Wyoming,Goshen County,56015,2021/08/18,272.500,3.51,high
+Colorado,Hinsdale County,08053,2021/08/18,suppressed,,high
+Oklahoma,Carter County,40019,2021/08/18,451.040,16.67,high
+Alabama,Lowndes County,01085,2021/08/18,308.450,13.83,high
+Illinois,Montgomery County,17135,2021/08/18,242.840,0.83,high
+Maryland,Frederick County,24021,2021/08/18,123.290,6.35,high
+Wisconsin,Grant County,55043,2021/08/18,114.700,8.41,high
+Puerto Rico,Villalba Muno,72149,2021/08/18,102.940,12.55,high
+California,San Francisco County,06075,2021/08/18,161.080,4.13,high
+Kansas,Marion County,20115,2021/08/18,151.460,9.47,high
+Nebraska,Boone County,31011,2021/08/18,0.000,,low
+Nebraska,Butler County,31023,2021/08/18,0.000,7.69,moderate
+Texas,Eastland County,48133,2021/08/18,196.080,27.12,high
+California,Riverside County,06065,2021/08/18,236.630,11.78,high
+Georgia,Jeff Davis County,13161,2021/08/18,846.840,28.78,high
+Idaho,Valley County,16085,2021/08/18,421.350,17.78,high
+Louisiana,Red River Parish,22081,2021/08/18,533.050,8.09,high
+Oklahoma,Murray County,40099,2021/08/18,405.030,24.59,high
+Texas,Williamson County,48491,2021/08/18,475.150,18.20,high
+Illinois,Johnson County,17087,2021/08/18,587.900,5.01,high
+Kentucky,Adair County,21001,2021/08/18,468.700,16.35,high
+Missouri,Phelps County,29161,2021/08/18,450.950,19.45,high
+North Carolina,New Hanover County,37129,2021/08/18,348.010,11.23,high
+Georgia,Fannin County,13111,2021/08/18,465.860,20.47,high
+Florida,St. Johns County,12109,2021/08/18,573.920,17.69,high
+Georgia,Peach County,13225,2021/08/18,471.940,18.43,high
+North Carolina,Lincoln County,37109,2021/08/18,436.650,15.54,high
+North Carolina,Northampton County,37131,2021/08/18,230.970,8.18,high
+Puerto Rico,Florida Muno,72054,2021/08/18,141.380,9.33,high
+Kansas,Hodgeman County,20083,2021/08/18,suppressed,0.00,high
+Michigan,Baraga County,26013,2021/08/18,suppressed,0.00,substantial
+South Dakota,Bennett County,46007,2021/08/18,suppressed,14.29,high
+Texas,Briscoe County,48045,2021/08/18,suppressed,40.00,high
+Alabama,Montgomery County,01101,2021/08/18,437.110,24.24,high
+Kentucky,Henderson County,21101,2021/08/18,577.310,34.91,high
+Louisiana,Vernon Parish,22115,2021/08/18,581.920,11.64,high
+Montana,Richland County,30083,2021/08/18,111.080,11.76,high
+Texas,Jefferson County,48245,2021/08/18,432.490,17.69,high
+Georgia,Floyd County,13115,2021/08/18,434.530,21.66,high
+South Dakota,Lincoln County,46083,2021/08/18,196.310,14.66,high
+Tennessee,Rutherford County,47149,2021/08/18,401.160,17.81,high
+Iowa,Buena Vista County,19021,2021/08/18,127.420,21.62,high
+Puerto Rico,Orocovis Muno,72107,2021/08/18,84.080,8.90,substantial
+Arizona,La Paz County,04012,2021/08/18,127.910,8.46,high
+Iowa,Audubon County,19009,2021/08/18,suppressed,10.00,high
+Kansas,Trego County,20195,2021/08/18,suppressed,1.01,substantial
+Missouri,Andrew County,29003,2021/08/18,446.030,21.85,high
+Texas,Hardeman County,48197,2021/08/18,suppressed,20.00,high
+West Virginia,Wood County,54107,2021/08/18,237.070,13.45,high
+Wisconsin,Ozaukee County,55089,2021/08/18,246.580,9.08,high
+Idaho,Clearwater County,16035,2021/08/18,513.930,29.21,high
+Oregon,Curry County,41015,2021/08/18,876.770,18.18,high
+Arkansas,Lafayette County,05073,2021/08/18,437.800,5.49,high
+Maine,Sagadahoc County,23023,2021/08/18,55.780,3.83,substantial
+Minnesota,Meeker County,27093,2021/08/18,142.110,7.50,high
+Oklahoma,Cleveland County,40027,2021/08/18,310.900,17.41,high
+Oregon,Marion County,41047,2021/08/18,257.890,11.85,high
+Tennessee,Wilson County,47189,2021/08/18,427.910,16.47,high
+Texas,DeWitt County,48123,2021/08/18,suppressed,34.55,high
+Wisconsin,Florence County,55037,2021/08/18,suppressed,0.00,substantial
+Iowa,Monroe County,19135,2021/08/18,142.730,15.38,high
+Iowa,Webster County,19187,2021/08/18,311.940,15.77,high
+Missouri,Randolph County,29175,2021/08/18,250.530,6.25,high
+Texas,Nueces County,48355,2021/08/18,788.860,26.68,high
+New Jersey,Passaic County,34031,2021/08/18,101.030,5.79,high
+North Carolina,Gaston County,37071,2021/08/18,419.990,17.42,high
+Texas,Winkler County,48495,2021/08/18,274.660,50.00,high
+Alabama,Perry County,01105,2021/08/18,313.800,8.97,high
+Kansas,Miami County,20121,2021/08/18,242.430,9.55,high
+Arizona,Coconino County,04005,2021/08/18,217.460,10.43,high
+Iowa,Jackson County,19097,2021/08/18,123.460,16.19,high
+New York,Niagara County,36063,2021/08/18,75.970,2.92,substantial
+Ohio,Coshocton County,39031,2021/08/18,169.400,12.36,high
+Texas,Robertson County,48395,2021/08/18,216.700,16.50,high
+Minnesota,Roseau County,27135,2021/08/18,105.510,3.68,high
+Oklahoma,Kiowa County,40075,2021/08/18,183.740,31.82,high
+Virginia,Clarke County,51043,2021/08/18,116.290,4.30,high
+Wisconsin,Menominee County,55078,2021/08/18,suppressed,2.41,high
+Kentucky,Madison County,21151,2021/08/18,383.920,13.06,high
+Texas,Hockley County,48219,2021/08/18,334.480,22.71,high
+Virginia,Augusta County,51015,2021/08/18,296.460,17.87,high
+Florida,Walton County,12131,2021/08/18,668.280,27.86,high
+Georgia,Sumter County,13261,2021/08/18,650.320,19.07,high
+Illinois,Union County,17181,2021/08/18,444.360,5.50,high
+Texas,Karnes County,48255,2021/08/18,"1,121.720",10.21,high
+Idaho,Lewis County,16061,2021/08/18,442.940,48.28,high
+Illinois,Henry County,17073,2021/08/18,198.310,6.97,high
+Minnesota,Cass County,27021,2021/08/18,117.530,8.62,high
+South Carolina,Orangeburg County,45075,2021/08/18,276.180,10.76,high
+Texas,Denton County,48121,2021/08/18,284.940,15.39,high
+Wisconsin,Lafayette County,55065,2021/08/18,84.010,7.32,substantial
+Georgia,Crisp County,13081,2021/08/18,545.320,17.53,high
+Illinois,Randolph County,17157,2021/08/18,556.920,10.51,high
+Kentucky,Rockcastle County,21203,2021/08/18,485.180,17.11,high
+Pennsylvania,Susquehanna County,42115,2021/08/18,74.390,6.97,substantial
+Ohio,Perry County,39127,2021/08/18,166.050,9.50,high
+Wisconsin,Clark County,55019,2021/08/18,140.910,4.67,high
+Puerto Rico,Yauco Muno,72153,2021/08/18,53.610,11.11,high
+Alabama,Cherokee County,01019,2021/08/18,324.480,23.64,high
+Illinois,Stark County,17175,2021/08/18,suppressed,9.52,high
+Indiana,Gibson County,18051,2021/08/18,508.040,25.33,high
+New Jersey,Warren County,34041,2021/08/18,109.250,5.47,high
+Texas,Real County,48385,2021/08/18,521.440,20.69,high
+Florida,Calhoun County,12013,2021/08/18,"1,120.170",25.60,high
+Missouri,Christian County,29043,2021/08/18,238.160,11.83,high
+Montana,Jefferson County,30043,2021/08/18,180.020,4.21,high
+North Carolina,Martin County,37117,2021/08/18,459.000,18.51,high
+North Carolina,Wilkes County,37193,2021/08/18,458.980,16.63,high
+Indiana,Fountain County,18045,2021/08/18,379.300,11.00,high
+Indiana,LaPorte County,18091,2021/08/18,126.490,7.83,high
+Massachusetts,Suffolk County,25025,2021/08/18,122.650,2.56,high
+Texas,Hartley County,48205,2021/08/18,358.680,,high
+Louisiana,West Carroll Parish,22123,2021/08/18,572.480,12.48,high
+Nebraska,Wayne County,31179,2021/08/18,0.000,,low
+North Carolina,Ashe County,37009,2021/08/18,294.090,16.79,high
+Oklahoma,Comanche County,40031,2021/08/18,395.860,23.89,high
+Texas,Mills County,48333,2021/08/18,430.950,24.14,high
+Washington,Douglas County,53017,2021/08/18,428.290,27.92,high
+Kentucky,Bracken County,21023,2021/08/18,481.750,9.03,high
+Tennessee,Perry County,47135,2021/08/18,470.530,19.63,high
+Virginia,Rockbridge County,51163,2021/08/18,84.170,9.16,substantial
+Georgia,Grady County,13131,2021/08/18,645.480,33.91,high
+Iowa,Appanoose County,19007,2021/08/18,144.860,6.87,high
+Oklahoma,Harmon County,40057,2021/08/18,suppressed,,high
+Texas,Parmer County,48369,2021/08/18,197.810,26.67,high
+Kentucky,Lewis County,21135,2021/08/18,640.300,18.72,high
+Montana,Judith Basin County,30045,2021/08/18,suppressed,12.50,high
+Nevada,Storey County,32029,2021/08/18,suppressed,21.43,high
+New Hampshire,Cheshire County,33005,2021/08/18,111.720,7.86,high
+Texas,Deaf Smith County,48117,2021/08/18,226.460,36.59,high
+Mississippi,Scott County,28123,2021/08/18,750.250,28.07,high
+Oregon,Multnomah County,41051,2021/08/18,137.790,5.16,high
+Texas,Johnson County,48251,2021/08/18,320.220,27.70,high
+Texas,Sabine County,48403,2021/08/18,227.660,23.08,high
+Iowa,Dickinson County,19059,2021/08/18,57.940,5.85,substantial
+Nebraska,Garfield County,31071,2021/08/18,0.000,,low
+Oklahoma,Love County,40085,2021/08/18,292.600,22.92,high
+South Carolina,Kershaw County,45055,2021/08/18,650.630,14.40,high
+Minnesota,Kittson County,27069,2021/08/18,suppressed,6.15,moderate
+Arkansas,Hempstead County,05057,2021/08/18,436.560,4.38,high
+Kansas,Mitchell County,20123,2021/08/18,suppressed,1.68,moderate
+Minnesota,Fillmore County,27045,2021/08/18,199.360,7.03,high
+Missouri,Putnam County,29171,2021/08/18,404.600,12.90,high
+Alabama,DeKalb County,01049,2021/08/18,440.480,31.60,high
+Massachusetts,Essex County,25009,2021/08/18,107.090,3.41,high
+Mississippi,Franklin County,28037,2021/08/18,518.600,16.22,high
+North Carolina,Transylvania County,37175,2021/08/18,392.610,22.90,high
+Oklahoma,Bryan County,40013,2021/08/18,420.880,34.18,high
+Pennsylvania,Perry County,42099,2021/08/18,105.900,11.51,high
+Virginia,Northumberland County,51133,2021/08/18,248.040,15.38,high
+Minnesota,Koochiching County,27071,2021/08/18,suppressed,1.39,low
+Ohio,Wayne County,39169,2021/08/18,158.150,8.63,high
+Texas,Moore County,48341,2021/08/18,234.000,17.39,high
+Virginia,Charles City County,51036,2021/08/18,suppressed,5.88,high
+Wisconsin,Jefferson County,55055,2021/08/18,122.690,7.65,high
+Missouri,Daviess County,29061,2021/08/18,265.760,18.00,high
+Pennsylvania,Greene County,42059,2021/08/18,102.120,5.38,high
+Missouri,Newton County,29145,2021/08/18,166.560,12.23,high
+South Carolina,Calhoun County,45017,2021/08/18,199.270,11.97,high
+Massachusetts,Norfolk County,25021,2021/08/18,95.930,2.51,substantial
+Michigan,Ingham County,26065,2021/08/18,90.630,6.57,substantial
+Missouri,Barry County,29009,2021/08/18,167.650,6.59,high
+Oklahoma,Payne County,40119,2021/08/18,305.680,17.96,high
+South Dakota,Jackson County,46071,2021/08/18,suppressed,13.33,high
+Texas,Guadalupe County,48187,2021/08/18,504.650,23.91,high
+Texas,Trinity County,48455,2021/08/18,457.310,8.55,high
+New Jersey,Essex County,34013,2021/08/18,130.290,4.50,high
+Pennsylvania,Bucks County,42017,2021/08/18,103.620,4.85,high
+Texas,Terrell County,48443,2021/08/18,suppressed,,high
+Oklahoma,Noble County,40103,2021/08/18,431.230,17.86,high
+South Carolina,Oconee County,45073,2021/08/18,429.940,5.37,high
+Indiana,Orange County,18117,2021/08/18,794.050,18.84,high
+Kentucky,Knox County,21121,2021/08/18,622.890,18.86,high
+Missouri,Chariton County,29041,2021/08/18,336.660,19.64,high
+California,Shasta County,06089,2021/08/18,286.540,8.06,high
+Florida,Bradford County,12007,2021/08/18,751.750,26.58,high
+Virginia,James City County,51095,2021/08/18,224.770,8.24,high
+Minnesota,Clay County,27027,2021/08/18,93.430,4.89,substantial
+South Dakota,Aurora County,46003,2021/08/18,suppressed,,high
+Texas,Cameron County,48061,2021/08/18,435.060,21.12,high
+Oklahoma,Muskogee County,40101,2021/08/18,425.020,25.32,high
+Virginia,Henry County,51089,2021/08/18,243.290,20.83,high
+Arizona,Santa Cruz County,04023,2021/08/18,144.090,4.78,high
+Georgia,White County,13311,2021/08/18,496.790,26.98,high
+North Dakota,Dunn County,38025,2021/08/18,339.060,32.00,high
+South Dakota,Brookings County,46011,2021/08/18,210.960,9.91,high
+Tennessee,Henry County,47079,2021/08/18,618.330,32.64,high
+Wisconsin,Rusk County,55107,2021/08/18,141.060,16.51,high
+Puerto Rico,Cayey Muno,72035,2021/08/18,91.960,11.94,high
+Kansas,Lincoln County,20105,2021/08/18,suppressed,0.00,high
+Tennessee,Meigs County,47121,2021/08/18,418.610,26.62,high
+Alaska,Yukon-Koyukuk CA,02290,2021/08/18,suppressed,11.11,high
+Arkansas,Prairie County,05117,2021/08/18,558.170,6.67,high
+Colorado,Montezuma County,08083,2021/08/18,156.590,4.78,high
+Georgia,Quitman County,13239,2021/08/18,suppressed,0.00,high
+Indiana,Henry County,18065,2021/08/18,360.630,10.33,high
+Michigan,Lake County,26085,2021/08/18,suppressed,13.04,high
+Minnesota,Olmsted County,27109,2021/08/18,199.000,6.63,high
+South Carolina,Marlboro County,45069,2021/08/18,302.470,6.29,high
+Virginia,Scott County,51169,2021/08/18,361.680,23.60,high
+Florida,Escambia County,12033,2021/08/18,696.790,30.70,high
+Indiana,Pike County,18125,2021/08/18,395.510,12.18,high
+Iowa,Crawford County,19047,2021/08/18,338.880,19.61,high
+Kentucky,Lyon County,21143,2021/08/18,523.750,16.98,high
+Missouri,Schuyler County,29197,2021/08/18,suppressed,0.00,substantial
+Nebraska,Saline County,31151,2021/08/18,0.000,25.37,high
+South Carolina,Laurens County,45059,2021/08/18,293.360,17.46,high
+Virginia,Alexandria City,51510,2021/08/18,105.380,4.73,high
+Georgia,Meriwether County,13199,2021/08/18,448.810,20.38,high
+Indiana,Fayette County,18041,2021/08/18,207.770,8.81,high
+Montana,Liberty County,30051,2021/08/18,suppressed,14.49,high
+Nevada,Lyon County,32019,2021/08/18,321.680,23.47,high
+New Hampshire,Carroll County,33003,2021/08/18,122.670,6.26,high
+New York,Dutchess County,36027,2021/08/18,186.940,6.50,high
+New York,Onondaga County,36067,2021/08/18,145.700,5.49,high
+Texas,Titus County,48449,2021/08/18,305.340,26.44,high
+Kentucky,Daviess County,21059,2021/08/18,459.060,17.16,high
+Ohio,Crawford County,39033,2021/08/18,294.020,18.50,high
+Tennessee,Polk County,47139,2021/08/18,499.050,20.43,high
+Oklahoma,Grady County,40051,2021/08/18,197.010,25.48,high
+Kansas,Osage County,20139,2021/08/18,269.610,10.33,high
+Texas,Tarrant County,48439,2021/08/18,355.860,20.63,high
+Texas,Young County,48503,2021/08/18,283.180,18.18,high
+Arkansas,White County,05145,2021/08/18,590.450,8.30,high
+California,Sierra County,06091,2021/08/18,366.060,,high
+Illinois,Rock Island County,17161,2021/08/18,220.610,10.47,high
+Iowa,Benton County,19011,2021/08/18,113.080,13.92,high
+Kansas,Haskell County,20081,2021/08/18,327.620,39.58,high
+Wisconsin,Waushara County,55137,2021/08/18,106.370,5.81,high
+Puerto Rico,Cidra Muno,72041,2021/08/18,156.630,10.09,high
+Georgia,Glynn County,13127,2021/08/18,974.300,22.68,high
+Maine,Kennebec County,23011,2021/08/18,49.880,2.74,moderate
+Tennessee,Hardeman County,47069,2021/08/18,658.680,17.33,high
+Tennessee,Smith County,47159,2021/08/18,501.070,17.84,high
+Texas,Galveston County,48167,2021/08/18,667.560,20.43,high
+Wisconsin,Bayfield County,55007,2021/08/18,73.160,0.84,substantial
+Michigan,Iosco County,26069,2021/08/18,167.150,17.87,high
+New York,Allegany County,36003,2021/08/18,54.240,5.22,substantial
+Pennsylvania,Butler County,42019,2021/08/18,116.580,7.94,high
+Puerto Rico,Naranjito Muno,72105,2021/08/18,149.910,18.50,high
+North Dakota,Cavalier County,38019,2021/08/18,suppressed,0.00,high
+Tennessee,Stewart County,47161,2021/08/18,218.740,18.18,high
+Kentucky,Caldwell County,21033,2021/08/18,431.470,12.09,high
+Colorado,Baca County,08009,2021/08/18,suppressed,4.29,moderate
+Nebraska,Gosper County,31073,2021/08/18,0.000,,low
+Virginia,Alleghany County,51005,2021/08/18,94.210,10.68,high
+Puerto Rico,Las Piedras Muno,72085,2021/08/18,148.620,6.21,high
+Alaska,Skagway Muny,02230,2021/08/18,suppressed,0.00,high
+Oklahoma,Choctaw County,40023,2021/08/18,449.840,43.48,high
+Iowa,Johnson County,19103,2021/08/18,107.190,9.00,high
+New York,Ontario County,36069,2021/08/18,98.380,5.44,substantial
+Oregon,Wheeler County,41069,2021/08/18,suppressed,0.00,high
+Texas,Starr County,48427,2021/08/18,360.500,13.71,high
+Texas,Wichita County,48485,2021/08/18,304.020,17.11,high
+Missouri,Morgan County,29141,2021/08/18,300.580,15.05,high
+Pennsylvania,Mercer County,42085,2021/08/18,71.280,6.82,substantial
+Texas,Red River County,48387,2021/08/18,266.160,29.41,high
+Virginia,Richmond County,51159,2021/08/18,144.080,7.77,high
+Idaho,Elmore County,16039,2021/08/18,236.270,20.52,high
+Illinois,Marshall County,17123,2021/08/18,297.250,6.27,high
+North Carolina,Halifax County,37083,2021/08/18,275.940,13.92,high
+Tennessee,DeKalb County,47041,2021/08/18,366.030,17.92,high
+Alaska,Southeast Fairbanks CA,02240,2021/08/18,suppressed,1.72,substantial
+Mississippi,Lamar County,28073,2021/08/18,"1,062.470",16.95,high
+Missouri,Caldwell County,29025,2021/08/18,199.560,13.59,high
+North Dakota,Wells County,38103,2021/08/18,suppressed,,moderate
+Oklahoma,Adair County,40001,2021/08/18,788.500,50.94,high
+Oklahoma,Roger Mills County,40129,2021/08/18,suppressed,,high
+Utah,Sevier County,49041,2021/08/18,203.520,9.89,high
+Alabama,Dale County,01045,2021/08/18,982.270,42.80,high
+Georgia,Telfair County,13271,2021/08/18,624.210,25.97,high
+Colorado,Costilla County,08023,2021/08/18,suppressed,0.00,high
+Georgia,Crawford County,13079,2021/08/18,249.920,21.43,high
+Kentucky,Nicholas County,21181,2021/08/18,343.930,13.64,high
+Maryland,Queen Anne's County,24035,2021/08/18,131.000,7.34,high
+Texas,Hamilton County,48193,2021/08/18,460.940,21.32,high
+Puerto Rico,Coamo Muno,72043,2021/08/18,93.910,7.95,substantial
+Arkansas,Boone County,05009,2021/08/18,507.590,19.44,high
+Indiana,Elkhart County,18039,2021/08/18,138.120,11.23,high
+Minnesota,Douglas County,27041,2021/08/18,204.500,8.42,high
+Montana,Powder River County,30075,2021/08/18,suppressed,,high
+North Carolina,Stokes County,37169,2021/08/18,282.950,13.03,high
+South Dakota,Pennington County,46103,2021/08/18,297.080,17.92,high
+Virginia,Prince George County,51149,2021/08/18,213.800,12.66,high
+Wisconsin,St. Croix County,55109,2021/08/18,134.530,8.11,high
+Georgia,Putnam County,13237,2021/08/18,510.870,26.99,high
+Illinois,Fayette County,17051,2021/08/18,220.280,2.46,high
+Kansas,Ellsworth County,20053,2021/08/18,294.990,25.86,high
+Kansas,Ford County,20057,2021/08/18,383.710,15.87,high
+Oklahoma,Cherokee County,40021,2021/08/18,540.520,25.22,high
+Oregon,Grant County,41023,2021/08/18,0.000,6.12,moderate
+Tennessee,Blount County,47009,2021/08/18,427.540,16.71,high
+Indiana,Hancock County,18059,2021/08/18,260.980,7.61,high
+South Dakota,Hughes County,46065,2021/08/18,188.290,15.79,high
+Wisconsin,Polk County,55095,2021/08/18,178.150,12.01,high
+Washington,Grant County,53025,2021/08/18,511.600,19.64,high
+Nebraska,Stanton County,31167,2021/08/18,0.000,,low
+South Carolina,Marion County,45067,2021/08/18,587.140,20.06,high
+Texas,Jasper County,48241,2021/08/18,379.970,26.01,high
+Arkansas,Ouachita County,05103,2021/08/18,350.700,15.64,high
+Minnesota,Aitkin County,27001,2021/08/18,88.130,4.82,substantial
+Mississippi,Harrison County,28047,2021/08/18,"1,141.390",23.01,high
+New Jersey,Somerset County,34035,2021/08/18,117.650,4.60,high
+Tennessee,Cocke County,47029,2021/08/18,769.360,25.40,high
+Wisconsin,Barron County,55005,2021/08/18,179.030,7.35,high
+Mississippi,Winston County,28159,2021/08/18,529.100,15.53,high
+Montana,Petroleum County,30069,2021/08/18,suppressed,,high
+New Jersey,Mercer County,34021,2021/08/18,107.230,3.63,high
+New Mexico,Quay County,35037,2021/08/18,375.620,20.78,high
+North Dakota,Stark County,38089,2021/08/18,269.940,9.43,high
+Texas,Coleman County,48083,2021/08/18,391.440,33.33,high
+West Virginia,Roane County,54087,2021/08/18,182.640,13.43,high
+Minnesota,Marshall County,27089,2021/08/18,149.960,6.31,high
+Mississippi,Webster County,28155,2021/08/18,"1,310.760",24.03,high
+Alaska,Aleutians East Borough,02013,2021/08/18,suppressed,,high
+Idaho,Franklin County,16041,2021/08/18,129.720,15.79,high
+Illinois,Shelby County,17173,2021/08/18,226.500,8.82,high
+Missouri,Reynolds County,29179,2021/08/18,suppressed,18.00,high
+Montana,Deer Lodge County,30023,2021/08/18,196.940,9.78,high
+Tennessee,Chester County,47023,2021/08/18,722.670,15.44,high
+Texas,Hansford County,48195,2021/08/18,407.480,,high
+Arkansas,Carroll County,05015,2021/08/18,602.540,19.55,high
+Iowa,Hamilton County,19079,2021/08/18,223.380,19.08,high
+Kentucky,Bullitt County,21029,2021/08/18,353.840,18.51,high
+Colorado,Chaffee County,08015,2021/08/18,108.080,7.86,high
+Indiana,Wells County,18179,2021/08/18,328.670,22.33,high
+Minnesota,Traverse County,27155,2021/08/18,suppressed,2.86,substantial
+North Carolina,Mitchell County,37121,2021/08/18,267.310,9.80,high
+Puerto Rico,Juncos Muno,72077,2021/08/18,157.250,5.34,high
+Alaska,Wrangell Cty&Bor,02275,2021/08/18,suppressed,4.63,high
+Iowa,Floyd County,19067,2021/08/18,121.470,8.72,high
+North Carolina,Hyde County,37095,2021/08/18,243.060,8.89,high
+South Carolina,Newberry County,45071,2021/08/18,483.870,11.88,high
+Puerto Rico,Manatí Muno,72091,2021/08/18,171.640,15.56,high
+Nevada,Eureka County,32011,2021/08/18,0.000,,low
+Kansas,Pratt County,20151,2021/08/18,272.810,8.19,high
+Kentucky,Mercer County,21167,2021/08/18,610.950,12.92,high
+Texas,Hudspeth County,48229,2021/08/18,suppressed,12.50,high
+Alabama,Madison County,01089,2021/08/18,317.500,17.84,high
+Arkansas,Bradley County,05011,2021/08/18,269.440,5.77,high
+Puerto Rico,Naguabo Muno,72103,2021/08/18,166.920,16.56,high
+Ohio,Muskingum County,39119,2021/08/18,220.380,12.40,high
+Ohio,Noble County,39121,2021/08/18,152.520,7.80,high
+Texas,Menard County,48327,2021/08/18,514.500,12.50,high
+Delaware,Kent County,10001,2021/08/18,271.040,9.42,high
+Massachusetts,Hampden County,25013,2021/08/18,188.260,5.28,high
+Minnesota,Carver County,27019,2021/08/18,156.060,6.31,high
+Minnesota,Cottonwood County,27033,2021/08/18,suppressed,7.14,substantial
+Pennsylvania,Allegheny County,42003,2021/08/18,108.630,5.48,high
+Wisconsin,Kenosha County,55059,2021/08/18,157.470,7.23,high
+Montana,Fergus County,30027,2021/08/18,262.440,12.77,high
+New York,Jefferson County,36045,2021/08/18,64.640,2.51,substantial
+South Dakota,Tripp County,46123,2021/08/18,suppressed,14.81,high
+Wisconsin,Crawford County,55023,2021/08/18,suppressed,0.93,substantial
+Wisconsin,Fond du Lac County,55039,2021/08/18,146.030,7.15,high
+Florida,Monroe County,12087,2021/08/18,673.600,20.50,high
+Michigan,Gratiot County,26057,2021/08/18,100.710,5.45,high
+Puerto Rico,Vega Baja Muno,72145,2021/08/18,235.890,10.02,high
+Colorado,Alamosa County,08003,2021/08/18,141.690,4.27,high
+Iowa,Hancock County,19081,2021/08/18,150.520,6.99,high
+Texas,Crane County,48103,2021/08/18,333.540,33.33,high
+New York,Sullivan County,36105,2021/08/18,167.040,6.39,high
+Pennsylvania,Cambria County,42021,2021/08/18,65.290,3.55,substantial
+Texas,Lubbock County,48303,2021/08/18,420.840,13.34,high
+Virginia,Mathews County,51115,2021/08/18,158.480,8.20,high
+Puerto Rico,Guánica Muno,72055,2021/08/18,78.010,18.52,high
+Pennsylvania,Mifflin County,42087,2021/08/18,60.690,5.81,substantial
+Virginia,Amherst County,51009,2021/08/18,215.160,12.58,high
+Virginia,Russell County,51167,2021/08/18,244.490,14.48,high
+Indiana,Vanderburgh County,18163,2021/08/18,482.770,20.71,high
+Puerto Rico,Guaynabo Muno,72061,2021/08/18,231.700,9.59,high
+Georgia,Henry County,13151,2021/08/18,539.730,19.67,high
+Nebraska,Cass County,31025,2021/08/18,0.000,11.21,high
+Arkansas,Ashley County,05003,2021/08/18,478.200,10.69,high
+Nebraska,Clay County,31035,2021/08/18,0.000,,low
+North Dakota,LaMoure County,38045,2021/08/18,suppressed,,substantial
+Texas,Tyler County,48457,2021/08/18,433.740,28.78,high
+Wisconsin,Burnett County,55013,2021/08/18,97.310,1.17,substantial
+Pennsylvania,Forest County,42053,2021/08/18,suppressed,2.02,moderate
+Utah,Daggett County,49009,2021/08/18,0.000,,low
+Utah,Kane County,49025,2021/08/18,0.000,16.22,high
+Virginia,Prince Edward County,51147,2021/08/18,162.270,14.00,high
+Georgia,Hart County,13147,2021/08/18,324.370,27.15,high
+Idaho,Kootenai County,16055,2021/08/18,296.930,26.86,high
+Michigan,Schoolcraft County,26153,2021/08/18,185.320,20.00,high
+Alabama,Pike County,01109,2021/08/18,362.380,20.18,high
+Kansas,Riley County,20161,2021/08/18,76.790,6.91,substantial
+North Carolina,Perquimans County,37143,2021/08/18,222.830,16.25,high
+Ohio,Auglaize County,39011,2021/08/18,127.040,11.45,high
+Tennessee,Robertson County,47147,2021/08/18,414.970,17.81,high
+Pennsylvania,Erie County,42049,2021/08/18,98.250,8.40,substantial
+Tennessee,Hamilton County,47065,2021/08/18,411.900,20.07,high
+Tennessee,Rhea County,47143,2021/08/18,624.110,26.48,high
+Utah,Uintah County,49047,2021/08/18,0.000,12.33,high
+Virginia,Gloucester County,51073,2021/08/18,283.820,11.92,high
+Florida,Palm Beach County,12099,2021/08/18,612.650,21.78,high
+Georgia,Stephens County,13257,2021/08/18,486.020,23.08,high
+Illinois,Clark County,17023,2021/08/18,433.910,11.00,high
+Illinois,Tazewell County,17179,2021/08/18,216.990,6.42,high
+Maryland,Allegany County,24001,2021/08/18,144.850,4.80,high
+Wisconsin,Racine County,55101,2021/08/18,185.420,7.73,high
+Montana,Powell County,30077,2021/08/18,624.090,29.03,high
+Rhode Island,Bristol County,44001,2021/08/18,103.140,3.34,high
+Tennessee,Bedford County,47003,2021/08/18,432.480,17.59,high
+Mississippi,Hinds County,28049,2021/08/18,503.800,19.64,high
+Texas,Lavaca County,48285,2021/08/18,347.330,26.63,high
+Wisconsin,Taylor County,55119,2021/08/18,191.710,7.32,high
+Florida,Alachua County,12001,2021/08/18,610.310,17.86,high
+Florida,DeSoto County,12027,2021/08/18,547.350,25.12,high
+Maine,Hancock County,23009,2021/08/18,63.650,4.53,substantial
+Missouri,Clinton County,29049,2021/08/18,255.060,13.85,high
+South Carolina,Dorchester County,45035,2021/08/18,786.810,18.62,high
+Iowa,Iowa County,19095,2021/08/18,179.190,11.93,high
+Kentucky,Ohio County,21183,2021/08/18,537.630,20.48,high
+Maine,Lincoln County,23015,2021/08/18,92.390,5.84,substantial
+Pennsylvania,Sullivan County,42113,2021/08/18,suppressed,1.52,moderate
+Georgia,Elbert County,13105,2021/08/18,250.080,16.10,high
+Illinois,Richland County,17159,2021/08/18,560.820,12.37,high
+Nebraska,Dakota County,31043,2021/08/18,0.000,5.88,moderate
+New York,Chenango County,36017,2021/08/18,175.820,9.31,high
+Wyoming,Johnson County,56019,2021/08/18,307.870,15.38,high
+Alabama,Calhoun County,01015,2021/08/18,436.600,29.05,high
+Alaska,Petersburg CA,02195,2021/08/18,suppressed,4.76,substantial
+Iowa,Clayton County,19043,2021/08/18,96.870,5.53,substantial
+Kansas,Cherokee County,20021,2021/08/18,496.510,36.26,high
+Kentucky,Laurel County,21125,2021/08/18,945.520,29.84,high
+Mississippi,Forrest County,28035,2021/08/18,"1,223.010",25.70,high
+Montana,Toole County,30101,2021/08/18,232.260,4.08,high
+New York,Wyoming County,36121,2021/08/18,40.140,1.25,moderate
+South Carolina,Florence County,45041,2021/08/18,456.280,13.10,high
+Florida,Hendry County,12051,2021/08/18,535.430,23.94,high
+Pennsylvania,Westmoreland County,42129,2021/08/18,96.880,7.51,substantial
+Texas,Washington County,48477,2021/08/18,306.560,18.86,high
+Georgia,Rockdale County,13247,2021/08/18,361.950,14.91,high
+Missouri,Grundy County,29079,2021/08/18,497.460,27.41,high
+New York,Franklin County,36033,2021/08/18,119.950,4.15,high
+Florida,Wakulla County,12129,2021/08/18,"1,179.640",23.06,high
+Kentucky,Carroll County,21041,2021/08/18,554.980,16.55,high
+Nebraska,Buffalo County,31019,2021/08/18,0.000,17.72,high
+Nevada,Pershing County,32027,2021/08/18,148.700,25.00,high
+Georgia,Walker County,13295,2021/08/18,336.860,21.90,high
+Kentucky,Rowan County,21205,2021/08/18,322.980,13.08,high
+Missouri,Pemiscot County,29155,2021/08/18,480.860,22.22,high
+Florida,Orange County,12095,2021/08/18,684.130,19.91,high
+Texas,Coke County,48081,2021/08/18,383.820,9.76,high
+Virginia,Dinwiddie County,51053,2021/08/18,206.700,19.70,high
+West Virginia,Wyoming County,54109,2021/08/18,254.980,15.57,high
+Puerto Rico,Patillas Muno,72109,2021/08/18,suppressed,7.14,substantial
+Missouri,Jasper County,29097,2021/08/18,302.490,12.10,high
+Texas,Callahan County,48059,2021/08/18,215.160,15.00,high
+Illinois,DeKalb County,17037,2021/08/18,136.320,9.85,high
+Texas,Dallas County,48113,2021/08/18,325.700,14.08,high
+Colorado,Delta County,08029,2021/08/18,57.760,1.84,substantial
+Georgia,Effingham County,13103,2021/08/18,681.220,26.06,high
+Indiana,Dubois County,18037,2021/08/18,271.430,14.26,high
+Michigan,Alcona County,26001,2021/08/18,201.830,9.09,high
+Nebraska,Brown County,31017,2021/08/18,0.000,,low
+Pennsylvania,Monroe County,42089,2021/08/18,144.480,8.89,high
+Texas,Hunt County,48231,2021/08/18,381.360,20.68,high
+Mississippi,Tunica County,28143,2021/08/18,695.600,26.85,high
+Georgia,Johnson County,13167,2021/08/18,642.950,25.21,high
+Indiana,Carroll County,18015,2021/08/18,306.070,19.37,high
+Kentucky,Simpson County,21213,2021/08/18,290.760,9.13,high
+Tennessee,Claiborne County,47025,2021/08/18,381.740,23.98,high
+North Carolina,Macon County,37113,2021/08/18,329.080,18.72,high
+Arizona,Pima County,04019,2021/08/18,149.150,8.46,high
+Georgia,Jones County,13169,2021/08/18,563.770,28.74,high
+Wyoming,Crook County,56011,2021/08/18,158.230,6.76,high
+Alabama,Macon County,01087,2021/08/18,287.800,12.08,high
+Arkansas,Little River County,05081,2021/08/18,644.420,8.00,high
+Indiana,Randolph County,18135,2021/08/18,141.900,8.99,high
+Iowa,Fayette County,19065,2021/08/18,167.940,8.43,high
+Kansas,Chautauqua County,20019,2021/08/18,suppressed,0.00,high
+Nevada,Washoe County,32031,2021/08/18,276.130,22.62,high
+Virginia,Poquoson City,51735,2021/08/18,130.390,7.22,high
+Alabama,Lee County,01081,2021/08/18,434.540,21.88,high
+South Dakota,McCook County,46087,2021/08/18,suppressed,18.75,high
+Texas,Yoakum County,48501,2021/08/18,631.240,0.00,high
+Georgia,Pickens County,13227,2021/08/18,579.910,18.46,high
+North Carolina,Randolph County,37151,2021/08/18,282.600,11.37,high
+Texas,Foard County,48155,2021/08/18,suppressed,,high
+Kentucky,Hart County,21099,2021/08/18,462.310,21.64,high
+Tennessee,Giles County,47055,2021/08/18,400.490,13.02,high
+Texas,Maverick County,48323,2021/08/18,318.450,19.96,high
+Alaska,North Slope Borough,02185,2021/08/18,335.640,18.92,high
+Indiana,Parke County,18121,2021/08/18,377.870,20.24,high
+Kansas,Clay County,20027,2021/08/18,212.450,16.88,high
+Missouri,Jackson County,29095,2021/08/18,450.490,16.58,high
+Georgia,Clinch County,13065,2021/08/18,604.410,56.00,high
+Michigan,Charlevoix County,26029,2021/08/18,183.610,10.71,high
+North Carolina,Craven County,37049,2021/08/18,255.530,10.71,high
+Texas,Duval County,48131,2021/08/18,770.820,26.76,high
+Florida,Osceola County,12097,2021/08/18,791.480,21.95,high
+Illinois,Moultrie County,17139,2021/08/18,179.300,6.36,high
+Indiana,Martin County,18101,2021/08/18,331.550,21.89,high
+Iowa,Bremer County,19017,2021/08/18,91.770,10.66,high
+Nebraska,Johnson County,31097,2021/08/18,0.000,,low
+Tennessee,Dickson County,47043,2021/08/18,331.800,18.33,high
+Wisconsin,Dodge County,55027,2021/08/18,142.310,8.59,high
+Georgia,Montgomery County,13209,2021/08/18,697.780,26.32,high
+Missouri,DeKalb County,29063,2021/08/18,207.220,14.11,high
+Georgia,Taylor County,13269,2021/08/18,673.320,20.31,high
+Kansas,Logan County,20109,2021/08/18,suppressed,5.26,substantial
+New York,Schoharie County,36095,2021/08/18,106.460,7.44,high
+South Carolina,Chester County,45023,2021/08/18,369.060,14.44,high
+Georgia,Bibb County,13021,2021/08/18,787.420,20.90,high
+Idaho,Nez Perce County,16069,2021/08/18,457.830,18.38,high
+Illinois,Christian County,17021,2021/08/18,294.080,4.23,high
+Iowa,Pocahontas County,19151,2021/08/18,suppressed,14.29,high
+Mississippi,Smith County,28129,2021/08/18,760.240,29.07,high
+Idaho,Bonneville County,16019,2021/08/18,149.500,14.38,high
+Missouri,Lawrence County,29109,2021/08/18,268.540,6.11,high
+Virginia,Grayson County,51077,2021/08/18,147.910,2.06,high
+West Virginia,Webster County,54101,2021/08/18,160.220,10.00,high
+Michigan,Genesee County,26049,2021/08/18,111.380,8.44,high
+Pennsylvania,Bradford County,42015,2021/08/18,61.340,8.11,substantial
+Washington,Klickitat County,53039,2021/08/18,423.630,17.33,high
+Washington,Mason County,53045,2021/08/18,351.970,13.47,high
+Idaho,Lincoln County,16063,2021/08/18,suppressed,15.91,high
+Michigan,Sanilac County,26151,2021/08/18,77.730,11.31,high
+South Carolina,Horry County,45051,2021/08/18,522.480,20.47,high
+Alabama,Cleburne County,01029,2021/08/18,315.220,23.50,high
+Georgia,Hancock County,13141,2021/08/18,165.540,26.32,high
+Kentucky,Union County,21225,2021/08/18,"1,029.140",51.23,high
+North Dakota,Burleigh County,38015,2021/08/18,203.920,4.61,high
+Illinois,Kendall County,17093,2021/08/18,156.600,10.72,high
+Kentucky,Hardin County,21093,2021/08/18,571.390,21.16,high
+Minnesota,Winona County,27169,2021/08/18,255.530,8.38,high
+Texas,Travis County,48453,2021/08/18,257.390,13.31,high
+Kansas,Coffey County,20031,2021/08/18,122.260,9.80,high
+New York,Greene County,36039,2021/08/18,105.960,6.19,high
+South Dakota,Potter County,46107,2021/08/18,suppressed,0.00,moderate
+Tennessee,Scott County,47151,2021/08/18,335.330,13.61,high
+Georgia,Union County,13291,2021/08/18,387.580,25.36,high
+Michigan,Allegan County,26005,2021/08/18,130.420,9.79,high
+Kentucky,Allen County,21003,2021/08/18,562.980,29.37,high
+New York,Essex County,36031,2021/08/18,127.420,4.48,high
+Virginia,Lee County,51105,2021/08/18,264.700,7.97,high
+Colorado,Larimer County,08069,2021/08/18,157.470,8.00,high
+Nebraska,Platte County,31141,2021/08/18,0.000,22.58,high
+New York,Cortland County,36023,2021/08/18,168.130,6.78,high
+Wyoming,Lincoln County,56023,2021/08/18,272.310,4.82,high
+Missouri,Adair County,29001,2021/08/18,366.970,14.83,high
+Missouri,Polk County,29167,2021/08/18,276.840,10.83,high
+New Mexico,Mora County,35033,2021/08/18,suppressed,9.09,high
+Indiana,Clark County,18019,2021/08/18,430.250,15.17,high
+Tennessee,Marshall County,47117,2021/08/18,433.450,18.50,high
+Utah,Emery County,49015,2021/08/18,249.700,3.91,high
+Florida,Madison County,12079,2021/08/18,719.190,30.83,high
+Montana,Teton County,30099,2021/08/18,504.310,25.00,high
+New Mexico,Socorro County,35053,2021/08/18,90.160,8.02,substantial
+Georgia,Towns County,13281,2021/08/18,407.080,34.23,high
+Indiana,Grant County,18053,2021/08/18,235.670,17.29,high
+Nebraska,Sioux County,31165,2021/08/18,0.000,,low
+Ohio,Jefferson County,39081,2021/08/18,148.490,11.13,high
+South Dakota,Harding County,46063,2021/08/18,suppressed,,high
+Virginia,Mecklenburg County,51117,2021/08/18,199.430,9.43,high
+Montana,Mineral County,30061,2021/08/18,636.800,26.60,high
+New York,St. Lawrence County,36089,2021/08/18,165.210,6.05,high
+Pennsylvania,Philadelphia County,42101,2021/08/18,113.570,6.03,high
+Iowa,Greene County,19073,2021/08/18,suppressed,11.39,high
+Puerto Rico,Ponce Muno,72113,2021/08/18,92.510,8.26,substantial
+Nebraska,Kimball County,31105,2021/08/18,0.000,,low
+Texas,Mason County,48319,2021/08/18,suppressed,,high
+Arkansas,Baxter County,05005,2021/08/18,484.120,12.80,high
+Louisiana,Bossier Parish,22015,2021/08/18,707.660,16.16,high
+Louisiana,Caddo Parish,22017,2021/08/18,717.720,16.73,high
+Puerto Rico,Isabela Muno,72071,2021/08/18,217.700,17.33,high
+Arkansas,St. Francis County,05123,2021/08/18,296.070,8.56,high
+Georgia,Burke County,13033,2021/08/18,518.250,19.71,high
+Idaho,Adams County,16003,2021/08/18,suppressed,19.12,high
+Illinois,Morgan County,17137,2021/08/18,344.640,2.93,high
+Tennessee,Sequatchie County,47153,2021/08/18,412.620,21.55,high
+Louisiana,Concordia Parish,22029,2021/08/18,763.280,17.04,high
+Michigan,St. Clair County,26147,2021/08/18,74.150,4.37,substantial
+Missouri,Pike County,29163,2021/08/18,327.830,11.50,high
+Minnesota,Wilkin County,27167,2021/08/18,suppressed,3.13,substantial
+Missouri,Stone County,29209,2021/08/18,294.190,17.72,high
+Texas,Terry County,48445,2021/08/18,380.970,0.71,high
+Illinois,Piatt County,17147,2021/08/18,342.630,7.27,high
+Utah,Salt Lake County,49035,2021/08/18,193.030,9.74,high
+Florida,Gulf County,12045,2021/08/18,703.860,26.32,high
+North Carolina,Duplin County,37061,2021/08/18,575.410,12.53,high
+Idaho,Twin Falls County,16083,2021/08/18,415.530,16.12,high
+New York,Orleans County,36073,2021/08/18,116.480,6.35,high
+Virginia,Page County,51139,2021/08/18,167.350,12.02,high
+Wyoming,Weston County,56045,2021/08/18,317.600,9.68,high
+Illinois,Stephenson County,17177,2021/08/18,116.860,4.47,high
+Nebraska,Nance County,31125,2021/08/18,0.000,,low
+Virginia,Manassas City,51683,2021/08/18,104.660,6.24,high
+Colorado,Elbert County,08039,2021/08/18,74.830,6.19,substantial
+Idaho,Jerome County,16053,2021/08/18,237.590,10.53,high
+Illinois,Pulaski County,17153,2021/08/18,712.280,9.87,high
+Kentucky,Clinton County,21053,2021/08/18,137.010,7.50,high
+Alabama,Choctaw County,01023,2021/08/18,79.430,26.83,high
+Indiana,Huntington County,18069,2021/08/18,865.280,14.72,high
+Nebraska,Blaine County,31009,2021/08/18,0.000,,low
+Nebraska,Hall County,31079,2021/08/18,0.000,20.73,high
+Pennsylvania,Northumberland County,42097,2021/08/18,84.760,7.26,substantial
+Washington,Stevens County,53065,2021/08/18,247.140,12.82,high
+Nebraska,Box Butte County,31013,2021/08/18,0.000,,low
+Pennsylvania,Wayne County,42127,2021/08/18,136.290,11.80,high
+Idaho,Latah County,16057,2021/08/18,241.850,33.21,high
+Michigan,Barry County,26015,2021/08/18,84.480,9.78,substantial
+Missouri,St. Louis County,29189,2021/08/18,214.040,10.80,high
+Louisiana,Claiborne Parish,22027,2021/08/18,350.990,10.74,high
+Montana,Meagher County,30059,2021/08/18,0.000,1.92,low
+Oklahoma,Texas County,40139,2021/08/18,50.040,,substantial
+Texas,McMullen County,48311,2021/08/18,suppressed,,high
+Wisconsin,Iron County,55051,2021/08/18,suppressed,3.85,substantial
+Michigan,Lenawee County,26091,2021/08/18,124.940,5.88,high
+North Carolina,Mecklenburg County,37119,2021/08/18,347.280,13.08,high
+Ohio,Madison County,39097,2021/08/18,120.720,8.30,high
+Tennessee,Maury County,47119,2021/08/18,392.170,18.47,high
+Texas,Sherman County,48421,2021/08/18,suppressed,,high
+Alaska,Kusilvak Census Area,02158,2021/08/18,204.470,6.25,high
+Georgia,Ware County,13299,2021/08/18,814.350,19.70,high
+Mississippi,Issaquena County,28055,2021/08/18,suppressed,,high
+New York,Chemung County,36015,2021/08/18,98.260,6.32,substantial
+West Virginia,Hardy County,54031,2021/08/18,290.360,11.41,high
+Colorado,Lincoln County,08073,2021/08/18,245.570,0.00,high
+Georgia,Macon County,13193,2021/08/18,285.780,15.38,high
+Kentucky,Mason County,21161,2021/08/18,404.220,11.57,high
+Louisiana,East Carroll Parish,22035,2021/08/18,524.700,6.50,high
+Minnesota,Wabasha County,27157,2021/08/18,143.340,5.31,high
+Mississippi,Alcorn County,28003,2021/08/18,792.900,19.33,high
+Iowa,Mahaska County,19123,2021/08/18,117.670,11.38,high
+Oregon,Washington County,41067,2021/08/18,181.020,6.65,high
+Puerto Rico,Aguadilla Muno,72005,2021/08/18,334.230,28.07,high
+Colorado,Adams County,08001,2021/08/18,144.560,7.26,high
+Wisconsin,Waupaca County,55135,2021/08/18,139.240,6.49,high
+Florida,Miami-Dade County,12086,2021/08/18,797.040,14.04,high
+Georgia,Toombs County,13279,2021/08/18,749.160,32.81,high
+New Mexico,De Baca County,35011,2021/08/18,suppressed,60.00,high
+Ohio,Mercer County,39107,2021/08/18,160.300,14.71,high
+South Dakota,Miner County,46097,2021/08/18,0.000,,low
+Nebraska,Hamilton County,31081,2021/08/18,0.000,,low
+New Mexico,San Miguel County,35047,2021/08/18,245.630,6.44,high
+New York,Suffolk County,36103,2021/08/18,175.200,4.71,high
+Ohio,Harrison County,39067,2021/08/18,166.220,12.79,high
+Texas,Van Zandt County,48467,2021/08/18,706.840,27.23,high
+Virginia,Bristol City,51520,2021/08/18,310.230,19.50,high
+Puerto Rico,Moca Muno,72099,2021/08/18,352.530,18.70,high
+Alabama,St. Clair County,01115,2021/08/18,596.570,24.86,high
+Kansas,Russell County,20167,2021/08/18,suppressed,10.42,high
+Montana,Big Horn County,30003,2021/08/18,suppressed,5.90,moderate
+Texas,Brooks County,48047,2021/08/18,493.440,7.74,high
+Texas,Ochiltree County,48357,2021/08/18,132.170,25.00,high
+Oklahoma,Marshall County,40095,2021/08/18,236.250,17.39,high
+Texas,Potter County,48375,2021/08/18,458.200,13.55,high
+Florida,Levy County,12075,2021/08/18,896.320,28.06,high
+Maryland,Prince George's County,24033,2021/08/18,129.000,6.35,high
+New Mexico,Torrance County,35057,2021/08/18,226.380,12.14,high
+North Dakota,Eddy County,38027,2021/08/18,0.000,,low
+Virginia,Roanoke County,51161,2021/08/18,182.620,11.86,high
+Kentucky,Wayne County,21231,2021/08/18,181.970,6.99,high
+Maryland,St. Mary's County,24037,2021/08/18,178.840,8.73,high
+Missouri,Jefferson County,29099,2021/08/18,223.920,13.96,high
+Arkansas,Clark County,05019,2021/08/18,367.380,10.19,high
+Texas,Burnet County,48053,2021/08/18,448.550,28.80,high
+Missouri,Sullivan County,29211,2021/08/18,509.110,26.42,high
+Nevada,Clark County,32003,2021/08/18,216.220,11.37,high
+Pennsylvania,Franklin County,42055,2021/08/18,127.070,8.13,high
+Virginia,Westmoreland County,51193,2021/08/18,122.120,6.75,high
+Puerto Rico,Guayanilla Muno,72059,2021/08/18,68.090,27.03,high
+Georgia,Taliaferro County,13265,2021/08/18,suppressed,7.69,high
+Indiana,Dearborn County,18029,2021/08/18,260.830,13.49,high
+Kansas,Anderson County,20003,2021/08/18,216.340,23.17,high
+Nebraska,Saunders County,31155,2021/08/18,0.000,25.76,high
+Oklahoma,Mayes County,40097,2021/08/18,476.890,32.88,high
+Pennsylvania,Clinton County,42035,2021/08/18,111.310,10.13,high
+Pennsylvania,Huntingdon County,42061,2021/08/18,62.020,5.56,substantial
+Texas,Newton County,48351,2021/08/18,169.180,31.67,high
+Texas,Wilbarger County,48487,2021/08/18,109.640,15.63,high
+Georgia,Catoosa County,13047,2021/08/18,281.150,17.51,high
+North Carolina,Washington County,37187,2021/08/18,250.430,17.61,high
+Missouri,Osage County,29151,2021/08/18,235.030,14.35,high
+Texas,Knox County,48275,2021/08/18,suppressed,,substantial
+Texas,San Jacinto County,48407,2021/08/18,426.210,26.99,high
+Florida,Bay County,12005,2021/08/18,811.650,29.47,high
+Kansas,Wilson County,20205,2021/08/18,516.130,20.20,high
+Puerto Rico,Dorado Muno,72051,2021/08/18,273.930,16.38,high
+Iowa,Adair County,19001,2021/08/18,suppressed,9.68,substantial
+Nebraska,York County,31185,2021/08/18,0.000,0.00,low
+Oklahoma,Alfalfa County,40003,2021/08/18,210.450,25.00,high
+Virginia,Nottoway County,51135,2021/08/18,275.740,15.89,high
+Wisconsin,Juneau County,55057,2021/08/18,108.670,5.52,high
+Wisconsin,Langlade County,55067,2021/08/18,166.760,8.29,high
+California,Calaveras County,06009,2021/08/18,298.440,,high
+Kansas,Jefferson County,20087,2021/08/18,294.070,14.75,high
+Kentucky,Hancock County,21091,2021/08/18,481.540,21.43,high
+Maryland,Worcester County,24047,2021/08/18,214.250,12.59,high
+North Carolina,Camden County,37029,2021/08/18,174.840,17.35,high
+Nebraska,Otoe County,31131,2021/08/18,0.000,19.77,high
+Ohio,Hancock County,39063,2021/08/18,116.120,7.61,high
+Tennessee,Johnson County,47091,2021/08/18,309.200,16.77,high
+Arkansas,Arkansas County,05001,2021/08/18,829.230,18.08,high
+Iowa,Mitchell County,19131,2021/08/18,113.360,9.56,high
+Kansas,Saline County,20169,2021/08/18,272.940,12.82,high
+Missouri,Benton County,29015,2021/08/18,313.740,21.10,high
+Texas,Kleberg County,48273,2021/08/18,664.930,8.31,high
+Virginia,Charlottesville City,51540,2021/08/18,120.590,3.53,high
+Wisconsin,Manitowoc County,55071,2021/08/18,105.090,8.99,high
+Virginia,Fairfax City,51600,2021/08/18,suppressed,,moderate
+Iowa,Tama County,19171,2021/08/18,65.270,12.59,high
+Texas,Clay County,48077,2021/08/18,114.600,13.85,high
+Virginia,Halifax County,51083,2021/08/18,306.690,14.95,high
+California,Tehama County,06103,2021/08/18,216.640,17.48,high
+Iowa,Calhoun County,19025,2021/08/18,103.430,7.92,high
+Virginia,Roanoke City,51770,2021/08/18,176.510,5.73,high
+Puerto Rico,Utuado Muno,72141,2021/08/18,69.360,9.18,substantial
+Connecticut,Windham County,09015,2021/08/18,89.050,4.37,substantial
+Kentucky,Hopkins County,21107,2021/08/18,382.670,6.35,high
+New Mexico,Sandoval County,35043,2021/08/18,176.490,4.97,high
+South Carolina,Edgefield County,45037,2021/08/18,348.500,13.78,high
+Texas,Kenedy County,48261,2021/08/18,suppressed,,high
+Texas,Sterling County,48431,2021/08/18,suppressed,,high
+Puerto Rico,Bayamón Muno,72021,2021/08/18,224.490,12.29,high
+Nebraska,Furnas County,31065,2021/08/18,0.000,,low
+New Mexico,Curry County,35009,2021/08/18,290.070,11.94,high
+Minnesota,Beltrami County,27007,2021/08/18,175.890,3.05,high
+Missouri,Taney County,29213,2021/08/18,382.630,12.24,high
+Nebraska,Nuckolls County,31129,2021/08/18,0.000,,low
+Oklahoma,Garfield County,40047,2021/08/18,203.090,18.18,high
+Texas,Brown County,48049,2021/08/18,446.330,20.35,high
+Indiana,Daviess County,18027,2021/08/18,260.860,12.24,high
+Kentucky,Franklin County,21073,2021/08/18,431.450,11.20,high
+Tennessee,Grundy County,47061,2021/08/18,290.460,10.48,high
+Texas,Ector County,48135,2021/08/18,487.300,25.11,high
+New Hampshire,Belknap County,33001,2021/08/18,146.810,3.68,high
+South Carolina,Greenwood County,45047,2021/08/18,288.090,9.74,high
+Arkansas,Garland County,05051,2021/08/18,578.550,17.18,high
+Florida,Gilchrist County,12041,2021/08/18,979.440,29.17,high
+Illinois,Wayne County,17191,2021/08/18,573.540,16.44,high
+Montana,Prairie County,30079,2021/08/18,0.000,0.00,low
+Nevada,White Pine County,32033,2021/08/18,suppressed,8.57,substantial
+Oklahoma,Jackson County,40065,2021/08/18,142.680,17.02,high
+Texas,Refugio County,48391,2021/08/18,849.170,23.08,high
+California,Imperial County,06025,2021/08/18,124.160,10.12,high
+Kentucky,Graves County,21083,2021/08/18,818.440,22.37,high
+Arkansas,Cleveland County,05025,2021/08/18,439.920,18.37,high
+Georgia,Lowndes County,13185,2021/08/18,912.220,26.74,high
+California,San Luis Obispo County,06079,2021/08/18,274.800,8.71,high
+Illinois,Washington County,17189,2021/08/18,381.650,18.18,high
+Kansas,Barton County,20009,2021/08/18,159.040,18.71,high
+Mississippi,Wayne County,28153,2021/08/18,"1,139.570",13.21,high
+Georgia,Turner County,13287,2021/08/18,"1,239.820",25.93,high
+Illinois,Mason County,17125,2021/08/18,314.390,11.91,high
+Indiana,Clay County,18021,2021/08/18,457.580,28.05,high
+Virginia,Prince William County,51153,2021/08/18,118.430,6.84,high
+Arizona,Yavapai County,04025,2021/08/18,256.490,15.21,high
+Illinois,Champaign County,17019,2021/08/18,237.970,3.90,high
+Texas,Jack County,48237,2021/08/18,179.070,1.57,high
+West Virginia,Grant County,54023,2021/08/18,190.180,8.92,high
+Illinois,Clinton County,17027,2021/08/18,340.770,5.88,high
+New Mexico,Union County,35059,2021/08/18,suppressed,11.67,high
+New York,Warren County,36113,2021/08/18,168.900,2.65,high
+Virginia,Chesterfield County,51041,2021/08/18,211.730,10.57,high
+Wyoming,Sublette County,56035,2021/08/18,122.060,12.99,high
+California,Tuolumne County,06109,2021/08/18,497.450,9.63,high
+Pennsylvania,Lackawanna County,42069,2021/08/18,72.020,5.57,substantial
+Tennessee,Carter County,47019,2021/08/18,484.120,23.17,high
+Virginia,King and Queen County,51097,2021/08/18,142.350,13.73,high
+New York,Steuben County,36101,2021/08/18,83.880,6.44,substantial
+California,Orange County,06059,2021/08/18,165.950,7.79,high
+Georgia,Dade County,13083,2021/08/18,452.970,19.37,high
+Indiana,Vermillion County,18165,2021/08/18,322.620,21.24,high
+West Virginia,Hampshire County,54027,2021/08/18,194.170,14.55,high
+Illinois,Peoria County,17143,2021/08/18,125.010,5.35,high
+Kentucky,Grayson County,21085,2021/08/18,567.600,11.64,high
+Louisiana,Ascension Parish,22005,2021/08/18,866.480,22.19,high
+Missouri,Saline County,29195,2021/08/18,426.170,16.63,high
+Montana,Roosevelt County,30085,2021/08/18,suppressed,6.38,substantial
+Oklahoma,McCurtain County,40089,2021/08/18,395.960,34.67,high
+Oklahoma,Stephens County,40137,2021/08/18,417.220,18.25,high
+Wyoming,Fremont County,56013,2021/08/18,433.000,6.09,high
+Alabama,Monroe County,01099,2021/08/18,829.600,25.45,high
+California,Mendocino County,06045,2021/08/18,424.210,10.64,high
+Georgia,Clarke County,13059,2021/08/18,315.590,13.50,high
+Indiana,Ohio County,18115,2021/08/18,510.640,25.33,high
+Nebraska,Red Willow County,31145,2021/08/18,0.000,5.26,moderate
+New York,Montgomery County,36057,2021/08/18,136.120,10.21,high
+North Carolina,Anson County,37007,2021/08/18,257.710,12.21,high
+Ohio,Knox County,39083,2021/08/18,240.690,20.70,high
+Oregon,Morrow County,41049,2021/08/18,663.620,7.69,high
+Maine,Cumberland County,23005,2021/08/18,50.510,2.31,substantial
+North Carolina,Pasquotank County,37139,2021/08/18,215.950,19.91,high
+Pennsylvania,Berks County,42011,2021/08/18,108.030,7.47,high
+Texas,Gonzales County,48177,2021/08/18,321.540,20.24,high
+Arkansas,Sharp County,05135,2021/08/18,624.930,9.28,high
+Nebraska,Morrill County,31123,2021/08/18,0.000,,low
+Oklahoma,Tulsa County,40143,2021/08/18,390.150,21.46,high
+Texas,Rains County,48379,2021/08/18,527.410,36.84,high
+Texas,Willacy County,48489,2021/08/18,781.910,13.75,high
+Indiana,Miami County,18103,2021/08/18,374.480,13.18,high
+Nebraska,Dixon County,31051,2021/08/18,0.000,,low
+Oklahoma,Major County,40093,2021/08/18,249.050,6.25,high
+Texas,Henderson County,48213,2021/08/18,496.750,31.94,high
+Texas,Mitchell County,48335,2021/08/18,187.240,0.00,high
+California,Solano County,06095,2021/08/18,191.670,6.29,high
+Indiana,Allen County,18003,2021/08/18,318.220,18.88,high
+Maryland,Carroll County,24013,2021/08/18,51.050,4.05,substantial
+North Carolina,Carteret County,37031,2021/08/18,470.690,15.66,high
+Puerto Rico,San Juan Muno,72127,2021/08/18,243.370,11.26,high
+Florida,Holmes County,12059,2021/08/18,937.960,34.31,high
+Iowa,Polk County,19153,2021/08/18,154.640,11.10,high
+New Mexico,Rio Arriba County,35039,2021/08/18,161.870,10.30,high
+Tennessee,Marion County,47115,2021/08/18,418.580,25.38,high
+Utah,San Juan County,49037,2021/08/18,104.520,11.48,high
+Alabama,Baldwin County,01003,2021/08/18,774.520,28.43,high
+Colorado,Gunnison County,08051,2021/08/18,131.710,7.98,high
+Colorado,Phillips County,08095,2021/08/18,suppressed,3.33,moderate
+Illinois,Effingham County,17049,2021/08/18,194.070,8.04,high
+Iowa,Poweshiek County,19157,2021/08/18,70.260,9.31,substantial
+Missouri,Dade County,29057,2021/08/18,264.520,8.53,high
+Pennsylvania,Union County,42119,2021/08/18,66.780,4.27,substantial
+South Dakota,Brown County,46013,2021/08/18,110.710,20.00,high
+West Virginia,McDowell County,54047,2021/08/18,175.900,7.51,high
+Minnesota,Chisago County,27025,2021/08/18,190.880,5.90,high
+Texas,Loving County,48301,2021/08/18,0.000,,low
+Puerto Rico,Aibonito Muno,72009,2021/08/18,108.560,18.84,high
+Indiana,Crawford County,18025,2021/08/18,312.000,12.57,high
+Mississippi,Benton County,28009,2021/08/18,762.800,22.61,high
+Missouri,Pettis County,29159,2021/08/18,422.780,15.88,high
+Nebraska,Kearney County,31099,2021/08/18,0.000,18.75,high
+Ohio,Adams County,39001,2021/08/18,231.060,8.15,high
+South Dakota,Fall River County,46047,2021/08/18,357.520,13.33,high
+Indiana,Wabash County,18169,2021/08/18,387.150,12.61,high
+Nebraska,Thomas County,31171,2021/08/18,0.000,,low
+North Carolina,Wake County,37183,2021/08/18,313.830,8.54,high
+Idaho,Idaho County,16049,2021/08/18,263.990,31.78,high
+Iowa,Lee County,19111,2021/08/18,514.010,27.16,high
+New Jersey,Ocean County,34029,2021/08/18,255.610,7.87,high
+Utah,Morgan County,49029,2021/08/18,90.730,6.57,substantial
+Alabama,Henry County,01067,2021/08/18,714.910,35.50,high
+Wisconsin,Oneida County,55085,2021/08/18,106.760,2.78,high
+Pennsylvania,Armstrong County,42005,2021/08/18,97.320,12.87,high
+South Carolina,Pickens County,45077,2021/08/18,611.580,10.55,high
+Texas,Kendall County,48259,2021/08/18,210.830,15.85,high
+Virginia,Manassas Park City,51685,2021/08/18,suppressed,,moderate
+Alaska,Hoonah-Angoon CA,02105,2021/08/18,suppressed,0.00,substantial
+Georgia,Chattooga County,13055,2021/08/18,334.830,23.95,high
+Puerto Rico,Carolina Muno,72031,2021/08/18,208.190,12.06,high
+Louisiana,De Soto Parish,22031,2021/08/18,"1,099.660",17.78,high
+Michigan,Marquette County,26103,2021/08/18,19.490,2.29,moderate
+New Mexico,Eddy County,35015,2021/08/18,783.440,19.50,high
+Tennessee,Lauderdale County,47097,2021/08/18,776.340,25.98,high
+Colorado,Archuleta County,08007,2021/08/18,249.480,7.43,high
+Mississippi,Carroll County,28015,2021/08/18,693.680,26.61,high
+North Carolina,Cherokee County,37039,2021/08/18,706.000,20.26,high
+Indiana,Decatur County,18031,2021/08/18,335.100,13.37,high
+Kansas,Graham County,20065,2021/08/18,suppressed,14.29,high
+North Carolina,Burke County,37023,2021/08/18,396.750,10.73,high
+Virginia,Fairfax County,51059,2021/08/18,86.270,5.24,substantial
+Florida,Volusia County,12127,2021/08/18,598.610,16.62,high
+New York,Westchester County,36119,2021/08/18,142.010,3.82,high
+Oklahoma,Craig County,40035,2021/08/18,622.260,22.56,high
+Kansas,Greeley County,20071,2021/08/18,suppressed,0.00,high
+Michigan,Wexford County,26165,2021/08/18,38.650,5.13,moderate
+Minnesota,Carlton County,27017,2021/08/18,128.240,4.94,high
+North Carolina,Currituck County,37053,2021/08/18,223.320,13.78,high
+Pennsylvania,Venango County,42121,2021/08/18,102.630,6.90,high
+Kansas,Rice County,20159,2021/08/18,suppressed,2.91,substantial
+South Dakota,Hutchinson County,46067,2021/08/18,suppressed,12.50,high
+Utah,Sanpete County,49039,2021/08/18,265.040,14.91,high
+Alabama,Mobile County,01097,2021/08/18,848.480,32.67,high
+Indiana,Franklin County,18047,2021/08/18,149.400,12.46,high
+Iowa,Ida County,19093,2021/08/18,291.550,3.16,high
+Mississippi,Marshall County,28093,2021/08/18,456.170,21.47,high
+Missouri,Miller County,29131,2021/08/18,366.920,19.29,high
+Wisconsin,Columbia County,55021,2021/08/18,130.360,5.97,high
+Colorado,San Miguel County,08113,2021/08/18,232.300,3.85,high
+Pennsylvania,Crawford County,42039,2021/08/18,85.080,9.92,substantial
+Texas,Hardin County,48199,2021/08/18,374.990,25.44,high
+Texas,Kerr County,48265,2021/08/18,309.890,20.00,high
+Texas,Smith County,48423,2021/08/18,665.950,18.74,high
+Virginia,Cumberland County,51049,2021/08/18,151.030,17.14,high
+Kentucky,Metcalfe County,21169,2021/08/18,486.550,7.65,high
+Michigan,Shiawassee County,26155,2021/08/18,118.900,8.65,high
+Virginia,Richmond City,51760,2021/08/18,191.380,9.99,high
+Kentucky,Jefferson County,21111,2021/08/18,319.790,13.14,high
+Georgia,Fayette County,13113,2021/08/18,381.920,4.05,high
+Indiana,Posey County,18129,2021/08/18,294.960,20.56,high
+Iowa,Story County,19169,2021/08/18,112.240,11.20,high
+Nebraska,Deuel County,31049,2021/08/18,0.000,,low
+Nebraska,Jefferson County,31095,2021/08/18,0.000,16.00,high
+South Dakota,Hamlin County,46057,2021/08/18,194.680,33.33,high
+Virginia,Greensville County,51081,2021/08/18,229.360,6.32,high
+Alaska,Ketchikan Gateway Borough,02130,2021/08/18,791.310,0.00,high
+Minnesota,Steele County,27147,2021/08/18,349.260,11.90,high
+Texas,Uvalde County,48463,2021/08/18,897.500,28.63,high
+Pennsylvania,Carbon County,42025,2021/08/18,132.440,5.98,high
+Texas,Upton County,48461,2021/08/18,273.450,,high
+Puerto Rico,Peñuelas Muno,72111,2021/08/18,83.120,10.59,high
+Tennessee,Jackson County,47087,2021/08/18,432.720,19.77,high
+Arkansas,Cross County,05037,2021/08/18,456.790,15.75,high
+Mississippi,Hancock County,28045,2021/08/18,"1,249.160",23.39,high
+Oklahoma,Jefferson County,40067,2021/08/18,suppressed,0.00,high
+South Dakota,Ziebach County,46137,2021/08/18,0.000,,low
+Arkansas,Lonoke County,05085,2021/08/18,499.260,13.82,high
+Idaho,Minidoka County,16067,2021/08/18,185.370,12.70,high
+Alabama,Pickens County,01107,2021/08/18,426.490,16.61,high
+Florida,Jackson County,12063,2021/08/18,751.930,12.12,high
+Illinois,Carroll County,17015,2021/08/18,104.860,3.10,high
+Indiana,Knox County,18083,2021/08/18,393.510,13.96,high
+Maryland,Baltimore City,24510,2021/08/18,95.540,4.63,substantial
+Washington,Wahkiakum County,53069,2021/08/18,222.820,11.76,high
+Alabama,Dallas County,01047,2021/08/18,357.570,13.98,high
+Georgia,Dooly County,13093,2021/08/18,425.690,22.06,high
+Illinois,Hardin County,17069,2021/08/18,628.110,1.29,high
+Indiana,Owen County,18119,2021/08/18,360.590,13.50,high
+Indiana,Putnam County,18133,2021/08/18,508.300,24.96,high
+Kansas,Grant County,20067,2021/08/18,209.790,21.74,high
+Louisiana,Lincoln Parish,22061,2021/08/18,543.410,12.80,high
+North Carolina,Swain County,37173,2021/08/18,364.380,21.30,high
+Wisconsin,Brown County,55009,2021/08/18,185.230,9.01,high
+Idaho,Bear Lake County,16007,2021/08/18,suppressed,5.34,substantial
+Nebraska,Frontier County,31063,2021/08/18,0.000,,low
+Nevada,Carson City,32510,2021/08/18,250.380,19.06,high
+South Carolina,York County,45091,2021/08/18,337.040,13.49,high
+Iowa,Cedar County,19031,2021/08/18,102.000,12.06,high
+North Carolina,Caldwell County,37027,2021/08/18,301.780,13.17,high
+North Carolina,Davidson County,37057,2021/08/18,385.420,18.74,high
+Illinois,Lake County,17097,2021/08/18,129.350,6.33,high
+Louisiana,Iberville Parish,22047,2021/08/18,639.780,17.47,high
+New Jersey,Union County,34039,2021/08/18,119.170,4.23,high
+California,Alameda County,06001,2021/08/18,153.410,4.56,high
+Georgia,Haralson County,13143,2021/08/18,278.600,18.43,high
+Georgia,McDuffie County,13189,2021/08/18,398.840,21.51,high
+Iowa,Scott County,19163,2021/08/18,143.400,11.62,high
+Louisiana,Ouachita Parish,22073,2021/08/18,996.220,16.67,high
+California,Madera County,06039,2021/08/18,207.850,5.22,high
+Illinois,Macoupin County,17117,2021/08/18,369.500,7.56,high
+Iowa,Lucas County,19117,2021/08/18,244.190,4.48,high
+Georgia,Butts County,13035,2021/08/18,457.170,11.11,high
+Georgia,Franklin County,13119,2021/08/18,346.910,28.40,high
+Kansas,Johnson County,20091,2021/08/18,253.980,9.18,high
+Alabama,Shelby County,01117,2021/08/18,500.230,20.48,high
+Kansas,Franklin County,20059,2021/08/18,301.440,15.74,high
+Massachusetts,Hampshire County,25015,2021/08/18,75.860,1.55,substantial
+Missouri,Texas County,29215,2021/08/18,299.240,13.46,high
+Ohio,Van Wert County,39161,2021/08/18,205.130,10.00,high
+Oklahoma,Kay County,40071,2021/08/18,252.650,11.11,high
+Arkansas,Calhoun County,05013,2021/08/18,231.260,11.76,high
+Florida,Santa Rosa County,12113,2021/08/18,727.020,30.83,high
+Indiana,Harrison County,18061,2021/08/18,419.600,18.97,high
+Oregon,Deschutes County,41017,2021/08/18,380.390,11.82,high
+Michigan,Kent County,26081,2021/08/18,109.600,8.34,high
+Ohio,Montgomery County,39113,2021/08/18,231.340,11.65,high
+Texas,King County,48269,2021/08/18,0.000,,low
+Pennsylvania,Columbia County,42037,2021/08/18,126.220,9.23,high
+Texas,Goliad County,48175,2021/08/18,182.820,32.20,high
+Texas,Polk County,48373,2021/08/18,430.350,8.18,high
+Texas,Wharton County,48481,2021/08/18,440.370,22.78,high
+Kentucky,Trigg County,21221,2021/08/18,464.130,9.46,high
+Montana,Daniels County,30019,2021/08/18,0.000,0.00,low
+Nebraska,Gage County,31067,2021/08/18,0.000,14.81,high
+Virginia,Buchanan County,51027,2021/08/18,195.200,3.53,high
+Alabama,Lamar County,01075,2021/08/18,289.750,20.00,high
+Indiana,Tippecanoe County,18157,2021/08/18,215.600,13.18,high
+North Carolina,Beaufort County,37013,2021/08/18,187.260,11.62,high
+Oklahoma,Okfuskee County,40107,2021/08/18,375.220,11.54,high
+Texas,Shackelford County,48417,2021/08/18,suppressed,,high
+Iowa,Shelby County,19165,2021/08/18,209.530,15.25,high
+Oklahoma,Custer County,40039,2021/08/18,206.880,24.42,high
+Texas,Jim Wells County,48249,2021/08/18,909.050,24.11,high
+Georgia,Lanier County,13173,2021/08/18,"1,007.390",19.72,high
+Nebraska,Lancaster County,31109,2021/08/18,0.000,15.62,high
+Ohio,Richland County,39139,2021/08/18,284.760,16.83,high
+Oklahoma,Haskell County,40061,2021/08/18,332.620,44.90,high
+Rhode Island,Kent County,44003,2021/08/18,108.950,2.72,high
+Arkansas,Clay County,05021,2021/08/18,419.220,19.35,high
+California,Stanislaus County,06099,2021/08/18,367.010,12.81,high
+Minnesota,Kandiyohi County,27067,2021/08/18,268.520,10.69,high
+New York,Otsego County,36077,2021/08/18,136.150,4.57,high
+North Dakota,McIntosh County,38051,2021/08/18,suppressed,,substantial
+Ohio,Washington County,39167,2021/08/18,130.190,14.79,high
+South Dakota,Marshall County,46091,2021/08/18,suppressed,0.00,high
+Ohio,Carroll County,39019,2021/08/18,122.610,16.83,high
+Tennessee,Washington County,47179,2021/08/18,378.740,15.62,high
+Texas,Hidalgo County,48215,2021/08/18,275.930,19.51,high
+Vermont,Orange County,50017,2021/08/18,suppressed,1.82,moderate
+Iowa,Lyon County,19119,2021/08/18,suppressed,11.43,high
+Kentucky,Webster County,21233,2021/08/18,618.140,19.52,high
+Maine,Piscataquis County,23021,2021/08/18,196.600,9.21,high
+South Dakota,Minnehaha County,46099,2021/08/18,235.070,16.03,high
+Texas,Carson County,48065,2021/08/18,253.120,11.11,high
+Arkansas,Sevier County,05133,2021/08/18,576.230,12.61,high
+Kansas,Chase County,20017,2021/08/18,suppressed,28.57,high
+Montana,Wheatland County,30107,2021/08/18,suppressed,0.61,moderate
+New York,Kings County,36047,2021/08/18,206.650,3.65,high
+Tennessee,Humphreys County,47085,2021/08/18,511.250,24.60,high
+Texas,Montague County,48337,2021/08/18,287.620,27.36,high
+Utah,Summit County,49043,2021/08/18,149.480,7.72,high
+Wyoming,Campbell County,56005,2021/08/18,461.790,18.53,high
+Puerto Rico,Hormigueros Muno,72067,2021/08/18,103.110,15.45,high
+Kentucky,Elliott County,21063,2021/08/18,425.700,16.41,high
+Louisiana,Pointe Coupee Parish,22077,2021/08/18,566.040,10.80,high
+Mississippi,Simpson County,28127,2021/08/18,686.470,18.81,high
+Ohio,Morrow County,39117,2021/08/18,167.010,12.98,high
+Illinois,Lawrence County,17101,2021/08/18,452.860,2.23,high
+Illinois,Winnebago County,17201,2021/08/18,164.910,7.22,high
+Kentucky,Ballard County,21007,2021/08/18,291.580,15.58,high
+Montana,Lewis and Clark County,30049,2021/08/18,168.510,10.89,high
+Idaho,Bingham County,16011,2021/08/18,100.400,9.84,high
+North Carolina,Alleghany County,37005,2021/08/18,116.730,10.91,high
+Colorado,Arapahoe County,08005,2021/08/18,142.550,6.80,high
+Illinois,Ford County,17053,2021/08/18,254.610,7.04,high
+Oklahoma,Latimer County,40077,2021/08/18,456.670,35.71,high
+Pennsylvania,Indiana County,42063,2021/08/18,80.880,8.32,substantial
+South Dakota,Clark County,46025,2021/08/18,suppressed,,substantial
+Texas,Upshur County,48459,2021/08/18,524.510,22.06,high
+West Virginia,Mineral County,54057,2021/08/18,212.150,9.33,high
+Wisconsin,Price County,55099,2021/08/18,127.330,6.10,high
+California,San Benito County,06069,2021/08/18,154.440,6.20,high
+Illinois,Hancock County,17067,2021/08/18,395.300,14.29,high
+Puerto Rico,Ciales Muno,72039,2021/08/18,63.260,7.81,substantial
+Kansas,Lane County,20101,2021/08/18,suppressed,,substantial
+Kentucky,Bell County,21013,2021/08/18,829.750,13.73,high
+Kentucky,McCracken County,21145,2021/08/18,372.990,15.49,high
+Mississippi,Calhoun County,28013,2021/08/18,"1,239.470",23.93,high
+Ohio,Sandusky County,39143,2021/08/18,208.480,8.22,high
+South Dakota,Charles Mix County,46023,2021/08/18,suppressed,9.68,substantial
+Puerto Rico,Aguas Buenas Muno,72007,2021/08/18,165.230,5.19,high
+Texas,Fort Bend County,48157,2021/08/18,318.960,16.66,high
+Alabama,Hale County,01065,2021/08/18,334.450,9.75,high
+Nebraska,Cheyenne County,31033,2021/08/18,0.000,35.00,high
+Tennessee,Benton County,47005,2021/08/18,402.230,20.83,high
+Texas,Rockwall County,48397,2021/08/18,393.650,17.83,high
+Kentucky,Jessamine County,21113,2021/08/18,449.040,13.62,high
+Ohio,Allen County,39003,2021/08/18,169.030,16.31,high
+Pennsylvania,Pike County,42103,2021/08/18,102.130,8.10,high
+West Virginia,Pendleton County,54071,2021/08/18,143.490,3.95,high
+Arkansas,Woodruff County,05147,2021/08/18,870.250,2.58,high
+Georgia,Irwin County,13155,2021/08/18,499.150,20.24,high
+Maryland,Calvert County,24009,2021/08/18,88.620,6.37,substantial
+Michigan,Alpena County,26007,2021/08/18,98.570,4.97,substantial
+Michigan,St. Joseph County,26149,2021/08/18,118.100,10.17,high
+Mississippi,Oktibbeha County,28105,2021/08/18,713.900,23.23,high
+Pennsylvania,Clarion County,42031,2021/08/18,96.260,8.00,substantial
+Idaho,Oneida County,16071,2021/08/18,suppressed,20.83,high
+Kansas,Clark County,20025,2021/08/18,suppressed,17.39,high
+Minnesota,Brown County,27015,2021/08/18,239.920,13.81,high
+North Dakota,Emmons County,38029,2021/08/18,suppressed,,high
+Oklahoma,Okmulgee County,40111,2021/08/18,465.360,22.28,high
+Iowa,Pottawattamie County,19155,2021/08/18,219.940,23.98,high
+Maryland,Washington County,24043,2021/08/18,151.610,6.82,high
+Michigan,Grand Traverse County,26055,2021/08/18,90.240,4.87,substantial
+California,Lassen County,06035,2021/08/18,399.040,,high
+Kentucky,Shelby County,21211,2021/08/18,407.960,19.79,high
+New York,Madison County,36053,2021/08/18,94.440,4.78,substantial
+Ohio,Union County,39159,2021/08/18,155.960,6.98,high
+Washington,Lewis County,53041,2021/08/18,455.970,19.29,high
+Montana,Sheridan County,30091,2021/08/18,suppressed,5.77,high
+Georgia,McIntosh County,13191,2021/08/18,799.830,28.27,high
+Indiana,Scott County,18143,2021/08/18,473.340,10.67,high
+Georgia,Cobb County,13067,2021/08/18,392.300,12.78,high
+Kentucky,Jackson County,21109,2021/08/18,705.230,21.78,high
+Minnesota,Stevens County,27149,2021/08/18,163.180,1.29,high
+Mississippi,Pearl River County,28109,2021/08/18,"1,213.650",27.91,high
+Colorado,La Plata County,08067,2021/08/18,190.320,4.90,high
+Colorado,Weld County,08123,2021/08/18,179.670,10.72,high
+Kansas,Pawnee County,20145,2021/08/18,suppressed,0.00,moderate
+Kentucky,Grant County,21081,2021/08/18,374.970,8.94,high
+South Carolina,Richland County,45079,2021/08/18,431.020,10.83,high
+Virginia,Stafford County,51179,2021/08/18,197.540,11.25,high
+Washington,Benton County,53005,2021/08/18,672.240,42.83,high
+Kansas,Linn County,20107,2021/08/18,525.610,28.57,high
+Minnesota,Dakota County,27037,2021/08/18,143.120,5.40,high
+North Dakota,Nelson County,38063,2021/08/18,suppressed,7.14,moderate
+Tennessee,Lawrence County,47099,2021/08/18,482.530,22.40,high
+Wisconsin,Monroe County,55081,2021/08/18,175.120,5.55,high
+Georgia,Randolph County,13243,2021/08/18,"1,047.510",12.50,high
+Idaho,Clark County,16033,2021/08/18,0.000,,low
+Kentucky,Taylor County,21217,2021/08/18,609.260,16.09,high
+Kentucky,Woodford County,21239,2021/08/18,254.360,7.41,high
+Minnesota,Murray County,27101,2021/08/18,suppressed,7.48,substantial
+Texas,Somervell County,48425,2021/08/18,339.610,11.76,high
+Virginia,Buena Vista City,51530,2021/08/18,169.810,12.63,high
+Georgia,Ben Hill County,13017,2021/08/18,"1,029.940",18.85,high
+Missouri,Washington County,29221,2021/08/18,343.710,16.43,high
+Montana,Missoula County,30063,2021/08/18,175.590,10.44,high
+Oregon,Clatsop County,41007,2021/08/18,559.370,14.79,high
+Georgia,Banks County,13011,2021/08/18,337.940,26.70,high
+Maryland,Dorchester County,24019,2021/08/18,281.880,8.30,high
+Nebraska,Washington County,31177,2021/08/18,0.000,13.79,high
+Oregon,Gilliam County,41021,2021/08/18,575.310,,high
+Florida,Flagler County,12035,2021/08/18,611.740,16.58,high
+Louisiana,Plaquemines Parish,22075,2021/08/18,763.030,16.87,high
+Vermont,Rutland County,50021,2021/08/18,72.180,3.43,substantial
+Virginia,Falls Church City,51610,2021/08/18,suppressed,1.56,moderate
+Arkansas,Polk County,05113,2021/08/18,435.780,15.16,high
+Missouri,Iron County,29093,2021/08/18,246.910,3.88,high
+Texas,Howard County,48227,2021/08/18,313.660,10.32,high
+Virginia,Appomattox County,51011,2021/08/18,333.100,29.25,high
+Virginia,Loudoun County,51107,2021/08/18,84.640,4.82,substantial
+Delaware,New Castle County,10003,2021/08/18,152.300,5.63,high
+Kansas,Doniphan County,20043,2021/08/18,434.210,25.69,high
+Michigan,Manistee County,26101,2021/08/18,138.450,6.32,high
+Missouri,St. Francois County,29187,2021/08/18,406.160,11.67,high
+New York,Queens County,36081,2021/08/18,195.620,3.77,high
+North Carolina,Stanly County,37167,2021/08/18,452.190,15.29,high
+South Carolina,Greenville County,45045,2021/08/18,365.200,14.71,high
+Virginia,Culpeper County,51047,2021/08/18,169.190,5.24,high
+Missouri,Montgomery County,29139,2021/08/18,225.090,2.70,high
+Virginia,Petersburg City,51730,2021/08/18,245.650,8.50,high
+Alabama,Wilcox County,01131,2021/08/18,202.450,24.07,high
+New Jersey,Burlington County,34005,2021/08/18,159.200,5.40,high
+North Carolina,Rowan County,37159,2021/08/18,458.870,20.12,high
+Virginia,Charlotte County,51037,2021/08/18,176.770,15.09,high
+Alabama,Jefferson County,01073,2021/08/18,560.760,18.66,high
+North Carolina,Vance County,37181,2021/08/18,220.050,6.76,high
+North Dakota,Slope County,38087,2021/08/18,0.000,,low
+California,San Mateo County,06081,2021/08/18,128.360,3.45,high
+Illinois,Jasper County,17079,2021/08/18,312.170,6.25,high
+Illinois,Pike County,17149,2021/08/18,661.910,5.88,high
+Iowa,Van Buren County,19177,2021/08/18,212.950,12.70,high
+Maine,Somerset County,23025,2021/08/18,97.060,8.29,substantial
+Minnesota,Hennepin County,27053,2021/08/18,156.890,5.04,high
+Ohio,Wood County,39173,2021/08/18,111.610,9.64,high
+South Dakota,Hanson County,46061,2021/08/18,suppressed,,moderate
+Louisiana,Webster Parish,22119,2021/08/18,672.930,15.29,high
+Montana,Ravalli County,30081,2021/08/18,118.710,6.88,high
+Pennsylvania,Delaware County,42045,2021/08/18,86.990,4.78,substantial
+Puerto Rico,Añasco Muno,72011,2021/08/18,279.040,28.28,high
+Iowa,Madison County,19121,2021/08/18,226.470,21.27,high
+Kentucky,Muhlenberg County,21177,2021/08/18,561.690,14.31,high
+Minnesota,Red Lake County,27125,2021/08/18,suppressed,2.04,moderate
+Pennsylvania,Centre County,42027,2021/08/18,73.280,5.53,substantial
+West Virginia,Calhoun County,54013,2021/08/18,suppressed,7.91,substantial
+Wisconsin,Winnebago County,55139,2021/08/18,162.300,5.95,high
+Florida,Hernando County,12053,2021/08/18,780.220,29.67,high
+Georgia,Murray County,13213,2021/08/18,463.890,19.92,high
+Georgia,Wilkes County,13317,2021/08/18,suppressed,11.54,high
+New Mexico,Lea County,35025,2021/08/18,"1,470.380",17.64,high
+Puerto Rico,Luquillo Muno,72089,2021/08/18,215.110,17.92,high
+North Carolina,Brunswick County,37019,2021/08/18,452.320,18.97,high
+Missouri,St. Charles County,29183,2021/08/18,246.010,12.77,high
+Oregon,Wasco County,41065,2021/08/18,416.010,21.14,high
+Virginia,Madison County,51113,2021/08/18,suppressed,7.14,substantial
+New York,Yates County,36123,2021/08/18,76.270,7.30,substantial
+Texas,Morris County,48343,2021/08/18,524.700,27.59,high
+Wyoming,Teton County,56039,2021/08/18,481.590,7.96,high
+Connecticut,New London County,09011,2021/08/18,167.790,4.93,high
+Georgia,Upson County,13293,2021/08/18,801.670,21.05,high
+Idaho,Payette County,16075,2021/08/18,292.260,22.49,high
+Missouri,Clark County,29045,2021/08/18,426.660,29.76,high
+Tennessee,Franklin County,47051,2021/08/18,438.310,20.44,high
+Massachusetts,Berkshire County,25003,2021/08/18,116.850,2.72,high
+Ohio,Henry County,39069,2021/08/18,107.380,10.95,high
+Ohio,Meigs County,39105,2021/08/18,100.410,8.09,high
+Puerto Rico,Yabucoa Muno,72151,2021/08/18,92.930,5.23,substantial
+North Dakota,Morton County,38059,2021/08/18,146.660,4.86,high
+Minnesota,Mille Lacs County,27095,2021/08/18,175.060,7.54,high
+Colorado,Broomfield County,08014,2021/08/18,143.330,5.70,high
+Minnesota,Freeborn County,27047,2021/08/18,287.310,11.36,high
+Nebraska,Burt County,31021,2021/08/18,0.000,,low
+Virginia,Danville City,51590,2021/08/18,234.740,11.77,high
+Kentucky,Pike County,21195,2021/08/18,646.210,18.33,high
+Michigan,Alger County,26003,2021/08/18,suppressed,2.38,substantial
+New York,Orange County,36071,2021/08/18,195.610,6.18,high
+Wisconsin,Ashland County,55003,2021/08/18,96.390,2.72,substantial
+Louisiana,Lafayette Parish,22055,2021/08/18,752.490,18.74,high
+Louisiana,Morehouse Parish,22067,2021/08/18,751.790,9.66,high
+Nevada,Elko County,32007,2021/08/18,140.210,21.69,high
+Idaho,Boundary County,16021,2021/08/18,106.170,14.66,high
+Kansas,Barber County,20007,2021/08/18,suppressed,14.29,high
+Mississippi,Sharkey County,28125,2021/08/18,555.430,40.91,high
+Texas,Delta County,48119,2021/08/18,393.920,23.81,high
+Alaska,Dillingham CA,02070,2021/08/18,589.910,,high
+California,Nevada County,06057,2021/08/18,437.070,14.34,high
+Colorado,Huerfano County,08055,2021/08/18,144.990,4.65,high
+Kentucky,Scott County,21209,2021/08/18,336.820,4.61,high
+Mississippi,Adams County,28001,2021/08/18,589.710,16.17,high
+Nebraska,Colfax County,31037,2021/08/18,0.000,19.05,high
+Massachusetts,Bristol County,25005,2021/08/18,149.500,4.75,high
+Minnesota,Grant County,27051,2021/08/18,suppressed,5.05,high
+Mississippi,DeSoto County,28033,2021/08/18,485.010,20.74,high
+Wisconsin,Sawyer County,55113,2021/08/18,126.830,6.57,high
+Illinois,McHenry County,17111,2021/08/18,145.560,8.80,high
+Texas,Collin County,48085,2021/08/18,301.820,13.96,high
+Wisconsin,La Crosse County,55063,2021/08/18,151.670,3.08,high
+Puerto Rico,Maricao Muno,72093,2021/08/18,suppressed,4.17,moderate
+Georgia,Marion County,13197,2021/08/18,669.940,37.18,high
+Kentucky,Powell County,21197,2021/08/18,485.480,11.40,high
+Louisiana,Assumption Parish,22007,2021/08/18,539.030,15.42,high
+Louisiana,Tangipahoa Parish,22105,2021/08/18,820.730,15.62,high
+West Virginia,Mingo County,54059,2021/08/18,243.340,10.28,high
+Arkansas,Newton County,05101,2021/08/18,451.440,11.29,high
+Florida,St. Lucie County,12111,2021/08/18,625.350,26.73,high
+Louisiana,Avoyelles Parish,22009,2021/08/18,966.520,10.97,high
+South Dakota,Haakon County,46055,2021/08/18,suppressed,,high
+Alaska,Kenai Peninsula Borough,02122,2021/08/18,645.570,8.49,high
+Iowa,Montgomery County,19137,2021/08/18,suppressed,18.89,high
+Kentucky,Gallatin County,21077,2021/08/18,338.260,14.29,high
+Nebraska,Thurston County,31173,2021/08/18,0.000,,low
+Kentucky,Russell County,21207,2021/08/18,608.160,12.93,high
+Alabama,Washington County,01129,2021/08/18,600.270,19.90,high
+Illinois,Massac County,17127,2021/08/18,457.450,8.37,high
+Ohio,Holmes County,39075,2021/08/18,113.740,15.45,high
+Texas,San Patricio County,48409,2021/08/18,415.110,33.95,high
+Oklahoma,Canadian County,40017,2021/08/18,314.890,20.71,high
+Georgia,Gordon County,13129,2021/08/18,464.090,18.90,high
+Wisconsin,Marinette County,55075,2021/08/18,198.270,4.75,high
+Puerto Rico,Trujillo Alto Muno,72139,2021/08/18,188.460,13.92,high
+Alabama,Blount County,01009,2021/08/18,437.520,25.93,high
+Texas,Grimes County,48185,2021/08/18,356.650,12.86,high
+Puerto Rico,Camuy Muno,72027,2021/08/18,163.910,18.35,high
+New York,Wayne County,36117,2021/08/18,127.890,6.67,high
+New Mexico,Taos County,35055,2021/08/18,76.400,4.73,substantial
+Ohio,Monroe County,39111,2021/08/18,234.360,10.17,high
+Ohio,Warren County,39165,2021/08/18,171.350,8.24,high
+South Dakota,Turner County,46125,2021/08/18,131.200,36.36,high
+Colorado,Gilpin County,08047,2021/08/18,suppressed,8.33,high
+Iowa,Harrison County,19085,2021/08/18,142.360,8.00,high
+Mississippi,Panola County,28107,2021/08/18,643.430,20.62,high
+New Jersey,Middlesex County,34023,2021/08/18,123.630,5.23,high
+North Carolina,Catawba County,37035,2021/08/18,442.490,15.77,high
+South Carolina,Sumter County,45085,2021/08/18,423.530,13.90,high
+Texas,Irion County,48235,2021/08/18,suppressed,,high
+Texas,Medina County,48325,2021/08/18,348.950,25.46,high
+Illinois,Grundy County,17063,2021/08/18,213.500,10.15,high
+Illinois,Pope County,17151,2021/08/18,suppressed,8.47,high
+Indiana,Shelby County,18145,2021/08/18,228.040,6.50,high
+Kansas,Comanche County,20033,2021/08/18,suppressed,,high
+Kentucky,Letcher County,21133,2021/08/18,570.690,19.03,high
+Mississippi,Copiah County,28029,2021/08/18,491.720,16.18,high
+Oregon,Polk County,41053,2021/08/18,246.270,11.79,high
+Texas,Runnels County,48399,2021/08/18,282.540,16.33,high
+Kentucky,Perry County,21193,2021/08/18,780.340,13.00,high
+West Virginia,Tyler County,54095,2021/08/18,221.160,13.89,high
+Georgia,Bacon County,13005,2021/08/18,"1,074.880",27.56,high
+Michigan,Bay County,26017,2021/08/18,106.670,10.79,high
+Texas,Cherokee County,48073,2021/08/18,360.900,5.88,high
+Wisconsin,Green County,55045,2021/08/18,105.520,10.41,high
+California,El Dorado County,06017,2021/08/18,246.830,9.90,high
+Florida,Indian River County,12061,2021/08/18,632.800,27.32,high
+Kentucky,Calloway County,21035,2021/08/18,328.200,12.31,high
+Louisiana,Vermilion Parish,22113,2021/08/18,972.930,17.93,high
+Mississippi,Lafayette County,28071,2021/08/18,444.290,10.85,high
+Illinois,Knox County,17095,2021/08/18,160.970,4.51,high
+Mississippi,Jackson County,28059,2021/08/18,"1,083.440",38.75,high
+Utah,Utah County,49049,2021/08/18,223.190,13.02,high
+Wyoming,Sheridan County,56033,2021/08/18,390.360,8.21,high
+Puerto Rico,Arroyo Muno,72015,2021/08/18,58.010,8.14,substantial
+Puerto Rico,Barranquitas Muno,72019,2021/08/18,68.530,14.02,high
+Michigan,Oscoda County,26135,2021/08/18,suppressed,6.67,substantial
+North Carolina,Jackson County,37099,2021/08/18,407.390,20.48,high
+North Carolina,Madison County,37115,2021/08/18,395.310,12.72,high
+Tennessee,Bradley County,47011,2021/08/18,443.070,21.63,high
+Virginia,Hampton City,51650,2021/08/18,243.100,13.60,high
+Virginia,Salem City,51775,2021/08/18,237.140,10.13,high
+Washington,Skagit County,53057,2021/08/18,337.450,23.23,high
+Wisconsin,Pierce County,55093,2021/08/18,86.540,5.59,substantial
+Puerto Rico,Hatillo Muno,72065,2021/08/18,196.340,17.45,high
+Alabama,Sumter County,01119,2021/08/18,209.220,16.87,high
+Connecticut,Hartford County,09003,2021/08/18,142.200,5.37,high
+Michigan,Presque Isle County,26141,2021/08/18,suppressed,3.17,substantial
+Minnesota,Crow Wing County,27035,2021/08/18,144.490,9.99,high
+Mississippi,Yalobusha County,28161,2021/08/18,685.500,8.37,high
+Missouri,Atchison County,29005,2021/08/18,602.760,16.00,high
+Ohio,Pickaway County,39129,2021/08/18,239.490,8.28,high
+Texas,Kimble County,48267,2021/08/18,322.800,20.00,high
+Texas,McCulloch County,48307,2021/08/18,313.130,30.43,high
+West Virginia,Raleigh County,54081,2021/08/18,207.190,7.64,high
+Indiana,Fulton County,18049,2021/08/18,265.340,15.05,high
+Oregon,Clackamas County,41005,2021/08/18,210.190,7.62,high
+Iowa,Jones County,19105,2021/08/18,149.900,22.82,high
+Texas,Gillespie County,48171,2021/08/18,311.250,12.50,high
+Texas,Grayson County,48181,2021/08/18,301.740,21.14,high
+Virginia,Sussex County,51183,2021/08/18,170.270,13.08,high
+Kansas,Brown County,20013,2021/08/18,250.940,7.84,high
+Pennsylvania,Snyder County,42109,2021/08/18,74.310,3.62,substantial
+Wisconsin,Walworth County,55127,2021/08/18,154.040,7.09,high
+Colorado,Montrose County,08085,2021/08/18,149.680,4.93,high
+New Mexico,Catron County,35003,2021/08/18,suppressed,20.93,high
+New Mexico,Doña Ana County,35013,2021/08/18,163.160,7.35,high
+Illinois,Jersey County,17083,2021/08/18,192.900,8.14,high
+Massachusetts,Barnstable County,25001,2021/08/18,71.830,2.51,substantial
+Texas,Taylor County,48441,2021/08/18,425.260,11.92,high
+Minnesota,Faribault County,27043,2021/08/18,117.190,9.17,high
+Idaho,Power County,16077,2021/08/18,suppressed,37.50,high
+Iowa,Guthrie County,19077,2021/08/18,102.910,10.53,high
+Louisiana,Rapides Parish,22079,2021/08/18,856.160,10.12,high
+New Hampshire,Hillsborough County,33011,2021/08/18,98.560,4.70,substantial
+Texas,Crosby County,48107,2021/08/18,348.610,32.26,high
+Indiana,Hendricks County,18063,2021/08/18,253.650,13.81,high
+North Carolina,Union County,37179,2021/08/18,366.050,15.71,high
+Texas,Camp County,48063,2021/08/18,610.970,46.30,high
+Puerto Rico,Salinas Muno,72123,2021/08/18,62.670,10.16,high
+Colorado,Pitkin County,08097,2021/08/18,101.310,1.84,high
+Idaho,Gem County,16045,2021/08/18,369.920,11.78,high
+Oregon,Linn County,41043,2021/08/18,329.100,12.96,high
+Washington,Spokane County,53063,2021/08/18,355.200,11.01,high
+Maine,Waldo County,23027,2021/08/18,219.060,10.25,high
+Missouri,Cooper County,29053,2021/08/18,282.340,13.25,high
+Missouri,Marion County,29127,2021/08/18,529.270,18.28,high
+Texas,Donley County,48129,2021/08/18,suppressed,14.29,high
+Kentucky,Trimble County,21223,2021/08/18,554.830,21.95,high
+Louisiana,West Baton Rouge Parish,22121,2021/08/18,774.610,20.13,high
+Mississippi,Washington County,28151,2021/08/18,446.380,13.78,high
+Utah,Weber County,49057,2021/08/18,230.200,12.78,high
+Arizona,Yuma County,04027,2021/08/18,170.260,14.22,high
+California,Santa Cruz County,06087,2021/08/18,151.900,5.26,high
+Georgia,Jasper County,13159,2021/08/18,471.200,17.70,high
+Missouri,Cass County,29037,2021/08/18,358.290,17.53,high
+Nebraska,Dundy County,31057,2021/08/18,0.000,,low
+Ohio,Geauga County,39055,2021/08/18,119.600,6.72,high
+Ohio,Tuscarawas County,39157,2021/08/18,133.710,11.91,high
+Georgia,Coweta County,13077,2021/08/18,391.900,21.55,high
+Minnesota,Kanabec County,27065,2021/08/18,104.060,9.71,high
+New York,Schenectady County,36093,2021/08/18,179.010,7.77,high
+North Dakota,Sheridan County,38083,2021/08/18,0.000,,low
+North Dakota,Ward County,38101,2021/08/18,214.370,5.21,high
+Oregon,Union County,41061,2021/08/18,510.530,13.99,high
+Kansas,McPherson County,20113,2021/08/18,199.710,15.27,high
+Nebraska,Fillmore County,31059,2021/08/18,0.000,22.73,high
+Colorado,Logan County,08075,2021/08/18,58.010,1.27,substantial
+Missouri,Worth County,29227,2021/08/18,0.000,18.92,high
+Oregon,Lake County,41037,2021/08/18,suppressed,3.70,moderate
+Virginia,Albemarle County,51003,2021/08/18,104.270,4.57,high
+Puerto Rico,San Germán Muno,72125,2021/08/18,86.020,16.45,high
+Colorado,Eagle County,08037,2021/08/18,357.360,16.38,high
+Georgia,Bleckley County,13023,2021/08/18,706.910,22.94,high
+Tennessee,Gibson County,47053,2021/08/18,936.230,25.00,high
+Illinois,Menard County,17129,2021/08/18,262.380,7.32,high
+Missouri,Wright County,29229,2021/08/18,169.500,6.51,high
+North Dakota,Renville County,38075,2021/08/18,suppressed,7.14,high
+Tennessee,White County,47185,2021/08/18,332.780,20.45,high
+Alaska,Aleutians West CA,02016,2021/08/18,suppressed,11.63,high
+Texas,Hale County,48189,2021/08/18,269.410,10.20,high
+Virginia,Chesapeake City,51550,2021/08/18,243.840,13.02,high
+Wisconsin,Outagamie County,55087,2021/08/18,145.300,9.12,high
+Indiana,DeKalb County,18033,2021/08/18,234.620,16.10,high
+North Dakota,Golden Valley County,38033,2021/08/18,suppressed,,high
+Texas,Throckmorton County,48447,2021/08/18,suppressed,,high
+West Virginia,Logan County,54045,2021/08/18,265.470,13.28,high
+Georgia,Habersham County,13137,2021/08/18,295.620,19.58,high
+Georgia,Troup County,13285,2021/08/18,466.230,24.78,high
+Illinois,Mercer County,17131,2021/08/18,272.070,14.00,high
+Wisconsin,Pepin County,55091,2021/08/18,150.950,8.00,high
+Georgia,Chatham County,13051,2021/08/18,658.880,18.83,high
+South Dakota,Buffalo County,46017,2021/08/18,suppressed,,substantial
+Texas,Erath County,48143,2021/08/18,348.960,30.67,high
+Arkansas,Crittenden County,05035,2021/08/18,571.370,13.31,high
+California,Inyo County,06027,2021/08/18,110.870,,high
+Florida,Lake County,12069,2021/08/18,678.530,23.12,high
+Illinois,Vermilion County,17183,2021/08/18,434.280,10.77,high
+Minnesota,Nicollet County,27103,2021/08/18,107.950,5.58,high
+Minnesota,Nobles County,27105,2021/08/18,161.820,3.47,high
