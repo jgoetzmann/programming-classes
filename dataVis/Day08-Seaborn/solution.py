@@ -42,10 +42,10 @@ sns.set_style("darkgrid")
 # ax.set_ylim(0, 200)
 # plt.show()
 
-# # Figure 7 - Heatmap
-# corr = stats_df.corr()
-# sns.heatmap(corr)
-# plt.show()
+# Figure 7 - Heatmap
+corr = stats_df.corr()
+sns.heatmap(corr)
+plt.show()
 
 # # Figure 8 - Histograms and KDE
 # sns.histplot(df, x='Attack', kde=True)

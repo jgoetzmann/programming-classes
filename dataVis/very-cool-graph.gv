@@ -1,0 +1,22 @@
+graph "very-cool-graph" {
+	Start [label=Begin]
+	W1 [label="9/10 Win"]
+	L1 [label="1/10 Loss"]
+	W2 [label="8/9 Win"]
+	L2 [label="1/9 Loss"]
+	W3 [label="7/8 Win"]
+	L3 [label="1/8 Loss"]
+	Start -- W1
+	Start -- L1
+	W1 -- W2
+	W1 -- L2
+	W2 -- W3
+	W2 -- L3
+	Start [label=<<TABLE border="0" cellborder="1" cellspacing="0" cellpadding="4">
+			<TR> <TD> <B>Very Cool Game</B><BR/>You either win or lose </TD> </TR>
+			<TR> <TD align="left"><BR align="left"/>
+			now find the probability you make it to the end
+			<BR align="left"/></TD> </TR>
+		</TABLE>> color="#000000" shape=plain]
+	L3 [label=<<B>So close to the end, what a shame</B>>]
+}

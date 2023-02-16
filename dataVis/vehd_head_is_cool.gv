@@ -1,17 +1,15 @@
 graph vehd_head_is_cool {
-	A [label=CEO color=black]
-	B [label="Team A Lead" color=skyblue style=filled]
-	C [label="Team B Lead" color=mistyrose style=filled]
-	D [label="Staff A" color=skyblue style=filled]
-	E [label="Staff B" color=skyblue style=filled]
-	F [label="Staff C" color=mistyrose style=filled]
-	G [label="Staff D" color=mistyrose style=filled]
-	H [label="Staff E" color=mistyrose style=filled]
-	A -- B
-	A -- C
-	B -- D
-	B -- E
-	C -- F
-	C -- G
-	C -- H
+	root [label=start]
+	"1W" [label="9/10"]
+	"1L" [label="1/10"]
+	"2W" [label="8/9"]
+	"2L" [label="1/9"]
+	"3W" [label="7/8"]
+	"3L" [label="1/8"]
+	start -- "9/10"
+	start -- "1/10"
+	"9/10" -- "8/9"
+	"9/10" -- "1/9"
+	"8/9" -- "7/8"
+	"8/9" -- "1/8"
 }
