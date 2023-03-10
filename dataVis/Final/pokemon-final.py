@@ -63,6 +63,12 @@ print(merged_stats.info())
 print(merged_stats.columns)
 # print(merged_stats)
 
+### Pre Viz
+
+# Figure 1 - Default Plot
+sns.lmplot(x='Rank', y='Real', data = merged_stats)
+plt.show()
+
 ### Graph 1 - heatmap
 
 # Get the correlation between each column in merged_stats dataframe
